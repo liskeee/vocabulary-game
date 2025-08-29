@@ -1,322 +1,322 @@
 [
   {
     "uuid": "6f0a27aa-6981-4924-ab5f-340920ddcf44",
-    "sentence": "The company's new policy will _____ all employees to work from home twice a week.",
-    "correctAnswer": "enable",
+    "sentence": "I need to _____ my phone before going to work.",
+    "correctAnswer": "charge",
     "distractors": [
-      "disable",
-      "prevent",
-      "forbid"
+      "break",
+      "lose",
+      "forget"
     ],
-    "explanation": "Enable means to give someone the authority or means to do something. In this context, the policy gives employees the ability to work from home.",
+    "explanation": "Charge means to give power to a battery. You charge your phone to make sure it has power.",
     "incorrectExplanations": {
-      "disable": "Disable means to make something unable to function or to remove someone's ability to do something. This would contradict a policy that allows working from home.",
-      "prevent": "Prevent means to stop something from happening. A policy that prevents working from home would be the opposite of what's described.",
-      "forbid": "Forbid means to refuse to allow something. This would mean the policy prohibits working from home, which contradicts the sentence."
+      "break": "Break means to damage something. You don't want to break your phone before work.",
+      "lose": "Lose means to misplace something. Losing your phone would be bad before work.",
+      "forget": "Forget means to not remember. While you might forget your phone, the sentence suggests preparation."
     }
   },
   {
     "uuid": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "She decided to _____ her old furniture and buy something new.",
-    "correctAnswer": "discard",
+    "sentence": "She decided to _____ her old clothes and buy something new.",
+    "correctAnswer": "donate",
     "distractors": [
       "keep",
-      "repair",
-      "clean"
+      "wear",
+      "wash"
     ],
-    "explanation": "Discard means to throw away or get rid of something you no longer want.",
+    "explanation": "Donate means to give away to charity. Many people donate old clothes when buying new ones.",
     "incorrectExplanations": {
-      "keep": "Keep means to retain or continue to have something. This contradicts the idea of buying something new to replace it.",
-      "repair": "Repair means to fix something that is broken. While possible, it doesn't align with the decision to buy something new.",
-      "clean": "Clean means to make something free of dirt. This doesn't explain why she would buy new furniture."
+      "keep": "Keep means to hold onto something. This contradicts buying something new to replace it.",
+      "wear": "Wear means to put on clothes. If she's buying new clothes, she probably doesn't want to wear the old ones.",
+      "wash": "Wash means to clean. Washing doesn't explain why she would buy new clothes."
     }
   },
   {
     "uuid": "6ba7b811-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The company's profits have _____ significantly this quarter.",
-    "correctAnswer": "declined",
+    "sentence": "The price of gas has _____ a lot this month.",
+    "correctAnswer": "increased",
     "distractors": [
-      "increased",
-      "remained",
-      "doubled"
+      "stayed",
+      "disappeared",
+      "improved"
     ],
-    "explanation": "Declined means decreased or went down, often used in business contexts.",
+    "explanation": "Increased means went up or became higher. Gas prices often increase.",
     "incorrectExplanations": {
-      "increased": "Increased means went up or grew larger. This would be positive news, not something that happens 'significantly' in a concerning context.",
-      "remained": "Remained means stayed the same. If profits remained the same, they wouldn't have changed 'significantly'.",
-      "doubled": "Doubled means became twice as large. This would be extremely positive growth, not a decline."
+      "stayed": "Stayed means remained the same. If prices stayed the same, they wouldn't have changed 'a lot'.",
+      "disappeared": "Disappeared means vanished completely. Gas prices don't disappear.",
+      "improved": "Improved means got better. Higher gas prices are not usually considered an improvement for consumers."
     }
   },
   {
     "uuid": "6ba7b812-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "His _____ behavior at the meeting was completely inappropriate.",
-    "correctAnswer": "erratic",
+    "sentence": "His _____ behavior at dinner made everyone uncomfortable.",
+    "correctAnswer": "rude",
     "distractors": [
-      "calm",
-      "professional",
+      "polite",
+      "friendly",
       "quiet"
     ],
-    "explanation": "Erratic means unpredictable or inconsistent, often in a problematic way.",
+    "explanation": "Rude means not polite or respectful. Rude behavior makes people uncomfortable.",
     "incorrectExplanations": {
-      "calm": "Calm means peaceful and composed. Calm behavior would be appropriate, not inappropriate, at a meeting.",
-      "professional": "Professional means showing competence and skill. Professional behavior would be appropriate, not inappropriate.",
-      "quiet": "Quiet means making little noise. Being quiet at a meeting is generally appropriate behavior."
+      "polite": "Polite means showing good manners. Polite behavior would make people comfortable, not uncomfortable.",
+      "friendly": "Friendly means kind and nice. Friendly behavior would make people feel good.",
+      "quiet": "Quiet means not making much noise. Being quiet at dinner is usually fine."
     }
   },
   {
     "uuid": "6ba7b813-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The research findings were truly _____.",
-    "correctAnswer": "groundbreaking",
+    "sentence": "The movie was really _____.",
+    "correctAnswer": "exciting",
     "distractors": [
-      "small",
       "boring",
-      "expected"
+      "short",
+      "old"
     ],
-    "explanation": "Groundbreaking means innovative or pioneering, introducing new ideas or methods.",
+    "explanation": "Exciting means thrilling and interesting. A really good movie is exciting.",
     "incorrectExplanations": {
-      "small": "Small means little in size or extent. Research findings described as 'truly' something would be significant, not small.",
-      "boring": "Boring means dull or uninteresting. Truly significant research findings would be exciting, not boring.",
-      "expected": "Expected means anticipated or predicted. Groundbreaking findings are surprising and unexpected, not predictable."
+      "boring": "Boring means dull and uninteresting. A 'really' good movie wouldn't be boring.",
+      "short": "Short means not long in time. While a movie might be short, this doesn't capture the quality.",
+      "old": "Old means from a long time ago. Age doesn't determine if a movie is really good."
     }
   },
   {
     "uuid": "6ba7b814-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "I need to _____ my presentation before tomorrow's meeting.",
-    "correctAnswer": "finalize",
+    "sentence": "I need to _____ my homework before class tomorrow.",
+    "correctAnswer": "finish",
     "distractors": [
       "start",
       "forget",
-      "cancel"
+      "lose"
     ],
-    "explanation": "Finalize means to complete or put the finishing touches on something.",
+    "explanation": "Finish means to complete something. You need to finish homework before class.",
     "incorrectExplanations": {
-      "start": "Start means to begin something. If the meeting is tomorrow, the presentation should already be in progress, not just starting.",
-      "forget": "Forget means to fail to remember. This would be counterproductive before an important meeting.",
-      "cancel": "Cancel means to call off or abandon. This doesn't make sense in the context of preparing for a meeting."
+      "start": "Start means to begin. If class is tomorrow, you should have already started your homework.",
+      "forget": "Forget means to not remember. Forgetting homework would be bad for class.",
+      "lose": "Lose means to misplace something. Losing homework would create problems for class."
     }
   },
   {
     "uuid": "6ba7b815-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The new software will _____ the efficiency of our workflow.",
-    "correctAnswer": "enhance",
+    "sentence": "This new app will _____ my daily routine.",
+    "correctAnswer": "improve",
     "distractors": [
-      "reduce",
+      "ruin",
       "complicate",
-      "eliminate"
+      "end"
     ],
-    "explanation": "Enhance means to improve or increase the quality, value, or extent of something.",
+    "explanation": "Improve means to make better. Good apps are designed to improve your life.",
     "incorrectExplanations": {
-      "reduce": "Reduce means to make smaller or less. New software is typically implemented to improve, not decrease efficiency.",
-      "complicate": "Complicate means to make something more difficult. Good software should simplify workflows, not make them more complex.",
-      "eliminate": "Eliminate means to completely remove. Software doesn't remove workflow efficiency; it aims to improve it."
+      "ruin": "Ruin means to destroy or damage. You wouldn't want an app to ruin your routine.",
+      "complicate": "Complicate means to make more difficult. Good apps should make things easier, not harder.",
+      "end": "End means to stop completely. Apps don't end your routine; they help with it."
     }
   },
   {
     "uuid": "6ba7b816-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The restaurant's _____ atmosphere made everyone feel welcome.",
-    "correctAnswer": "inviting",
+    "sentence": "The coffee shop has a very _____ atmosphere.",
+    "correctAnswer": "cozy",
     "distractors": [
-      "hostile",
+      "unfriendly",
       "cold",
-      "empty"
+      "noisy"
     ],
-    "explanation": "Inviting means welcoming or attractive, making people want to enter or participate.",
+    "explanation": "Cozy means warm and comfortable. Good coffee shops have a cozy atmosphere.",
     "incorrectExplanations": {
-      "hostile": "Hostile means unfriendly or aggressive. A hostile atmosphere would make people feel unwelcome, not welcome.",
-      "cold": "Cold means lacking warmth or friendliness. A cold atmosphere would not make people feel welcome.",
-      "empty": "Empty means containing nothing or having few people. While a restaurant might be empty, this doesn't describe an atmosphere that makes people feel welcome."
+      "unfriendly": "Unfriendly means not nice or welcoming. This would make a coffee shop unpleasant.",
+      "cold": "Cold means lacking warmth. A cold atmosphere wouldn't be inviting for customers.",
+      "noisy": "Noisy means loud. While some coffee shops are noisy, cozy describes the comfortable feeling better."
     }
   },
   {
     "uuid": "6ba7b817-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The politician tried to _____ the controversial topic during the debate.",
-    "correctAnswer": "circumvent",
+    "sentence": "She tried to _____ talking about her bad grade.",
+    "correctAnswer": "avoid",
     "distractors": [
-      "address",
       "discuss",
-      "explain"
+      "explain",
+      "share"
     ],
-    "explanation": "Circumvent means to avoid or find a way around something, often cleverly.",
+    "explanation": "Avoid means to stay away from or not do something. People often avoid talking about bad news.",
     "incorrectExplanations": {
-      "address": "Address means to deal with or speak about something directly. This is the opposite of avoiding a controversial topic.",
-      "discuss": "Discuss means to talk about something in detail. Politicians typically try to avoid, not discuss, controversial topics.",
-      "explain": "Explain means to make something clear by describing it. Politicians usually avoid explaining controversial topics during debates."
+      "discuss": "Discuss means to talk about something. This is the opposite of avoiding the topic.",
+      "explain": "Explain means to make something clear. This would involve talking about the grade, not avoiding it.",
+      "share": "Share means to tell others about something. This would mean talking about the grade, not avoiding it."
     }
   },
   {
     "uuid": "444eb563-ad4b-4ba0-8c03-d92f2aad3faf",
-    "sentence": "His _____ attitude made it difficult for others to work with him.",
-    "correctAnswer": "abrasive",
+    "sentence": "His _____ attitude made it hard for others to be around him.",
+    "correctAnswer": "negative",
     "distractors": [
-      "friendly",
-      "cooperative",
-      "pleasant"
+      "happy",
+      "helpful",
+      "kind"
     ],
-    "explanation": "Abrasive means harsh or rough in manner, causing irritation to others.",
+    "explanation": "Negative means pessimistic or unpleasant. A negative attitude pushes people away.",
     "incorrectExplanations": {
-      "friendly": "Friendly means kind and pleasant. A friendly attitude would make it easier, not difficult, to work with someone.",
-      "cooperative": "Cooperative means willing to work together. This would facilitate teamwork rather than hinder it.",
-      "pleasant": "Pleasant means giving satisfaction or enjoyment. A pleasant attitude would not make it difficult to work with someone."
+      "happy": "Happy means cheerful and joyful. A happy attitude would make people want to be around someone.",
+      "helpful": "Helpful means willing to assist others. This would make someone easy to be around.",
+      "kind": "Kind means caring and considerate. Kind people are pleasant to be around."
     }
   },
   {
     "uuid": "6ba7b818-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The team worked _____ to meet the tight deadline.",
-    "correctAnswer": "diligently",
+    "sentence": "The team worked _____ to finish the project on time.",
+    "correctAnswer": "hard",
     "distractors": [
-      "lazily",
       "slowly",
-      "carelessly"
+      "carelessly",
+      "badly"
     ],
-    "explanation": "Diligently means with careful and persistent effort, showing dedication.",
+    "explanation": "Hard means with great effort and energy. Working hard helps you finish projects on time.",
     "incorrectExplanations": {
-      "lazily": "Lazily means without effort or energy. Working lazily would not help meet a tight deadline.",
-      "slowly": "Slowly means at a low speed. Working slowly would make it harder to meet a tight deadline.",
-      "carelessly": "Carelessly means without attention or thought. Careless work might lead to mistakes and missed deadlines."
+      "slowly": "Slowly means at a low speed. Working slowly would make it harder to finish on time.",
+      "carelessly": "Carelessly means without paying attention. Careless work might cause mistakes and delays.",
+      "badly": "Badly means in a poor way. Working badly would not help finish a project successfully."
     }
   },
   {
     "uuid": "6ba7b819-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The weather was so _____ that we decided to stay indoors.",
-    "correctAnswer": "inclement",
+    "sentence": "The weather was so _____ that we stayed inside all day.",
+    "correctAnswer": "terrible",
     "distractors": [
-      "pleasant",
-      "mild",
-      "beautiful"
+      "nice",
+      "warm",
+      "sunny"
     ],
-    "explanation": "Inclement means harsh or severe weather, typically involving rain, snow, or storms.",
+    "explanation": "Terrible means very bad. Terrible weather makes people want to stay indoors.",
     "incorrectExplanations": {
-      "pleasant": "Pleasant means enjoyable or agreeable. Pleasant weather would encourage people to go outside, not stay indoors.",
-      "mild": "Mild means gentle or not severe. Mild weather would be comfortable for outdoor activities.",
-      "beautiful": "Beautiful means attractive or pleasing. Beautiful weather would make people want to go outside and enjoy it."
+      "nice": "Nice means pleasant and enjoyable. Nice weather would make people want to go outside.",
+      "warm": "Warm means having a comfortable temperature. Warm weather is usually good for going out.",
+      "sunny": "Sunny means bright with sunshine. Sunny weather typically encourages outdoor activities."
     }
   },
   {
     "uuid": "6ba7b81a-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The movie received _____ reviews from critics worldwide.",
-    "correctAnswer": "acclaimed",
+    "sentence": "The restaurant got _____ reviews online.",
+    "correctAnswer": "great",
     "distractors": [
-      "terrible",
-      "mixed",
-      "ignored"
+      "bad",
+      "few",
+      "no"
     ],
-    "explanation": "Acclaimed means praised enthusiastically and publicly, especially by critics.",
+    "explanation": "Great means excellent or very good. Restaurants want to receive great reviews.",
     "incorrectExplanations": {
-      "terrible": "Terrible means extremely bad. While movies can receive terrible reviews, 'acclaimed' suggests positive reception.",
-      "mixed": "Mixed means containing different types or having varied opinions. This doesn't convey the strong positive meaning of 'acclaimed'.",
-      "ignored": "Ignored means paid no attention to. If reviews were ignored, they wouldn't be described as 'acclaimed'."
+      "bad": "Bad means poor quality. While restaurants can get bad reviews, the context suggests positive feedback.",
+      "few": "Few means not many. This refers to quantity, not quality of reviews.",
+      "no": "No means zero. Having no reviews doesn't tell us about the quality."
     }
   },
   {
     "uuid": "6ba7b81b-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "We need to _____ our resources more effectively to succeed.",
-    "correctAnswer": "allocate",
+    "sentence": "We need to _____ our time better to get everything done.",
+    "correctAnswer": "manage",
     "distractors": [
       "waste",
-      "hide",
-      "ignore"
+      "lose",
+      "forget"
     ],
-    "explanation": "Allocate means to distribute resources or duties for a particular purpose.",
+    "explanation": "Manage means to organize and control something effectively. Good time management helps you accomplish tasks.",
     "incorrectExplanations": {
-      "waste": "Waste means to use carelessly or without purpose. Wasting resources would hinder success, not help achieve it.",
-      "hide": "Hide means to conceal or keep secret. Hiding resources would make them unavailable for use toward success.",
-      "ignore": "Ignore means to pay no attention to. Ignoring resources means not using them effectively for success."
+      "waste": "Waste means to use carelessly. Wasting time would make it harder to get everything done.",
+      "lose": "Lose means to misplace or not have anymore. You can't really lose time in this context.",
+      "forget": "Forget means to not remember. Forgetting about time wouldn't help you get things done."
     }
   },
   {
     "uuid": "9a795072-a219-4262-a371-8d1cb52866c8",
-    "sentence": "The medicine will help _____ your symptoms within a few hours.",
-    "correctAnswer": "alleviate",
+    "sentence": "This medicine will help _____ your headache.",
+    "correctAnswer": "relieve",
     "distractors": [
+      "cause",
       "worsen",
-      "ignore",
-      "cause"
+      "create"
     ],
-    "explanation": "Alleviate means to make pain, suffering, or problems less severe.",
+    "explanation": "Relieve means to reduce pain or discomfort. Medicine is designed to relieve symptoms.",
     "incorrectExplanations": {
-      "worsen": "Worsen means to make something worse. Medicine is designed to help, not make symptoms worse.",
-      "ignore": "Ignore means to pay no attention to something. Medicine actively treats symptoms rather than ignoring them.",
-      "cause": "Cause means to make something happen. Medicine treats existing symptoms rather than causing new ones."
+      "cause": "Cause means to make something happen. Medicine should help headaches, not cause them.",
+      "worsen": "Worsen means to make worse. Good medicine makes symptoms better, not worse.",
+      "create": "Create means to make something new. Medicine treats existing headaches rather than creating them."
     }
   },
   {
     "uuid": "6ba7b81d-9dad-11d1-80b4-00c04fd430c8",
-    "sentence": "The children were _____ to see the circus performers.",
-    "correctAnswer": "thrilled",
+    "sentence": "The kids were _____ to go to the amusement park.",
+    "correctAnswer": "excited",
     "distractors": [
-      "bored",
+      "sad",
       "scared",
       "tired"
     ],
-    "explanation": "Thrilled means feeling intense excitement and pleasure.",
+    "explanation": "Excited means feeling enthusiastic and eager. Kids usually get excited about fun activities.",
     "incorrectExplanations": {
-      "bored": "Bored means feeling weary from lack of interest. Children are typically excited, not bored, by circus performers.",
-      "scared": "Scared means frightened or afraid. While some circus acts might be scary, the context suggests positive excitement.",
-      "tired": "Tired means needing rest or sleep. Being tired doesn't capture the emotional response to seeing performers."
+      "sad": "Sad means unhappy. Kids would typically be happy, not sad, about going to an amusement park.",
+      "scared": "Scared means frightened. While some rides might be scary, kids are usually more excited than scared.",
+      "tired": "Tired means needing rest. Being tired doesn't capture the emotional response to a fun trip."
     }
   },
   {
     "uuid": "07df5209-88b0-4943-8779-ca472411d98c",
-    "sentence": "The company decided to _____ its outdated policies.",
-    "correctAnswer": "revise",
+    "sentence": "The store decided to _____ its old return policy.",
+    "correctAnswer": "change",
     "distractors": [
-      "maintain",
+      "keep",
       "ignore",
-      "enforce"
+      "hide"
     ],
-    "explanation": "Revise means to examine and make changes or corrections to improve something.",
+    "explanation": "Change means to make different or modify. Stores often change old policies to improve them.",
     "incorrectExplanations": {
-      "maintain": "Maintain means to keep something in its existing state. This contradicts updating outdated policies.",
-      "ignore": "Ignore means to pay no attention to. Ignoring outdated policies doesn't address the need for change.",
-      "enforce": "Enforce means to ensure compliance with rules. You can't effectively enforce outdated policies."
+      "keep": "Keep means to maintain the same. This contradicts updating an old policy.",
+      "ignore": "Ignore means to pay no attention to. Ignoring a policy doesn't address the need for updates.",
+      "hide": "Hide means to conceal. Hiding a policy would confuse customers."
     }
   },
   {
     "uuid": "e6f8e85b-e67f-4f4d-bc1e-b5d9098336c1",
-    "sentence": "The artist's work was _____ by critics and audiences alike.",
-    "correctAnswer": "lauded",
+    "sentence": "The singer's performance was _____ by everyone in the audience.",
+    "correctAnswer": "loved",
     "distractors": [
-      "criticized",
-      "dismissed",
-      "overlooked"
+      "hated",
+      "ignored",
+      "forgotten"
     ],
-    "explanation": "Lauded means praised or acclaimed, especially publicly.",
+    "explanation": "Loved means liked very much or adored. Great performances are loved by audiences.",
     "incorrectExplanations": {
-      "criticized": "Criticized means to express disapproval. This is the opposite of being praised by both critics and audiences.",
-      "dismissed": "Dismissed means to reject as unworthy of consideration. This contradicts positive reception.",
-      "overlooked": "Overlooked means to fail to notice or consider. This suggests lack of attention, not acclaim."
+      "hated": "Hated means strongly disliked. This would be the opposite of a good reception.",
+      "ignored": "Ignored means paid no attention to. Audiences don't typically ignore performances they're watching.",
+      "forgotten": "Forgotten means not remembered. A memorable performance wouldn't be forgotten."
     }
   },
   {
     "uuid": "a68556b0-92b1-4b85-8dc7-58ac1819d71a",
-    "sentence": "The detective needed to _____ the witness's testimony.",
-    "correctAnswer": "corroborate",
+    "sentence": "The police officer needed to _____ the witness's story.",
+    "correctAnswer": "check",
     "distractors": [
-      "dismiss",
-      "fabricate",
-      "contradict"
+      "ignore",
+      "make up",
+      "disagree with"
     ],
-    "explanation": "Corroborate means to confirm or give support to a statement or theory by providing evidence.",
+    "explanation": "Check means to examine or verify something. Police officers check witness stories to find the truth.",
     "incorrectExplanations": {
-      "dismiss": "Dismiss means to reject or disregard. A detective would want to verify, not dismiss testimony.",
-      "fabricate": "Fabricate means to invent or make up. Detectives seek truth, not fabricated evidence.",
-      "contradict": "Contradict means to assert the opposite. Detectives aim to verify, not oppose witness testimony."
+      "ignore": "Ignore means to pay no attention to. Police officers shouldn't ignore witness testimony.",
+      "make up": "Make up means to invent or create. Officers seek truth, not made-up stories.",
+      "disagree with": "Disagree with means to have a different opinion. Officers should verify, not just disagree."
     }
   },
   {
     "uuid": "b09a6fdb-20e2-418a-9b15-2ab53a496085",
-    "sentence": "The medication helped _____ her chronic pain.",
-    "correctAnswer": "mitigate",
+    "sentence": "The aspirin helped _____ her headache pain.",
+    "correctAnswer": "reduce",
     "distractors": [
-      "intensify",
+      "increase",
       "cause",
-      "prolong"
+      "create"
     ],
-    "explanation": "Mitigate means to make less severe, serious, or painful.",
+    "explanation": "Reduce means to make smaller or less. Aspirin reduces headache pain.",
     "incorrectExplanations": {
-      "intensify": "Intensify means to make stronger or more extreme. Medication aims to reduce, not increase pain.",
-      "cause": "Cause means to bring about. Medication treats existing pain rather than causing it.",
-      "prolong": "Prolong means to extend the duration. Good medication shortens pain duration, not extends it."
+      "increase": "Increase means to make bigger or more. Aspirin should decrease pain, not increase it.",
+      "cause": "Cause means to make something happen. Aspirin treats headaches rather than causing them.",
+      "create": "Create means to make something new. Aspirin helps existing headaches rather than creating them."
     }
   },
   {
