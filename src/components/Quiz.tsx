@@ -28,19 +28,57 @@ const Quiz: React.FC = () => {
           throw new Error('No vocabulary questions available');
         }
 
-        // Clear old cache and always start fresh to ensure updated explanations
-        localStorage.removeItem('vocabularyQuizState');
+        // Load saved state from localStorage
+        const savedState = localStorage.getItem('vocabularyQuizState');
+        let savedPoints = 0;
+        let savedScore = 0;
+        let savedCurrentQuestion = null;
+        let savedShuffledAnswers = [];
+        let savedRecentQuestions = [];
+        let savedSelectedAnswer: string | null = null;
+        let savedShowFeedback = false;
+        
+        if (savedState) {
+          try {
+            const parsed = JSON.parse(savedState);
+            savedPoints = parsed.points || 0;
+            savedScore = parsed.score || 0;
+            savedCurrentQuestion = parsed.currentQuestion;
+            savedShuffledAnswers = parsed.shuffledAnswers || [];
+            savedRecentQuestions = parsed.recentQuestions || [];
+            savedSelectedAnswer = parsed.selectedAnswer;
+            savedShowFeedback = parsed.showFeedback || false;
+          } catch (e) {
+            // If parsing fails, start fresh
+            savedPoints = 0;
+            savedScore = 0;
+          }
+        }
 
-        // Load new questions
-        const firstQuestion = questions[Math.floor(Math.random() * questions.length)];
-        const shuffledAnswers = [firstQuestion.correctAnswer, ...firstQuestion.distractors].sort(() => Math.random() - 0.5);
+        // Use saved question if available, otherwise pick a random one
+        let currentQuestion = savedCurrentQuestion;
+        let shuffledAnswers = savedShuffledAnswers;
+        let recentQuestions = savedRecentQuestions;
+
+        // If no saved question or saved question not found in current questions, pick a new one
+        if (!currentQuestion || !questions.find(q => q.uuid === currentQuestion.uuid)) {
+          currentQuestion = questions[Math.floor(Math.random() * questions.length)];
+          shuffledAnswers = [currentQuestion.correctAnswer, ...currentQuestion.distractors].sort(() => Math.random() - 0.5);
+          recentQuestions = [currentQuestion.uuid];
+          savedSelectedAnswer = null;
+          savedShowFeedback = false;
+        }
         
         setQuizState(prev => ({
           ...prev,
           allQuestions: questions,
-          currentQuestion: firstQuestion,
-          shuffledAnswers,
-          recentQuestions: [firstQuestion.uuid]
+          currentQuestion: currentQuestion,
+          shuffledAnswers: shuffledAnswers,
+          recentQuestions: recentQuestions,
+          points: savedPoints,
+          score: savedScore,
+          selectedAnswer: savedSelectedAnswer,
+          showFeedback: savedShowFeedback
         }));
         setIsLoading(false);
       } catch (err) {
