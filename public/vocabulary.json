@@ -1,0 +1,3202 @@
+[
+  {
+    "uuid": "6f0a27aa-6981-4924-ab5f-340920ddcf44",
+    "sentence": "The company's new policy will _____ all employees to work from home twice a week.",
+    "correctAnswer": "enable",
+    "distractors": [
+      "disable",
+      "prevent",
+      "forbid"
+    ],
+    "explanation": "Enable means to give someone the authority or means to do something. In this context, the policy gives employees the ability to work from home.",
+    "incorrectExplanations": {
+      "disable": "Disable means to make something unable to function or to remove someone's ability to do something. This would contradict a policy that allows working from home.",
+      "prevent": "Prevent means to stop something from happening. A policy that prevents working from home would be the opposite of what's described.",
+      "forbid": "Forbid means to refuse to allow something. This would mean the policy prohibits working from home, which contradicts the sentence."
+    }
+  },
+  {
+    "uuid": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "She decided to _____ her old furniture and buy something new.",
+    "correctAnswer": "discard",
+    "distractors": [
+      "keep",
+      "repair",
+      "clean"
+    ],
+    "explanation": "Discard means to throw away or get rid of something you no longer want.",
+    "incorrectExplanations": {
+      "keep": "Keep means to retain or continue to have something. This contradicts the idea of buying something new to replace it.",
+      "repair": "Repair means to fix something that is broken. While possible, it doesn't align with the decision to buy something new.",
+      "clean": "Clean means to make something free of dirt. This doesn't explain why she would buy new furniture."
+    }
+  },
+  {
+    "uuid": "6ba7b811-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The company's profits have _____ significantly this quarter.",
+    "correctAnswer": "declined",
+    "distractors": [
+      "increased",
+      "remained",
+      "doubled"
+    ],
+    "explanation": "Declined means decreased or went down, often used in business contexts.",
+    "incorrectExplanations": {
+      "increased": "Increased means went up or grew larger. This would be positive news, not something that happens 'significantly' in a concerning context.",
+      "remained": "Remained means stayed the same. If profits remained the same, they wouldn't have changed 'significantly'.",
+      "doubled": "Doubled means became twice as large. This would be extremely positive growth, not a decline."
+    }
+  },
+  {
+    "uuid": "6ba7b812-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "His _____ behavior at the meeting was completely inappropriate.",
+    "correctAnswer": "erratic",
+    "distractors": [
+      "calm",
+      "professional",
+      "quiet"
+    ],
+    "explanation": "Erratic means unpredictable or inconsistent, often in a problematic way.",
+    "incorrectExplanations": {
+      "calm": "Calm means peaceful and composed. Calm behavior would be appropriate, not inappropriate, at a meeting.",
+      "professional": "Professional means showing competence and skill. Professional behavior would be appropriate, not inappropriate.",
+      "quiet": "Quiet means making little noise. Being quiet at a meeting is generally appropriate behavior."
+    }
+  },
+  {
+    "uuid": "6ba7b813-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The research findings were truly _____.",
+    "correctAnswer": "groundbreaking",
+    "distractors": [
+      "small",
+      "boring",
+      "expected"
+    ],
+    "explanation": "Groundbreaking means innovative or pioneering, introducing new ideas or methods.",
+    "incorrectExplanations": {
+      "small": "Small means little in size or extent. Research findings described as 'truly' something would be significant, not small.",
+      "boring": "Boring means dull or uninteresting. Truly significant research findings would be exciting, not boring.",
+      "expected": "Expected means anticipated or predicted. Groundbreaking findings are surprising and unexpected, not predictable."
+    }
+  },
+  {
+    "uuid": "6ba7b814-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "I need to _____ my presentation before tomorrow's meeting.",
+    "correctAnswer": "finalize",
+    "distractors": [
+      "start",
+      "forget",
+      "cancel"
+    ],
+    "explanation": "Finalize means to complete or put the finishing touches on something.",
+    "incorrectExplanations": {
+      "start": "Start means to begin something. If the meeting is tomorrow, the presentation should already be in progress, not just starting.",
+      "forget": "Forget means to fail to remember. This would be counterproductive before an important meeting.",
+      "cancel": "Cancel means to call off or abandon. This doesn't make sense in the context of preparing for a meeting."
+    }
+  },
+  {
+    "uuid": "6ba7b815-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The new software will _____ the efficiency of our workflow.",
+    "correctAnswer": "enhance",
+    "distractors": [
+      "reduce",
+      "complicate",
+      "eliminate"
+    ],
+    "explanation": "Enhance means to improve or increase the quality, value, or extent of something.",
+    "incorrectExplanations": {
+      "reduce": "Reduce means to make smaller or less. New software is typically implemented to improve, not decrease efficiency.",
+      "complicate": "Complicate means to make something more difficult. Good software should simplify workflows, not make them more complex.",
+      "eliminate": "Eliminate means to completely remove. Software doesn't remove workflow efficiency; it aims to improve it."
+    }
+  },
+  {
+    "uuid": "6ba7b816-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The restaurant's _____ atmosphere made everyone feel welcome.",
+    "correctAnswer": "inviting",
+    "distractors": [
+      "hostile",
+      "cold",
+      "empty"
+    ],
+    "explanation": "Inviting means welcoming or attractive, making people want to enter or participate.",
+    "incorrectExplanations": {
+      "hostile": "Hostile means unfriendly or aggressive. A hostile atmosphere would make people feel unwelcome, not welcome.",
+      "cold": "Cold means lacking warmth or friendliness. A cold atmosphere would not make people feel welcome.",
+      "empty": "Empty means containing nothing or having few people. While a restaurant might be empty, this doesn't describe an atmosphere that makes people feel welcome."
+    }
+  },
+  {
+    "uuid": "6ba7b817-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The politician tried to _____ the controversial topic during the debate.",
+    "correctAnswer": "circumvent",
+    "distractors": [
+      "address",
+      "discuss",
+      "explain"
+    ],
+    "explanation": "Circumvent means to avoid or find a way around something, often cleverly.",
+    "incorrectExplanations": {
+      "address": "Address means to deal with or speak about something directly. This is the opposite of avoiding a controversial topic.",
+      "discuss": "Discuss means to talk about something in detail. Politicians typically try to avoid, not discuss, controversial topics.",
+      "explain": "Explain means to make something clear by describing it. Politicians usually avoid explaining controversial topics during debates."
+    }
+  },
+  {
+    "uuid": "444eb563-ad4b-4ba0-8c03-d92f2aad3faf",
+    "sentence": "His _____ attitude made it difficult for others to work with him.",
+    "correctAnswer": "abrasive",
+    "distractors": [
+      "friendly",
+      "cooperative",
+      "pleasant"
+    ],
+    "explanation": "Abrasive means harsh or rough in manner, causing irritation to others.",
+    "incorrectExplanations": {
+      "friendly": "Friendly means kind and pleasant. A friendly attitude would make it easier, not difficult, to work with someone.",
+      "cooperative": "Cooperative means willing to work together. This would facilitate teamwork rather than hinder it.",
+      "pleasant": "Pleasant means giving satisfaction or enjoyment. A pleasant attitude would not make it difficult to work with someone."
+    }
+  },
+  {
+    "uuid": "6ba7b818-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The team worked _____ to meet the tight deadline.",
+    "correctAnswer": "diligently",
+    "distractors": [
+      "lazily",
+      "slowly",
+      "carelessly"
+    ],
+    "explanation": "Diligently means with careful and persistent effort, showing dedication.",
+    "incorrectExplanations": {
+      "lazily": "Lazily means without effort or energy. Working lazily would not help meet a tight deadline.",
+      "slowly": "Slowly means at a low speed. Working slowly would make it harder to meet a tight deadline.",
+      "carelessly": "Carelessly means without attention or thought. Careless work might lead to mistakes and missed deadlines."
+    }
+  },
+  {
+    "uuid": "6ba7b819-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The weather was so _____ that we decided to stay indoors.",
+    "correctAnswer": "inclement",
+    "distractors": [
+      "pleasant",
+      "mild",
+      "beautiful"
+    ],
+    "explanation": "Inclement means harsh or severe weather, typically involving rain, snow, or storms.",
+    "incorrectExplanations": {
+      "pleasant": "Pleasant means enjoyable or agreeable. Pleasant weather would encourage people to go outside, not stay indoors.",
+      "mild": "Mild means gentle or not severe. Mild weather would be comfortable for outdoor activities.",
+      "beautiful": "Beautiful means attractive or pleasing. Beautiful weather would make people want to go outside and enjoy it."
+    }
+  },
+  {
+    "uuid": "6ba7b81a-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The movie received _____ reviews from critics worldwide.",
+    "correctAnswer": "acclaimed",
+    "distractors": [
+      "terrible",
+      "mixed",
+      "ignored"
+    ],
+    "explanation": "Acclaimed means praised enthusiastically and publicly, especially by critics.",
+    "incorrectExplanations": {
+      "terrible": "Terrible means extremely bad. While movies can receive terrible reviews, 'acclaimed' suggests positive reception.",
+      "mixed": "Mixed means containing different types or having varied opinions. This doesn't convey the strong positive meaning of 'acclaimed'.",
+      "ignored": "Ignored means paid no attention to. If reviews were ignored, they wouldn't be described as 'acclaimed'."
+    }
+  },
+  {
+    "uuid": "6ba7b81b-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "We need to _____ our resources more effectively to succeed.",
+    "correctAnswer": "allocate",
+    "distractors": [
+      "waste",
+      "hide",
+      "ignore"
+    ],
+    "explanation": "Allocate means to distribute resources or duties for a particular purpose.",
+    "incorrectExplanations": {
+      "waste": "Waste means to use carelessly or without purpose. Wasting resources would hinder success, not help achieve it.",
+      "hide": "Hide means to conceal or keep secret. Hiding resources would make them unavailable for use toward success.",
+      "ignore": "Ignore means to pay no attention to. Ignoring resources means not using them effectively for success."
+    }
+  },
+  {
+    "uuid": "9a795072-a219-4262-a371-8d1cb52866c8",
+    "sentence": "The medicine will help _____ your symptoms within a few hours.",
+    "correctAnswer": "alleviate",
+    "distractors": [
+      "worsen",
+      "ignore",
+      "cause"
+    ],
+    "explanation": "Alleviate means to make pain, suffering, or problems less severe.",
+    "incorrectExplanations": {
+      "worsen": "Worsen means to make something worse. Medicine is designed to help, not make symptoms worse.",
+      "ignore": "Ignore means to pay no attention to something. Medicine actively treats symptoms rather than ignoring them.",
+      "cause": "Cause means to make something happen. Medicine treats existing symptoms rather than causing new ones."
+    }
+  },
+  {
+    "uuid": "6ba7b81d-9dad-11d1-80b4-00c04fd430c8",
+    "sentence": "The children were _____ to see the circus performers.",
+    "correctAnswer": "thrilled",
+    "distractors": [
+      "bored",
+      "scared",
+      "tired"
+    ],
+    "explanation": "Thrilled means feeling intense excitement and pleasure.",
+    "incorrectExplanations": {
+      "bored": "Bored means feeling weary from lack of interest. Children are typically excited, not bored, by circus performers.",
+      "scared": "Scared means frightened or afraid. While some circus acts might be scary, the context suggests positive excitement.",
+      "tired": "Tired means needing rest or sleep. Being tired doesn't capture the emotional response to seeing performers."
+    }
+  },
+  {
+    "uuid": "07df5209-88b0-4943-8779-ca472411d98c",
+    "sentence": "The company decided to _____ its outdated policies.",
+    "correctAnswer": "revise",
+    "distractors": [
+      "maintain",
+      "ignore",
+      "enforce"
+    ],
+    "explanation": "Revise means to examine and make changes or corrections to improve something.",
+    "incorrectExplanations": {
+      "maintain": "Maintain means to keep something in its existing state. This contradicts updating outdated policies.",
+      "ignore": "Ignore means to pay no attention to. Ignoring outdated policies doesn't address the need for change.",
+      "enforce": "Enforce means to ensure compliance with rules. You can't effectively enforce outdated policies."
+    }
+  },
+  {
+    "uuid": "e6f8e85b-e67f-4f4d-bc1e-b5d9098336c1",
+    "sentence": "The artist's work was _____ by critics and audiences alike.",
+    "correctAnswer": "lauded",
+    "distractors": [
+      "criticized",
+      "dismissed",
+      "overlooked"
+    ],
+    "explanation": "Lauded means praised or acclaimed, especially publicly.",
+    "incorrectExplanations": {
+      "criticized": "Criticized means to express disapproval. This is the opposite of being praised by both critics and audiences.",
+      "dismissed": "Dismissed means to reject as unworthy of consideration. This contradicts positive reception.",
+      "overlooked": "Overlooked means to fail to notice or consider. This suggests lack of attention, not acclaim."
+    }
+  },
+  {
+    "uuid": "a68556b0-92b1-4b85-8dc7-58ac1819d71a",
+    "sentence": "The detective needed to _____ the witness's testimony.",
+    "correctAnswer": "corroborate",
+    "distractors": [
+      "dismiss",
+      "fabricate",
+      "contradict"
+    ],
+    "explanation": "Corroborate means to confirm or give support to a statement or theory by providing evidence.",
+    "incorrectExplanations": {
+      "dismiss": "Dismiss means to reject or disregard. A detective would want to verify, not dismiss testimony.",
+      "fabricate": "Fabricate means to invent or make up. Detectives seek truth, not fabricated evidence.",
+      "contradict": "Contradict means to assert the opposite. Detectives aim to verify, not oppose witness testimony."
+    }
+  },
+  {
+    "uuid": "b09a6fdb-20e2-418a-9b15-2ab53a496085",
+    "sentence": "The medication helped _____ her chronic pain.",
+    "correctAnswer": "mitigate",
+    "distractors": [
+      "intensify",
+      "cause",
+      "prolong"
+    ],
+    "explanation": "Mitigate means to make less severe, serious, or painful.",
+    "incorrectExplanations": {
+      "intensify": "Intensify means to make stronger or more extreme. Medication aims to reduce, not increase pain.",
+      "cause": "Cause means to bring about. Medication treats existing pain rather than causing it.",
+      "prolong": "Prolong means to extend the duration. Good medication shortens pain duration, not extends it."
+    }
+  },
+  {
+    "uuid": "6d5f7ab8-7d6f-47dd-9361-8e81e251317c",
+    "sentence": "His _____ remarks during the presentation were inappropriate.",
+    "correctAnswer": "disparaging",
+    "distractors": [
+      "complimentary",
+      "supportive",
+      "encouraging"
+    ],
+    "explanation": "Disparaging means expressing criticism or disapproval; belittling.",
+    "incorrectExplanations": {
+      "complimentary": "Complimentary means expressing praise or admiration. This would be appropriate, not inappropriate.",
+      "supportive": "Supportive means providing encouragement or assistance. Supportive remarks would be welcome.",
+      "encouraging": "Encouraging means giving hope or confidence. Encouraging remarks would be positive and appropriate."
+    }
+  },
+  {
+    "uuid": "d165bd08-b0f6-4cca-b41a-54913431756c",
+    "sentence": "The new evidence will _____ the defendant's alibi.",
+    "correctAnswer": "substantiate",
+    "distractors": [
+      "undermine",
+      "contradict",
+      "weaken"
+    ],
+    "explanation": "Substantiate means to provide evidence to support or prove the truth of something.",
+    "incorrectExplanations": {
+      "undermine": "Undermine means to weaken or damage. This would hurt the alibi rather than support it.",
+      "contradict": "Contradict means to assert the opposite. This would oppose the alibi, not support it.",
+      "weaken": "Weaken means to make less strong. Evidence that weakens an alibi would be harmful to the defendant."
+    }
+  },
+  {
+    "uuid": "ce0c429f-7d43-4237-8a52-4cd66355d191",
+    "sentence": "The professor's lecture was so _____ that students fell asleep.",
+    "correctAnswer": "tedious",
+    "distractors": [
+      "engaging",
+      "fascinating",
+      "captivating"
+    ],
+    "explanation": "Tedious means tiresome and monotonous; boring.",
+    "incorrectExplanations": {
+      "engaging": "Engaging means interesting and involving. An engaging lecture would keep students awake and attentive.",
+      "fascinating": "Fascinating means extremely interesting. A fascinating lecture would hold students' attention.",
+      "captivating": "Captivating means attracting and holding attention. This would prevent students from falling asleep."
+    }
+  },
+  {
+    "uuid": "4137c894-b83e-4cf4-b397-ed4af5626ca7",
+    "sentence": "The manager tried to _____ the conflict between team members.",
+    "correctAnswer": "mediate",
+    "distractors": [
+      "escalate",
+      "ignore",
+      "worsen"
+    ],
+    "explanation": "Mediate means to intervene between parties to help resolve a dispute.",
+    "incorrectExplanations": {
+      "escalate": "Escalate means to increase in intensity. A good manager would try to reduce, not increase conflict.",
+      "ignore": "Ignore means to pay no attention to. Ignoring workplace conflicts can make them worse.",
+      "worsen": "Worsen means to make worse. A manager should improve situations, not make them worse."
+    }
+  },
+  {
+    "uuid": "a3f8dba6-85e2-4c5a-8e57-d287a129ddf4",
+    "sentence": "The scientist's hypothesis was _____ by the experimental results.",
+    "correctAnswer": "validated",
+    "distractors": [
+      "refuted",
+      "ignored",
+      "dismissed"
+    ],
+    "explanation": "Validated means confirmed or proven to be correct through evidence.",
+    "incorrectExplanations": {
+      "refuted": "Refuted means proven wrong or false. This would contradict the hypothesis rather than support it.",
+      "ignored": "Ignored means disregarded. Scientific results shouldn't be ignored when testing hypotheses.",
+      "dismissed": "Dismissed means rejected without consideration. Valid experimental results shouldn't be dismissed."
+    }
+  },
+  {
+    "uuid": "f519685e-7b12-4fdf-abe7-8784a7080fb0",
+    "sentence": "The company's profits began to _____ after the new marketing campaign.",
+    "correctAnswer": "flourish",
+    "distractors": [
+      "decline",
+      "stagnate",
+      "disappear"
+    ],
+    "explanation": "Flourish means to grow or develop in a healthy way; to prosper.",
+    "incorrectExplanations": {
+      "decline": "Decline means to decrease or become worse. A successful marketing campaign would improve, not worsen profits.",
+      "stagnate": "Stagnate means to remain unchanged or inactive. Good marketing should stimulate growth, not stagnation.",
+      "disappear": "Disappear means to vanish completely. Marketing campaigns aim to increase profits, not eliminate them."
+    }
+  },
+  {
+    "uuid": "a46df1a7-502f-41f8-9479-0f55add152d4",
+    "sentence": "The witness gave a _____ account of the events.",
+    "correctAnswer": "coherent",
+    "distractors": [
+      "confusing",
+      "contradictory",
+      "unclear"
+    ],
+    "explanation": "Coherent means logical, consistent, and easy to understand.",
+    "incorrectExplanations": {
+      "confusing": "Confusing means difficult to understand. A good witness account should be clear, not confusing.",
+      "contradictory": "Contradictory means containing conflicting elements. Reliable testimony should be consistent.",
+      "unclear": "Unclear means not easy to understand. Effective witness testimony should be clear and comprehensible."
+    }
+  },
+  {
+    "uuid": "9bcdb108-85f5-442e-8bfb-33eb855b1004",
+    "sentence": "The new policy will _____ employee productivity.",
+    "correctAnswer": "bolster",
+    "distractors": [
+      "hinder",
+      "reduce",
+      "impede"
+    ],
+    "explanation": "Bolster means to support, strengthen, or improve something.",
+    "incorrectExplanations": {
+      "hinder": "Hinder means to obstruct or delay progress. Good policies should help, not hinder productivity.",
+      "reduce": "Reduce means to make smaller or less. Effective policies should increase, not decrease productivity.",
+      "impede": "Impede means to block or slow progress. Beneficial policies should facilitate, not impede work."
+    }
+  },
+  {
+    "uuid": "c3934f27-8423-4c75-870f-0b9c08584fec",
+    "sentence": "The author's writing style is quite _____ and difficult to follow.",
+    "correctAnswer": "convoluted",
+    "distractors": [
+      "simple",
+      "clear",
+      "straightforward"
+    ],
+    "explanation": "Convoluted means extremely complex and difficult to follow; twisted or intricate.",
+    "incorrectExplanations": {
+      "simple": "Simple means easy to understand. Simple writing would be easy, not difficult to follow.",
+      "clear": "Clear means easy to perceive or understand. Clear writing wouldn't be difficult to follow.",
+      "straightforward": "Straightforward means uncomplicated and easy to understand. This contradicts being difficult to follow."
+    }
+  },
+  {
+    "uuid": "e6ed891b-d80b-4d6c-85ed-f7ba3a1de63a",
+    "sentence": "The committee decided to _____ the proposal for further review.",
+    "correctAnswer": "defer",
+    "distractors": [
+      "approve",
+      "implement",
+      "finalize"
+    ],
+    "explanation": "Defer means to postpone or delay action on something.",
+    "incorrectExplanations": {
+      "approve": "Approve means to accept or agree to. Deferring means delaying decision, not accepting it.",
+      "implement": "Implement means to put into action. Deferring postpones action rather than taking it.",
+      "finalize": "Finalize means to complete or conclude. Deferring delays completion rather than finishing it."
+    }
+  },
+  {
+    "uuid": "94af930d-79a1-4b0f-af5e-0f271f71e594",
+    "sentence": "The student's essay was _____ with grammatical errors.",
+    "correctAnswer": "riddled",
+    "distractors": [
+      "free",
+      "devoid",
+      "lacking"
+    ],
+    "explanation": "Riddled means filled with or containing many instances of something undesirable.",
+    "incorrectExplanations": {
+      "free": "Free means without or lacking something. An essay free of errors would be well-written.",
+      "devoid": "Devoid means entirely lacking. An essay devoid of errors would be grammatically correct.",
+      "lacking": "Lacking means without or deficient in. An essay lacking errors would be properly written."
+    }
+  },
+  {
+    "uuid": "0c62be39-2a6e-498f-8059-dec33d49b4d4",
+    "sentence": "The CEO's decision to resign was completely _____.",
+    "correctAnswer": "unprecedented",
+    "distractors": [
+      "expected",
+      "predictable",
+      "routine"
+    ],
+    "explanation": "Unprecedented means never done or known before; without previous example.",
+    "incorrectExplanations": {
+      "expected": "Expected means anticipated or predicted. Something unprecedented would be surprising, not expected.",
+      "predictable": "Predictable means able to be foreseen. Unprecedented events are by definition unpredictable.",
+      "routine": "Routine means regular or normal. Unprecedented means highly unusual, not routine."
+    }
+  },
+  {
+    "uuid": "29a17cbb-2812-4131-9073-c459800b1f83",
+    "sentence": "The lawyer tried to _____ the jury with emotional appeals.",
+    "correctAnswer": "sway",
+    "distractors": [
+      "confuse",
+      "bore",
+      "alienate"
+    ],
+    "explanation": "Sway means to influence or persuade someone to change their opinion.",
+    "incorrectExplanations": {
+      "confuse": "Confuse means to make unclear or uncertain. Lawyers want to persuade, not confuse juries.",
+      "bore": "Bore means to make weary through dullness. Boring a jury would be counterproductive.",
+      "alienate": "Alienate means to make hostile or unsympathetic. Lawyers want to win over, not alienate juries."
+    }
+  },
+  {
+    "uuid": "28a30aa4-b9b4-44dd-aff5-f4f26ade4f12",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "treacherous",
+    "distractors": [
+      "careless",
+      "hasty",
+      "sloppy"
+    ],
+    "explanation": "Treacherous means dangerous and unpredictable, especially regarding conditions.",
+    "incorrectExplanations": {
+      "careless": "Careless has a different meaning and doesn't fit the context of this sentence.",
+      "hasty": "Hasty has a different meaning and doesn't fit the context of this sentence.",
+      "sloppy": "Sloppy has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "d0711a43-e4eb-4da7-8c8f-3578ef8e4514",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "pragmatic",
+    "distractors": [
+      "theoretical",
+      "impractical",
+      "dreamy"
+    ],
+    "explanation": "Pragmatic means practical rather than idealistic.",
+    "incorrectExplanations": {
+      "theoretical": "Theoretical has a different meaning and doesn't fit the context of this sentence.",
+      "impractical": "Impractical has a different meaning and doesn't fit the context of this sentence.",
+      "dreamy": "Dreamy has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "e694f8d1-e636-4145-81e0-a096987a9c96",
+    "sentence": "The _____ performance received a standing ovation.",
+    "correctAnswer": "stellar",
+    "distractors": [
+      "rare",
+      "absent",
+      "limited"
+    ],
+    "explanation": "Stellar means exceptionally good; outstanding.",
+    "incorrectExplanations": {
+      "rare": "Rare has a different meaning and doesn't fit the context of this sentence.",
+      "absent": "Absent has a different meaning and doesn't fit the context of this sentence.",
+      "limited": "Limited has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "1be35617-4430-4a13-9d90-101aa73cb05b",
+    "sentence": "She maintained a _____ demeanor despite the pressure.",
+    "correctAnswer": "composed",
+    "distractors": [
+      "permanent",
+      "eternal",
+      "lasting"
+    ],
+    "explanation": "Composed means calm and in control of one's emotions.",
+    "incorrectExplanations": {
+      "permanent": "Permanent has a different meaning and doesn't fit the context of this sentence.",
+      "eternal": "Eternal has a different meaning and doesn't fit the context of this sentence.",
+      "lasting": "Lasting has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "02e51175-b97c-49ce-82d4-360ca441fb7a",
+    "sentence": "The _____ evidence supported their theory.",
+    "correctAnswer": "compelling",
+    "distractors": [
+      "easy",
+      "simple",
+      "effortless"
+    ],
+    "explanation": "Compelling means convincing or persuasive.",
+    "incorrectExplanations": {
+      "easy": "Easy has a different meaning and doesn't fit the context of this sentence.",
+      "simple": "Simple has a different meaning and doesn't fit the context of this sentence.",
+      "effortless": "Effortless has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "ce088210-3050-4382-a089-8695315b45e5",
+    "sentence": "His _____ comments offended several people.",
+    "correctAnswer": "tactless",
+    "distractors": [
+      "cruel",
+      "selfish",
+      "malicious"
+    ],
+    "explanation": "Tactless means lacking sensitivity in dealing with others.",
+    "incorrectExplanations": {
+      "cruel": "Cruel has a different meaning and doesn't fit the context of this sentence.",
+      "selfish": "Selfish has a different meaning and doesn't fit the context of this sentence.",
+      "malicious": "Malicious has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "2b47d308-2b12-4162-af4c-ed305fa1515b",
+    "sentence": "The _____ strategy proved highly effective.",
+    "correctAnswer": "candid",
+    "distractors": [
+      "deceptive",
+      "dishonest",
+      "evasive"
+    ],
+    "explanation": "Candid means honest and straightforward.",
+    "incorrectExplanations": {
+      "deceptive": "Deceptive has a different meaning and doesn't fit the context of this sentence.",
+      "dishonest": "Dishonest has a different meaning and doesn't fit the context of this sentence.",
+      "evasive": "Evasive has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "8672f221-1820-47a5-8a32-e8f90ee962d9",
+    "sentence": "The  approach proved to be _____ in solving the problem.",
+    "correctAnswer": "diligent",
+    "distractors": [
+      "lazy",
+      "careless",
+      "negligent"
+    ],
+    "explanation": "Diligent means hardworking and careful.",
+    "incorrectExplanations": {
+      "lazy": "Lazy has a different meaning and doesn't fit the context of this sentence.",
+      "careless": "Careless has a different meaning and doesn't fit the context of this sentence.",
+      "negligent": "Negligent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "32b283db-20bf-4a68-b7b2-620c8e7cfc22",
+    "sentence": "Her _____ nature made her popular among colleagues.",
+    "correctAnswer": "eloquent",
+    "distractors": [
+      "inarticulate",
+      "unclear",
+      "mumbling"
+    ],
+    "explanation": "Eloquent means fluent and persuasive in speaking.",
+    "incorrectExplanations": {
+      "inarticulate": "Inarticulate has a different meaning and doesn't fit the context of this sentence.",
+      "unclear": "Unclear has a different meaning and doesn't fit the context of this sentence.",
+      "mumbling": "Mumbling has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "fb8d1fd0-85e0-4f1c-89bf-2bd4379bc7ec",
+    "sentence": "The _____ student always completed assignments on time.",
+    "correctAnswer": "frugal",
+    "distractors": [
+      "wasteful",
+      "extravagant",
+      "lavish"
+    ],
+    "explanation": "Frugal means economical in use or expenditure.",
+    "incorrectExplanations": {
+      "wasteful": "Wasteful has a different meaning and doesn't fit the context of this sentence.",
+      "extravagant": "Extravagant has a different meaning and doesn't fit the context of this sentence.",
+      "lavish": "Lavish has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "d89b64a3-079b-4105-9d19-d0cdbcb257a3",
+    "sentence": "The professor's _____ explanation helped everyone understand.",
+    "correctAnswer": "lucid",
+    "distractors": [
+      "antisocial",
+      "shy",
+      "withdrawn"
+    ],
+    "explanation": "Lucid means clear and easy to understand.",
+    "incorrectExplanations": {
+      "antisocial": "Antisocial has a different meaning and doesn't fit the context of this sentence.",
+      "shy": "Shy has a different meaning and doesn't fit the context of this sentence.",
+      "withdrawn": "Withdrawn has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "3eea50f9-608d-45d5-b97b-efaf13a252bf",
+    "sentence": "His _____ attitude toward work impressed his supervisor.",
+    "correctAnswer": "diligent",
+    "distractors": [
+      "organized",
+      "systematic",
+      "planned"
+    ],
+    "explanation": "Diligent means hardworking and careful.",
+    "incorrectExplanations": {
+      "organized": "Organized has a different meaning and doesn't fit the context of this sentence.",
+      "systematic": "Systematic has a different meaning and doesn't fit the context of this sentence.",
+      "planned": "Planned has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "2cefd4ab-c2cd-41fb-9674-40147be7ef43",
+    "sentence": "The _____ design of the building attracted many visitors.",
+    "correctAnswer": "immaculate",
+    "distractors": [
+      "dirty",
+      "messy",
+      "stained"
+    ],
+    "explanation": "Immaculate means perfectly clean or pure.",
+    "incorrectExplanations": {
+      "dirty": "Dirty has a different meaning and doesn't fit the context of this sentence.",
+      "messy": "Messy has a different meaning and doesn't fit the context of this sentence.",
+      "stained": "Stained has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "b3848461-5844-4aa3-b31b-9255b1e6c716",
+    "sentence": "She gave a _____ response to the difficult question.",
+    "correctAnswer": "judicious",
+    "distractors": [
+      "foolish",
+      "reckless",
+      "imprudent"
+    ],
+    "explanation": "Judicious means having good judgment.",
+    "incorrectExplanations": {
+      "foolish": "Foolish has a different meaning and doesn't fit the context of this sentence.",
+      "reckless": "Reckless has a different meaning and doesn't fit the context of this sentence.",
+      "imprudent": "Imprudent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "42eb4b52-c81a-46b4-b408-b088eb8210fe",
+    "sentence": "The _____ weather forced them to cancel the outdoor event.",
+    "correctAnswer": "inclement",
+    "distractors": [
+      "static",
+      "motionless",
+      "still"
+    ],
+    "explanation": "Inclement means harsh or severe weather.",
+    "incorrectExplanations": {
+      "static": "Static has a different meaning and doesn't fit the context of this sentence.",
+      "motionless": "Motionless has a different meaning and doesn't fit the context of this sentence.",
+      "still": "Still has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "7402380d-fec1-4250-b071-845f2e1f7f04",
+    "sentence": "His _____ behavior during the meeting was inappropriate.",
+    "correctAnswer": "lucid",
+    "distractors": [
+      "confusing",
+      "unclear",
+      "muddled"
+    ],
+    "explanation": "Lucid means clear and easy to understand.",
+    "incorrectExplanations": {
+      "confusing": "Confusing has a different meaning and doesn't fit the context of this sentence.",
+      "unclear": "Unclear has a different meaning and doesn't fit the context of this sentence.",
+      "muddled": "Muddled has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "542a481b-2e1e-4134-a3bf-1e88cb518951",
+    "sentence": "The _____ solution saved the company significant money.",
+    "correctAnswer": "magnanimous",
+    "distractors": [
+      "petty",
+      "vindictive",
+      "spiteful"
+    ],
+    "explanation": "Magnanimous means generous in forgiving.",
+    "incorrectExplanations": {
+      "petty": "Petty has a different meaning and doesn't fit the context of this sentence.",
+      "vindictive": "Vindictive has a different meaning and doesn't fit the context of this sentence.",
+      "spiteful": "Spiteful has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "05315912-8853-4285-aa6a-a9abcf4434a3",
+    "sentence": "The team's _____ effort led to their success.",
+    "correctAnswer": "nonchalant",
+    "distractors": [
+      "anxious",
+      "worried",
+      "stressed"
+    ],
+    "explanation": "Nonchalant means casually calm and relaxed.",
+    "incorrectExplanations": {
+      "anxious": "Anxious has a different meaning and doesn't fit the context of this sentence.",
+      "worried": "Worried has a different meaning and doesn't fit the context of this sentence.",
+      "stressed": "Stressed has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "1e7f49b2-4b3d-4817-acf3-09e20b244419",
+    "sentence": "Her _____ personality made her an excellent leader.",
+    "correctAnswer": "obstinate",
+    "distractors": [
+      "flexible",
+      "adaptable",
+      "yielding"
+    ],
+    "explanation": "Obstinate means stubbornly refusing to change.",
+    "incorrectExplanations": {
+      "flexible": "Flexible has a different meaning and doesn't fit the context of this sentence.",
+      "adaptable": "Adaptable has a different meaning and doesn't fit the context of this sentence.",
+      "yielding": "Yielding has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "03399c6f-b96a-4ced-b904-4b533b43125a",
+    "sentence": "The _____ argument convinced the jury.",
+    "correctAnswer": "perspicacious",
+    "distractors": [
+      "obtuse",
+      "dull",
+      "unperceptive"
+    ],
+    "explanation": "Perspicacious means having keen insight.",
+    "incorrectExplanations": {
+      "obtuse": "Obtuse has a different meaning and doesn't fit the context of this sentence.",
+      "dull": "Dull has a different meaning and doesn't fit the context of this sentence.",
+      "unperceptive": "Unperceptive has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "36e9e2bd-c6e2-4ba2-aa48-f12be6426a82",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "quixotic",
+    "distractors": [
+      "realistic",
+      "practical",
+      "sensible"
+    ],
+    "explanation": "Quixotic means idealistic but impractical.",
+    "incorrectExplanations": {
+      "realistic": "Realistic has a different meaning and doesn't fit the context of this sentence.",
+      "practical": "Practical has a different meaning and doesn't fit the context of this sentence.",
+      "sensible": "Sensible has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "9ab614cf-e8f2-4035-874d-863a33d57690",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "resilient",
+    "distractors": [
+      "fragile",
+      "brittle",
+      "weak"
+    ],
+    "explanation": "Resilient means able to recover quickly.",
+    "incorrectExplanations": {
+      "fragile": "Fragile has a different meaning and doesn't fit the context of this sentence.",
+      "brittle": "Brittle has a different meaning and doesn't fit the context of this sentence.",
+      "weak": "Weak has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "0d495f9c-26cb-446e-a374-1a3f7ace6f31",
+    "sentence": "The _____ performance received a standing ovation.",
+    "correctAnswer": "sagacious",
+    "distractors": [
+      "foolish",
+      "unwise",
+      "imprudent"
+    ],
+    "explanation": "Sagacious means having wisdom and good judgment.",
+    "incorrectExplanations": {
+      "foolish": "Foolish has a different meaning and doesn't fit the context of this sentence.",
+      "unwise": "Unwise has a different meaning and doesn't fit the context of this sentence.",
+      "imprudent": "Imprudent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "4b743ca3-65c6-441d-9b11-8e7d9ed229c5",
+    "sentence": "She maintained a _____ demeanor despite the pressure.",
+    "correctAnswer": "tenacious",
+    "distractors": [
+      "weak",
+      "yielding",
+      "giving-up"
+    ],
+    "explanation": "Tenacious means holding firmly to something.",
+    "incorrectExplanations": {
+      "weak": "Weak has a different meaning and doesn't fit the context of this sentence.",
+      "yielding": "Yielding has a different meaning and doesn't fit the context of this sentence.",
+      "giving-up": "Giving-up has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "c2b95b6f-4d86-46c2-ac47-1fa3995ceb43",
+    "sentence": "The _____ evidence supported their theory.",
+    "correctAnswer": "urbane",
+    "distractors": [
+      "crude",
+      "unsophisticated",
+      "rough"
+    ],
+    "explanation": "Urbane means refined and sophisticated.",
+    "incorrectExplanations": {
+      "crude": "Crude has a different meaning and doesn't fit the context of this sentence.",
+      "unsophisticated": "Unsophisticated has a different meaning and doesn't fit the context of this sentence.",
+      "rough": "Rough has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "e8230c24-38e6-434b-84b7-222e2c1e0361",
+    "sentence": "His _____ comments offended several people.",
+    "correctAnswer": "vivacious",
+    "distractors": [
+      "dull",
+      "lifeless",
+      "boring"
+    ],
+    "explanation": "Vivacious means lively and animated.",
+    "incorrectExplanations": {
+      "dull": "Dull has a different meaning and doesn't fit the context of this sentence.",
+      "lifeless": "Lifeless has a different meaning and doesn't fit the context of this sentence.",
+      "boring": "Boring has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "dc9bc1a3-35e3-4080-9ccf-38b454dc41b8",
+    "sentence": "The _____ strategy proved highly effective.",
+    "correctAnswer": "wary",
+    "distractors": [
+      "reckless",
+      "careless",
+      "trusting"
+    ],
+    "explanation": "Wary means cautious and careful.",
+    "incorrectExplanations": {
+      "reckless": "Reckless has a different meaning and doesn't fit the context of this sentence.",
+      "careless": "Careless has a different meaning and doesn't fit the context of this sentence.",
+      "trusting": "Trusting has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "09faf4c2-bf84-4d3d-b955-6b107bc20330",
+    "sentence": "The  approach proved to be _____ in solving the problem.",
+    "correctAnswer": "xenophobic",
+    "distractors": [
+      "welcoming",
+      "accepting",
+      "inclusive"
+    ],
+    "explanation": "Xenophobic means having fear of foreigners.",
+    "incorrectExplanations": {
+      "welcoming": "Welcoming has a different meaning and doesn't fit the context of this sentence.",
+      "accepting": "Accepting has a different meaning and doesn't fit the context of this sentence.",
+      "inclusive": "Inclusive has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "c715345c-b02f-42e5-9639-25f103ad4565",
+    "sentence": "Her _____ nature made her popular among colleagues.",
+    "correctAnswer": "zealous",
+    "distractors": [
+      "apathetic",
+      "indifferent",
+      "lukewarm"
+    ],
+    "explanation": "Zealous means showing great energy for a cause.",
+    "incorrectExplanations": {
+      "apathetic": "Apathetic has a different meaning and doesn't fit the context of this sentence.",
+      "indifferent": "Indifferent has a different meaning and doesn't fit the context of this sentence.",
+      "lukewarm": "Lukewarm has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "ae6d3a98-51dc-4889-a609-46799fc13050",
+    "sentence": "The _____ student always completed assignments on time.",
+    "correctAnswer": "ameliorate",
+    "distractors": [
+      "worsen",
+      "maintain",
+      "ignore"
+    ],
+    "explanation": "Ameliorate means to make better or improve.",
+    "incorrectExplanations": {
+      "worsen": "Worsen has a different meaning and doesn't fit the context of this sentence.",
+      "maintain": "Maintain has a different meaning and doesn't fit the context of this sentence.",
+      "ignore": "Ignore has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "50c63925-4637-4418-b99e-b63a2aeda97d",
+    "sentence": "The professor's _____ explanation helped everyone understand.",
+    "correctAnswer": "exacerbate",
+    "distractors": [
+      "improve",
+      "heal",
+      "soothe"
+    ],
+    "explanation": "Exacerbate means to make worse or more severe.",
+    "incorrectExplanations": {
+      "improve": "Improve has a different meaning and doesn't fit the context of this sentence.",
+      "heal": "Heal has a different meaning and doesn't fit the context of this sentence.",
+      "soothe": "Soothe has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "31d84fbd-7810-49bb-b441-6275b32895fe",
+    "sentence": "His _____ attitude toward work impressed his supervisor.",
+    "correctAnswer": "incisive",
+    "distractors": [
+      "superficial",
+      "shallow",
+      "unclear"
+    ],
+    "explanation": "Incisive means intelligently analytical.",
+    "incorrectExplanations": {
+      "superficial": "Superficial has a different meaning and doesn't fit the context of this sentence.",
+      "shallow": "Shallow has a different meaning and doesn't fit the context of this sentence.",
+      "unclear": "Unclear has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "bd176c9c-dd94-4a4b-8722-aaea21ab8885",
+    "sentence": "The _____ design of the building attracted many visitors.",
+    "correctAnswer": "jaded",
+    "distractors": [
+      "enthusiastic",
+      "energetic",
+      "excited"
+    ],
+    "explanation": "Jaded means tired and lacking enthusiasm.",
+    "incorrectExplanations": {
+      "enthusiastic": "Enthusiastic has a different meaning and doesn't fit the context of this sentence.",
+      "energetic": "Energetic has a different meaning and doesn't fit the context of this sentence.",
+      "excited": "Excited has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "7c8d7fe7-9895-4f5e-895a-0df887b88d72",
+    "sentence": "She gave a _____ response to the difficult question.",
+    "correctAnswer": "kindle",
+    "distractors": [
+      "extinguish",
+      "quench",
+      "douse"
+    ],
+    "explanation": "Kindle means light or set on fire.",
+    "incorrectExplanations": {
+      "extinguish": "Extinguish has a different meaning and doesn't fit the context of this sentence.",
+      "quench": "Quench has a different meaning and doesn't fit the context of this sentence.",
+      "douse": "Douse has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "679d40d0-30b7-41dd-9d70-32433f48d497",
+    "sentence": "The _____ weather forced them to cancel the outdoor event.",
+    "correctAnswer": "lethargic",
+    "distractors": [
+      "energetic",
+      "vigorous",
+      "active"
+    ],
+    "explanation": "Lethargic means lacking energy.",
+    "incorrectExplanations": {
+      "energetic": "Energetic has a different meaning and doesn't fit the context of this sentence.",
+      "vigorous": "Vigorous has a different meaning and doesn't fit the context of this sentence.",
+      "active": "Active has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "65a6c71c-1364-450a-b332-82149573ab89",
+    "sentence": "His _____ behavior during the meeting was inappropriate.",
+    "correctAnswer": "mundane",
+    "distractors": [
+      "exciting",
+      "thrilling",
+      "fascinating"
+    ],
+    "explanation": "Mundane means lacking interest or excitement.",
+    "incorrectExplanations": {
+      "exciting": "Exciting has a different meaning and doesn't fit the context of this sentence.",
+      "thrilling": "Thrilling has a different meaning and doesn't fit the context of this sentence.",
+      "fascinating": "Fascinating has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "80237177-d8ec-4461-9fe2-972e41aaa797",
+    "sentence": "The _____ solution saved the company significant money.",
+    "correctAnswer": "nefarious",
+    "distractors": [
+      "virtuous",
+      "righteous",
+      "moral"
+    ],
+    "explanation": "Nefarious means extremely wicked.",
+    "incorrectExplanations": {
+      "virtuous": "Virtuous has a different meaning and doesn't fit the context of this sentence.",
+      "righteous": "Righteous has a different meaning and doesn't fit the context of this sentence.",
+      "moral": "Moral has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "cea4249b-cf16-4745-92b7-382c498c7599",
+    "sentence": "The team's _____ effort led to their success.",
+    "correctAnswer": "opulent",
+    "distractors": [
+      "poor",
+      "modest",
+      "simple"
+    ],
+    "explanation": "Opulent means extremely rich and luxurious.",
+    "incorrectExplanations": {
+      "poor": "Poor has a different meaning and doesn't fit the context of this sentence.",
+      "modest": "Modest has a different meaning and doesn't fit the context of this sentence.",
+      "simple": "Simple has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "05842a89-0567-49da-b8e2-e0bcc93a4744",
+    "sentence": "Her _____ personality made her an excellent leader.",
+    "correctAnswer": "palpable",
+    "distractors": [
+      "intangible",
+      "imperceptible",
+      "abstract"
+    ],
+    "explanation": "Palpable means able to be touched or felt.",
+    "incorrectExplanations": {
+      "intangible": "Intangible has a different meaning and doesn't fit the context of this sentence.",
+      "imperceptible": "Imperceptible has a different meaning and doesn't fit the context of this sentence.",
+      "abstract": "Abstract has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "f5eb89bf-00e7-40c7-93b4-dd19c71f27e8",
+    "sentence": "The _____ argument convinced the jury.",
+    "correctAnswer": "quell",
+    "distractors": [
+      "encourage",
+      "promote",
+      "incite"
+    ],
+    "explanation": "Quell means put an end to.",
+    "incorrectExplanations": {
+      "encourage": "Encourage has a different meaning and doesn't fit the context of this sentence.",
+      "promote": "Promote has a different meaning and doesn't fit the context of this sentence.",
+      "incite": "Incite has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "47a8207a-21d9-4182-b126-5bce0ee17a1f",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "rancorous",
+    "distractors": [
+      "forgiving",
+      "kind",
+      "benevolent"
+    ],
+    "explanation": "Rancorous means characterized by bitterness.",
+    "incorrectExplanations": {
+      "forgiving": "Forgiving has a different meaning and doesn't fit the context of this sentence.",
+      "kind": "Kind has a different meaning and doesn't fit the context of this sentence.",
+      "benevolent": "Benevolent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "7cb62f04-3158-4f1c-8ff3-c18b32fcc0b5",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "supercilious",
+    "distractors": [
+      "humble",
+      "modest",
+      "respectful"
+    ],
+    "explanation": "Supercilious means behaving as if superior.",
+    "incorrectExplanations": {
+      "humble": "Humble has a different meaning and doesn't fit the context of this sentence.",
+      "modest": "Modest has a different meaning and doesn't fit the context of this sentence.",
+      "respectful": "Respectful has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "60df7701-6dbd-4760-ae39-297d363aa5b0",
+    "sentence": "The _____ performance received a standing ovation.",
+    "correctAnswer": "trepidation",
+    "distractors": [
+      "confidence",
+      "courage",
+      "boldness"
+    ],
+    "explanation": "Trepidation means a feeling of fear.",
+    "incorrectExplanations": {
+      "confidence": "Confidence has a different meaning and doesn't fit the context of this sentence.",
+      "courage": "Courage has a different meaning and doesn't fit the context of this sentence.",
+      "boldness": "Boldness has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "42a584e0-7a75-40e5-bf68-6d383584d823",
+    "sentence": "She maintained a _____ demeanor despite the pressure.",
+    "correctAnswer": "unctuous",
+    "distractors": [
+      "sincere",
+      "honest",
+      "genuine"
+    ],
+    "explanation": "Unctuous means excessively flattering.",
+    "incorrectExplanations": {
+      "sincere": "Sincere has a different meaning and doesn't fit the context of this sentence.",
+      "honest": "Honest has a different meaning and doesn't fit the context of this sentence.",
+      "genuine": "Genuine has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "1ff23931-fa9b-4154-9362-76cef365058b",
+    "sentence": "The _____ evidence supported their theory.",
+    "correctAnswer": "vitriolic",
+    "distractors": [
+      "praising",
+      "complimentary",
+      "supportive"
+    ],
+    "explanation": "Vitriolic means filled with bitter criticism.",
+    "incorrectExplanations": {
+      "praising": "Praising has a different meaning and doesn't fit the context of this sentence.",
+      "complimentary": "Complimentary has a different meaning and doesn't fit the context of this sentence.",
+      "supportive": "Supportive has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "2b82b577-2223-4415-9ff2-19916a321c42",
+    "sentence": "His _____ comments offended several people.",
+    "correctAnswer": "wistful",
+    "distractors": [
+      "satisfied",
+      "content",
+      "fulfilled"
+    ],
+    "explanation": "Wistful means having a feeling of longing.",
+    "incorrectExplanations": {
+      "satisfied": "Satisfied has a different meaning and doesn't fit the context of this sentence.",
+      "content": "Content has a different meaning and doesn't fit the context of this sentence.",
+      "fulfilled": "Fulfilled has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "ad5943c5-6ac7-44a4-b4cc-d227810789ff",
+    "sentence": "The  approach proved to be _____ in solving the problem.",
+    "correctAnswer": "yoke",
+    "distractors": [
+      "freedom",
+      "liberation",
+      "independence"
+    ],
+    "explanation": "Yoke means a wooden crosspiece.",
+    "incorrectExplanations": {
+      "freedom": "Freedom has a different meaning and doesn't fit the context of this sentence.",
+      "liberation": "Liberation has a different meaning and doesn't fit the context of this sentence.",
+      "independence": "Independence has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "00d74140-30e6-4ac7-a01c-0000c4a7468f",
+    "sentence": "Her _____ nature made her popular among colleagues.",
+    "correctAnswer": "zeal",
+    "distractors": [
+      "apathy",
+      "indifference",
+      "lethargy"
+    ],
+    "explanation": "Zeal means great energy or enthusiasm.",
+    "incorrectExplanations": {
+      "apathy": "Apathy has a different meaning and doesn't fit the context of this sentence.",
+      "indifference": "Indifference has a different meaning and doesn't fit the context of this sentence.",
+      "lethargy": "Lethargy has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "ff2c46f8-6f9a-47aa-ac01-69d23e8bc549",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "ambiguous",
+    "distractors": [
+      "clear",
+      "obvious",
+      "definite"
+    ],
+    "explanation": "Ambiguous means open to more than one interpretation.",
+    "incorrectExplanations": {
+      "clear": "Clear has a different meaning and doesn't fit the context of this sentence.",
+      "obvious": "Obvious has a different meaning and doesn't fit the context of this sentence.",
+      "definite": "Definite has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "354a1fdd-e4d8-47ea-9daf-c3162bb4eac9",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "belligerent",
+    "distractors": [
+      "peaceful",
+      "friendly",
+      "calm"
+    ],
+    "explanation": "Belligerent means hostile and aggressive.",
+    "incorrectExplanations": {
+      "peaceful": "Peaceful has a different meaning and doesn't fit the context of this sentence.",
+      "friendly": "Friendly has a different meaning and doesn't fit the context of this sentence.",
+      "calm": "Calm has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "d494f686-4c6a-4539-a6e4-85f42738eea2",
+    "sentence": "The _____ performance received a standing ovation.",
+    "correctAnswer": "capricious",
+    "distractors": [
+      "consistent",
+      "stable",
+      "predictable"
+    ],
+    "explanation": "Capricious means given to sudden changes of mood.",
+    "incorrectExplanations": {
+      "consistent": "Consistent has a different meaning and doesn't fit the context of this sentence.",
+      "stable": "Stable has a different meaning and doesn't fit the context of this sentence.",
+      "predictable": "Predictable has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "fac51233-2e11-4a25-92ba-ed955d763d21",
+    "sentence": "She maintained a _____ demeanor despite the pressure.",
+    "correctAnswer": "deferential",
+    "distractors": [
+      "disrespectful",
+      "rude",
+      "insolent"
+    ],
+    "explanation": "Deferential means showing respect.",
+    "incorrectExplanations": {
+      "disrespectful": "Disrespectful has a different meaning and doesn't fit the context of this sentence.",
+      "rude": "Rude has a different meaning and doesn't fit the context of this sentence.",
+      "insolent": "Insolent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "e00ce408-3660-428d-ad91-e155793560da",
+    "sentence": "The _____ evidence supported their theory.",
+    "correctAnswer": "enigmatic",
+    "distractors": [
+      "obvious",
+      "clear",
+      "transparent"
+    ],
+    "explanation": "Enigmatic means mysterious and puzzling.",
+    "incorrectExplanations": {
+      "obvious": "Obvious has a different meaning and doesn't fit the context of this sentence.",
+      "clear": "Clear has a different meaning and doesn't fit the context of this sentence.",
+      "transparent": "Transparent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "3d7d88a1-5c90-48a1-8cf1-fed0618b0206",
+    "sentence": "His _____ comments offended several people.",
+    "correctAnswer": "fastidious",
+    "distractors": [
+      "careless",
+      "sloppy",
+      "negligent"
+    ],
+    "explanation": "Fastidious means very attentive to detail.",
+    "incorrectExplanations": {
+      "careless": "Careless has a different meaning and doesn't fit the context of this sentence.",
+      "sloppy": "Sloppy has a different meaning and doesn't fit the context of this sentence.",
+      "negligent": "Negligent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "c4c1973b-19c1-4457-b254-2c5607fe827a",
+    "sentence": "The _____ strategy proved highly effective.",
+    "correctAnswer": "garrulous",
+    "distractors": [
+      "quiet",
+      "silent",
+      "reserved"
+    ],
+    "explanation": "Garrulous means excessively talkative.",
+    "incorrectExplanations": {
+      "quiet": "Quiet has a different meaning and doesn't fit the context of this sentence.",
+      "silent": "Silent has a different meaning and doesn't fit the context of this sentence.",
+      "reserved": "Reserved has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "b1dd8838-c8bd-464e-956c-7f8e0b3c8b7c",
+    "sentence": "The  approach proved to be _____ in solving the problem.",
+    "correctAnswer": "hackneyed",
+    "distractors": [
+      "original",
+      "fresh",
+      "innovative"
+    ],
+    "explanation": "Hackneyed means overused and lacking originality.",
+    "incorrectExplanations": {
+      "original": "Original has a different meaning and doesn't fit the context of this sentence.",
+      "fresh": "Fresh has a different meaning and doesn't fit the context of this sentence.",
+      "innovative": "Innovative has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "ca81c185-4ed6-4df4-8b4e-dc054c603ce1",
+    "sentence": "Her _____ nature made her popular among colleagues.",
+    "correctAnswer": "impetuous",
+    "distractors": [
+      "cautious",
+      "careful",
+      "deliberate"
+    ],
+    "explanation": "Impetuous means acting quickly without thought.",
+    "incorrectExplanations": {
+      "cautious": "Cautious has a different meaning and doesn't fit the context of this sentence.",
+      "careful": "Careful has a different meaning and doesn't fit the context of this sentence.",
+      "deliberate": "Deliberate has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "b7598d56-3f26-4b4d-a13a-339bbae3554a",
+    "sentence": "The _____ student always completed assignments on time.",
+    "correctAnswer": "jocular",
+    "distractors": [
+      "serious",
+      "somber",
+      "grave"
+    ],
+    "explanation": "Jocular means fond of joking; humorous.",
+    "incorrectExplanations": {
+      "serious": "Serious has a different meaning and doesn't fit the context of this sentence.",
+      "somber": "Somber has a different meaning and doesn't fit the context of this sentence.",
+      "grave": "Grave has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "bbb254ee-7299-427a-9664-b34f4b5fab4a",
+    "sentence": "The professor's _____ explanation helped everyone understand.",
+    "correctAnswer": "laconic",
+    "distractors": [
+      "verbose",
+      "wordy",
+      "talkative"
+    ],
+    "explanation": "Laconic means using few words; concise.",
+    "incorrectExplanations": {
+      "verbose": "Verbose has a different meaning and doesn't fit the context of this sentence.",
+      "wordy": "Wordy has a different meaning and doesn't fit the context of this sentence.",
+      "talkative": "Talkative has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "fbec3425-bdc6-479c-90bc-03540d588f70",
+    "sentence": "His _____ attitude toward work impressed his supervisor.",
+    "correctAnswer": "malevolent",
+    "distractors": [
+      "kind",
+      "benevolent",
+      "good"
+    ],
+    "explanation": "Malevolent means having evil intentions.",
+    "incorrectExplanations": {
+      "kind": "Kind has a different meaning and doesn't fit the context of this sentence.",
+      "benevolent": "Benevolent has a different meaning and doesn't fit the context of this sentence.",
+      "good": "Good has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "aadacbe6-0caa-4037-9782-980d5df90691",
+    "sentence": "The _____ design of the building attracted many visitors.",
+    "correctAnswer": "nascent",
+    "distractors": [
+      "mature",
+      "established",
+      "developed"
+    ],
+    "explanation": "Nascent means just beginning to develop.",
+    "incorrectExplanations": {
+      "mature": "Mature has a different meaning and doesn't fit the context of this sentence.",
+      "established": "Established has a different meaning and doesn't fit the context of this sentence.",
+      "developed": "Developed has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "963b4887-7c14-450e-9267-dd101938631d",
+    "sentence": "She gave a _____ response to the difficult question.",
+    "correctAnswer": "ostentatious",
+    "distractors": [
+      "modest",
+      "humble",
+      "understated"
+    ],
+    "explanation": "Ostentatious means designed to impress.",
+    "incorrectExplanations": {
+      "modest": "Modest has a different meaning and doesn't fit the context of this sentence.",
+      "humble": "Humble has a different meaning and doesn't fit the context of this sentence.",
+      "understated": "Understated has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "942d5ad0-2833-45d8-a7c2-e847c55d266f",
+    "sentence": "The _____ weather forced them to cancel the outdoor event.",
+    "correctAnswer": "pensive",
+    "distractors": [
+      "thoughtless",
+      "carefree",
+      "unthinking"
+    ],
+    "explanation": "Pensive means engaged in deep thought.",
+    "incorrectExplanations": {
+      "thoughtless": "Thoughtless has a different meaning and doesn't fit the context of this sentence.",
+      "carefree": "Carefree has a different meaning and doesn't fit the context of this sentence.",
+      "unthinking": "Unthinking has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "9559b2a1-45d5-440c-8caa-86f5c3ab47e6",
+    "sentence": "His _____ behavior during the meeting was inappropriate.",
+    "correctAnswer": "querulous",
+    "distractors": [
+      "content",
+      "satisfied",
+      "agreeable"
+    ],
+    "explanation": "Querulous means complaining in a petulant way.",
+    "incorrectExplanations": {
+      "content": "Content has a different meaning and doesn't fit the context of this sentence.",
+      "satisfied": "Satisfied has a different meaning and doesn't fit the context of this sentence.",
+      "agreeable": "Agreeable has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "d02ba05c-fa30-4af3-a9b5-5d91351e1c89",
+    "sentence": "The _____ solution saved the company significant money.",
+    "correctAnswer": "recalcitrant",
+    "distractors": [
+      "obedient",
+      "compliant",
+      "cooperative"
+    ],
+    "explanation": "Recalcitrant means stubbornly defiant.",
+    "incorrectExplanations": {
+      "obedient": "Obedient has a different meaning and doesn't fit the context of this sentence.",
+      "compliant": "Compliant has a different meaning and doesn't fit the context of this sentence.",
+      "cooperative": "Cooperative has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "724075df-ee16-435a-b054-885592c4f422",
+    "sentence": "The team's _____ effort led to their success.",
+    "correctAnswer": "sanguine",
+    "distractors": [
+      "pessimistic",
+      "gloomy",
+      "negative"
+    ],
+    "explanation": "Sanguine means optimistic and confident.",
+    "incorrectExplanations": {
+      "pessimistic": "Pessimistic has a different meaning and doesn't fit the context of this sentence.",
+      "gloomy": "Gloomy has a different meaning and doesn't fit the context of this sentence.",
+      "negative": "Negative has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "55c5bcce-a155-4e95-a0df-ee2d9d6afe67",
+    "sentence": "Her _____ personality made her an excellent leader.",
+    "correctAnswer": "taciturn",
+    "distractors": [
+      "talkative",
+      "chatty",
+      "verbose"
+    ],
+    "explanation": "Taciturn means reserved in speech.",
+    "incorrectExplanations": {
+      "talkative": "Talkative has a different meaning and doesn't fit the context of this sentence.",
+      "chatty": "Chatty has a different meaning and doesn't fit the context of this sentence.",
+      "verbose": "Verbose has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "6fcdfb2f-4e65-45ad-bad7-0f3eb6db2a6c",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "vacillate",
+    "distractors": [
+      "decide",
+      "commit",
+      "resolve"
+    ],
+    "explanation": "Vacillate means waver between different opinions.",
+    "incorrectExplanations": {
+      "decide": "Decide has a different meaning and doesn't fit the context of this sentence.",
+      "commit": "Commit has a different meaning and doesn't fit the context of this sentence.",
+      "resolve": "Resolve has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "a99af39b-2a93-4936-ba6a-c8aeef0b33e4",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "whimsical",
+    "distractors": [
+      "serious",
+      "practical",
+      "realistic"
+    ],
+    "explanation": "Whimsical means playfully quaint or fanciful.",
+    "incorrectExplanations": {
+      "serious": "Serious has a different meaning and doesn't fit the context of this sentence.",
+      "practical": "Practical has a different meaning and doesn't fit the context of this sentence.",
+      "realistic": "Realistic has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "7078232a-3135-4f6e-8777-598d00263462",
+    "sentence": "The _____ performance received a standing ovation.",
+    "correctAnswer": "xenial",
+    "distractors": [
+      "hostile",
+      "unwelcoming",
+      "inhospitable"
+    ],
+    "explanation": "Xenial means of or relating to hospitality.",
+    "incorrectExplanations": {
+      "hostile": "Hostile has a different meaning and doesn't fit the context of this sentence.",
+      "unwelcoming": "Unwelcoming has a different meaning and doesn't fit the context of this sentence.",
+      "inhospitable": "Inhospitable has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "acd87aca-5c10-442e-ace8-005641579f29",
+    "sentence": "She maintained a _____ demeanor despite the pressure.",
+    "correctAnswer": "yearning",
+    "distractors": [
+      "satisfaction",
+      "contentment",
+      "fulfillment"
+    ],
+    "explanation": "Yearning means a feeling of intense longing.",
+    "incorrectExplanations": {
+      "satisfaction": "Satisfaction has a different meaning and doesn't fit the context of this sentence.",
+      "contentment": "Contentment has a different meaning and doesn't fit the context of this sentence.",
+      "fulfillment": "Fulfillment has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "1360d905-b00a-415f-91de-b955f730d8bd",
+    "sentence": "The _____ evidence supported their theory.",
+    "correctAnswer": "zephyr",
+    "distractors": [
+      "gale",
+      "storm",
+      "hurricane"
+    ],
+    "explanation": "Zephyr means a gentle mild breeze.",
+    "incorrectExplanations": {
+      "gale": "Gale has a different meaning and doesn't fit the context of this sentence.",
+      "storm": "Storm has a different meaning and doesn't fit the context of this sentence.",
+      "hurricane": "Hurricane has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "0769f5c8-13e1-4904-b98b-a0a8a2246ba5",
+    "sentence": "His _____ comments offended several people.",
+    "correctAnswer": "abstruse",
+    "distractors": [
+      "simple",
+      "clear",
+      "obvious"
+    ],
+    "explanation": "Abstruse means difficult to understand.",
+    "incorrectExplanations": {
+      "simple": "Simple has a different meaning and doesn't fit the context of this sentence.",
+      "clear": "Clear has a different meaning and doesn't fit the context of this sentence.",
+      "obvious": "Obvious has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "ea6fc7fc-cbaa-4909-8cfe-3b6aa5502c52",
+    "sentence": "The _____ strategy proved highly effective.",
+    "correctAnswer": "bucolic",
+    "distractors": [
+      "urban",
+      "metropolitan",
+      "industrial"
+    ],
+    "explanation": "Bucolic means relating to rural life.",
+    "incorrectExplanations": {
+      "urban": "Urban has a different meaning and doesn't fit the context of this sentence.",
+      "metropolitan": "Metropolitan has a different meaning and doesn't fit the context of this sentence.",
+      "industrial": "Industrial has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "b29573b4-c6c7-49ae-b2b5-92059af783c2",
+    "sentence": "The  approach proved to be _____ in solving the problem.",
+    "correctAnswer": "cogent",
+    "distractors": [
+      "confusing",
+      "illogical",
+      "unclear"
+    ],
+    "explanation": "Cogent means clear and logical.",
+    "incorrectExplanations": {
+      "confusing": "Confusing has a different meaning and doesn't fit the context of this sentence.",
+      "illogical": "Illogical has a different meaning and doesn't fit the context of this sentence.",
+      "unclear": "Unclear has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "f9662ac8-f893-4978-893b-329ec0722d72",
+    "sentence": "Her _____ nature made her popular among colleagues.",
+    "correctAnswer": "didactic",
+    "distractors": [
+      "entertaining",
+      "amusing",
+      "recreational"
+    ],
+    "explanation": "Didactic means intended to teach.",
+    "incorrectExplanations": {
+      "entertaining": "Entertaining has a different meaning and doesn't fit the context of this sentence.",
+      "amusing": "Amusing has a different meaning and doesn't fit the context of this sentence.",
+      "recreational": "Recreational has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "55e79cd7-ba3b-40f7-995e-e81da537e8c0",
+    "sentence": "The _____ student always completed assignments on time.",
+    "correctAnswer": "ebullient",
+    "distractors": [
+      "depressed",
+      "lethargic",
+      "gloomy"
+    ],
+    "explanation": "Ebullient means cheerful and full of energy.",
+    "incorrectExplanations": {
+      "depressed": "Depressed has a different meaning and doesn't fit the context of this sentence.",
+      "lethargic": "Lethargic has a different meaning and doesn't fit the context of this sentence.",
+      "gloomy": "Gloomy has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "2eeaef64-4670-442a-80e5-71b6cd3cc3b1",
+    "sentence": "The professor's _____ explanation helped everyone understand.",
+    "correctAnswer": "furtive",
+    "distractors": [
+      "obvious",
+      "open",
+      "conspicuous"
+    ],
+    "explanation": "Furtive means attempting to avoid notice.",
+    "incorrectExplanations": {
+      "obvious": "Obvious has a different meaning and doesn't fit the context of this sentence.",
+      "open": "Open has a different meaning and doesn't fit the context of this sentence.",
+      "conspicuous": "Conspicuous has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "39e855c6-1890-4ef7-aea1-d26614512fc4",
+    "sentence": "His _____ attitude toward work impressed his supervisor.",
+    "correctAnswer": "gaunt",
+    "distractors": [
+      "plump",
+      "robust",
+      "healthy"
+    ],
+    "explanation": "Gaunt means lean and haggard.",
+    "incorrectExplanations": {
+      "plump": "Plump has a different meaning and doesn't fit the context of this sentence.",
+      "robust": "Robust has a different meaning and doesn't fit the context of this sentence.",
+      "healthy": "Healthy has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "a2993070-f9fe-43ac-b3ed-ce31badf1e14",
+    "sentence": "The _____ design of the building attracted many visitors.",
+    "correctAnswer": "halcyon",
+    "distractors": [
+      "turbulent",
+      "chaotic",
+      "troubled"
+    ],
+    "explanation": "Halcyon means denoting a period of peace.",
+    "incorrectExplanations": {
+      "turbulent": "Turbulent has a different meaning and doesn't fit the context of this sentence.",
+      "chaotic": "Chaotic has a different meaning and doesn't fit the context of this sentence.",
+      "troubled": "Troubled has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "767fb722-28b7-4acb-90bc-2a77e4591cae",
+    "sentence": "The team's _____ effort led to their success.",
+    "correctAnswer": "acrimonious",
+    "distractors": [
+      "friendly",
+      "pleasant",
+      "agreeable"
+    ],
+    "explanation": "Acrimonious means angry and bitter.",
+    "incorrectExplanations": {
+      "friendly": "Friendly has a different meaning and doesn't fit the context of this sentence.",
+      "pleasant": "Pleasant has a different meaning and doesn't fit the context of this sentence.",
+      "agreeable": "Agreeable has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "3e6c3213-6316-4103-92a4-a703ffea3598",
+    "sentence": "Her _____ personality made her an excellent leader.",
+    "correctAnswer": "bombastic",
+    "distractors": [
+      "modest",
+      "understated",
+      "simple"
+    ],
+    "explanation": "Bombastic means high-sounding but with little meaning.",
+    "incorrectExplanations": {
+      "modest": "Modest has a different meaning and doesn't fit the context of this sentence.",
+      "understated": "Understated has a different meaning and doesn't fit the context of this sentence.",
+      "simple": "Simple has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "037f2389-3f48-4a79-8e69-9e9a46eef99d",
+    "sentence": "The _____ argument convinced the jury.",
+    "correctAnswer": "cacophonous",
+    "distractors": [
+      "melodious",
+      "harmonious",
+      "pleasant"
+    ],
+    "explanation": "Cacophonous means involving harsh discordant sounds.",
+    "incorrectExplanations": {
+      "melodious": "Melodious has a different meaning and doesn't fit the context of this sentence.",
+      "harmonious": "Harmonious has a different meaning and doesn't fit the context of this sentence.",
+      "pleasant": "Pleasant has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "588c20f5-684c-4eb1-8e7a-c510434b2fc0",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "deleterious",
+    "distractors": [
+      "beneficial",
+      "helpful",
+      "constructive"
+    ],
+    "explanation": "Deleterious means causing harm or damage.",
+    "incorrectExplanations": {
+      "beneficial": "Beneficial has a different meaning and doesn't fit the context of this sentence.",
+      "helpful": "Helpful has a different meaning and doesn't fit the context of this sentence.",
+      "constructive": "Constructive has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "d0b05f9c-581a-432f-8a35-ff3d08dc1f54",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "effervescent",
+    "distractors": [
+      "dull",
+      "lifeless",
+      "subdued"
+    ],
+    "explanation": "Effervescent means vivacious and enthusiastic.",
+    "incorrectExplanations": {
+      "dull": "Dull has a different meaning and doesn't fit the context of this sentence.",
+      "lifeless": "Lifeless has a different meaning and doesn't fit the context of this sentence.",
+      "subdued": "Subdued has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "a782f562-4bf8-41cc-a0e2-ab5e8b11af92",
+    "sentence": "The _____ performance received a standing ovation.",
+    "correctAnswer": "fractious",
+    "distractors": [
+      "agreeable",
+      "cooperative",
+      "peaceful"
+    ],
+    "explanation": "Fractious means irritable and quarrelsome.",
+    "incorrectExplanations": {
+      "agreeable": "Agreeable has a different meaning and doesn't fit the context of this sentence.",
+      "cooperative": "Cooperative has a different meaning and doesn't fit the context of this sentence.",
+      "peaceful": "Peaceful has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "4dd54cef-fe21-4953-8f3c-6cd3278f884a",
+    "sentence": "She maintained a _____ demeanor despite the pressure.",
+    "correctAnswer": "grandiloquent",
+    "distractors": [
+      "simple",
+      "plain",
+      "modest"
+    ],
+    "explanation": "Grandiloquent means pompous or extravagant in language.",
+    "incorrectExplanations": {
+      "simple": "Simple has a different meaning and doesn't fit the context of this sentence.",
+      "plain": "Plain has a different meaning and doesn't fit the context of this sentence.",
+      "modest": "Modest has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "0b1c3ab6-61a6-4fa6-9849-4600c737bbd0",
+    "sentence": "The _____ evidence supported their theory.",
+    "correctAnswer": "histrionic",
+    "distractors": [
+      "understated",
+      "subtle",
+      "restrained"
+    ],
+    "explanation": "Histrionic means overly theatrical or dramatic.",
+    "incorrectExplanations": {
+      "understated": "Understated has a different meaning and doesn't fit the context of this sentence.",
+      "subtle": "Subtle has a different meaning and doesn't fit the context of this sentence.",
+      "restrained": "Restrained has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "75bd5313-683b-427d-bf22-464394f59c63",
+    "sentence": "His _____ comments offended several people.",
+    "correctAnswer": "insipid",
+    "distractors": [
+      "flavorful",
+      "exciting",
+      "stimulating"
+    ],
+    "explanation": "Insipid means lacking flavor or vigor.",
+    "incorrectExplanations": {
+      "flavorful": "Flavorful has a different meaning and doesn't fit the context of this sentence.",
+      "exciting": "Exciting has a different meaning and doesn't fit the context of this sentence.",
+      "stimulating": "Stimulating has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "9f08f841-d7c5-48e7-bdc3-9b0a203fb014",
+    "sentence": "The _____ strategy proved highly effective.",
+    "correctAnswer": "jejune",
+    "distractors": [
+      "sophisticated",
+      "complex",
+      "mature"
+    ],
+    "explanation": "Jejune means naive, simplistic, and superficial.",
+    "incorrectExplanations": {
+      "sophisticated": "Sophisticated has a different meaning and doesn't fit the context of this sentence.",
+      "complex": "Complex has a different meaning and doesn't fit the context of this sentence.",
+      "mature": "Mature has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "47c6ee83-2ccf-4a99-89ff-feec0fb44150",
+    "sentence": "The approach proved to be _____ in solving the problem.",
+    "correctAnswer": "knavish",
+    "distractors": [
+      "honest",
+      "trustworthy",
+      "ethical"
+    ],
+    "explanation": "Knavish means dishonest and unscrupulous.",
+    "incorrectExplanations": {
+      "honest": "Honest has a different meaning and doesn't fit the context of this sentence.",
+      "trustworthy": "Trustworthy has a different meaning and doesn't fit the context of this sentence.",
+      "ethical": "Ethical has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "5f839b85-e98c-448c-a6ba-a29485473bc0",
+    "sentence": "Her _____ nature made her popular among colleagues.",
+    "correctAnswer": "lugubrious",
+    "distractors": [
+      "cheerful",
+      "happy",
+      "upbeat"
+    ],
+    "explanation": "Lugubrious means looking or sounding sad.",
+    "incorrectExplanations": {
+      "cheerful": "Cheerful has a different meaning and doesn't fit the context of this sentence.",
+      "happy": "Happy has a different meaning and doesn't fit the context of this sentence.",
+      "upbeat": "Upbeat has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "6ba234e3-790d-49ee-8c34-c3094271701f",
+    "sentence": "The _____ student always completed assignments on time.",
+    "correctAnswer": "mendacious",
+    "distractors": [
+      "truthful",
+      "honest",
+      "sincere"
+    ],
+    "explanation": "Mendacious means given to lying.",
+    "incorrectExplanations": {
+      "truthful": "Truthful has a different meaning and doesn't fit the context of this sentence.",
+      "honest": "Honest has a different meaning and doesn't fit the context of this sentence.",
+      "sincere": "Sincere has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "a55fdb6b-4e4d-40e8-bbcc-86d228c2617f",
+    "sentence": "The professor's _____ explanation helped everyone understand.",
+    "correctAnswer": "nugatory",
+    "distractors": [
+      "valuable",
+      "important",
+      "significant"
+    ],
+    "explanation": "Nugatory means of no value or importance.",
+    "incorrectExplanations": {
+      "valuable": "Valuable has a different meaning and doesn't fit the context of this sentence.",
+      "important": "Important has a different meaning and doesn't fit the context of this sentence.",
+      "significant": "Significant has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "94cb92be-c069-4b00-85ce-ce736ed4ed56",
+    "sentence": "His _____ attitude toward work impressed his supervisor.",
+    "correctAnswer": "obsequious",
+    "distractors": [
+      "independent",
+      "assertive",
+      "defiant"
+    ],
+    "explanation": "Obsequious means obedient or attentive to an excessive degree.",
+    "incorrectExplanations": {
+      "independent": "Independent has a different meaning and doesn't fit the context of this sentence.",
+      "assertive": "Assertive has a different meaning and doesn't fit the context of this sentence.",
+      "defiant": "Defiant has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "95f77c98-d2ac-4fb6-9828-5b6829401087",
+    "sentence": "The _____ design of the building attracted many visitors.",
+    "correctAnswer": "parsimonious",
+    "distractors": [
+      "generous",
+      "lavish",
+      "extravagant"
+    ],
+    "explanation": "Parsimonious means extremely frugal.",
+    "incorrectExplanations": {
+      "generous": "Generous has a different meaning and doesn't fit the context of this sentence.",
+      "lavish": "Lavish has a different meaning and doesn't fit the context of this sentence.",
+      "extravagant": "Extravagant has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "23d0e209-f08e-4407-8e79-3e2e3b479e06",
+    "sentence": "She gave a _____ response to the difficult question.",
+    "correctAnswer": "quiescent",
+    "distractors": [
+      "active",
+      "energetic",
+      "dynamic"
+    ],
+    "explanation": "Quiescent means in a state of inactivity.",
+    "incorrectExplanations": {
+      "active": "Active has a different meaning and doesn't fit the context of this sentence.",
+      "energetic": "Energetic has a different meaning and doesn't fit the context of this sentence.",
+      "dynamic": "Dynamic has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "ff4e9ed5-f371-4b7b-8a68-ee127abccb4f",
+    "sentence": "The _____ weather forced them to cancel the outdoor event.",
+    "correctAnswer": "recondite",
+    "distractors": [
+      "obvious",
+      "well-known",
+      "clear"
+    ],
+    "explanation": "Recondite means little known; abstruse.",
+    "incorrectExplanations": {
+      "obvious": "Obvious has a different meaning and doesn't fit the context of this sentence.",
+      "well-known": "Well-known has a different meaning and doesn't fit the context of this sentence.",
+      "clear": "Clear has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "22a81902-b432-4cbd-b5f5-167c2608d660",
+    "sentence": "His _____ behavior during the meeting was inappropriate.",
+    "correctAnswer": "stentorian",
+    "distractors": [
+      "quiet",
+      "soft",
+      "whispered"
+    ],
+    "explanation": "Stentorian means loud and powerful.",
+    "incorrectExplanations": {
+      "quiet": "Quiet has a different meaning and doesn't fit the context of this sentence.",
+      "soft": "Soft has a different meaning and doesn't fit the context of this sentence.",
+      "whispered": "Whispered has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "018ac17e-f574-43b8-b12d-55418cf512e8",
+    "sentence": "The _____ solution saved the company significant money.",
+    "correctAnswer": "truculent",
+    "distractors": [
+      "peaceful",
+      "gentle",
+      "calm"
+    ],
+    "explanation": "Truculent means eager to fight; aggressive.",
+    "incorrectExplanations": {
+      "peaceful": "Peaceful has a different meaning and doesn't fit the context of this sentence.",
+      "gentle": "Gentle has a different meaning and doesn't fit the context of this sentence.",
+      "calm": "Calm has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "0288c586-fbbb-4656-b69c-14c59ea7cee9",
+    "sentence": "The team's _____ effort led to their success.",
+    "correctAnswer": "vituperative",
+    "distractors": [
+      "kind",
+      "gentle",
+      "complimentary"
+    ],
+    "explanation": "Vituperative means bitter and abusive.",
+    "incorrectExplanations": {
+      "kind": "Kind has a different meaning and doesn't fit the context of this sentence.",
+      "gentle": "Gentle has a different meaning and doesn't fit the context of this sentence.",
+      "complimentary": "Complimentary has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "fcbeaced-63fb-4929-a7e3-4a314513b8ab",
+    "sentence": "Her _____ personality made her an excellent leader.",
+    "correctAnswer": "winsome",
+    "distractors": [
+      "unattractive",
+      "repulsive",
+      "off-putting"
+    ],
+    "explanation": "Winsome means attractive or appealing.",
+    "incorrectExplanations": {
+      "unattractive": "Unattractive has a different meaning and doesn't fit the context of this sentence.",
+      "repulsive": "Repulsive has a different meaning and doesn't fit the context of this sentence.",
+      "off-putting": "Off-putting has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "1e71c92a-3e3b-4047-8cf9-b6b3506a1e39",
+    "sentence": "The _____ argument convinced the jury.",
+    "correctAnswer": "xerotic",
+    "distractors": [
+      "moist",
+      "wet",
+      "humid"
+    ],
+    "explanation": "Xerotic means characterized by dryness.",
+    "incorrectExplanations": {
+      "moist": "Moist has a different meaning and doesn't fit the context of this sentence.",
+      "wet": "Wet has a different meaning and doesn't fit the context of this sentence.",
+      "humid": "Humid has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "c079a68c-6d3d-438c-8828-cf0edc2c435b",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "yammer",
+    "distractors": [
+      "silence",
+      "quiet",
+      "hush"
+    ],
+    "explanation": "Yammer means talk persistently.",
+    "incorrectExplanations": {
+      "silence": "Silence has a different meaning and doesn't fit the context of this sentence.",
+      "quiet": "Quiet has a different meaning and doesn't fit the context of this sentence.",
+      "hush": "Hush has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "833e73c1-5609-490e-8603-df8f3edf0401",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "zeitgeist",
+    "distractors": [
+      "timeless",
+      "eternal",
+      "unchanging"
+    ],
+    "explanation": "Zeitgeist means spirit of the times.",
+    "incorrectExplanations": {
+      "timeless": "Timeless has a different meaning and doesn't fit the context of this sentence.",
+      "eternal": "Eternal has a different meaning and doesn't fit the context of this sentence.",
+      "unchanging": "Unchanging has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "72bffae3-b81b-434f-a6db-b8a3aa71fb35",
+    "sentence": "The approach proved to be _____ in solving the problem.",
+    "correctAnswer": "abate",
+    "distractors": [
+      "increase",
+      "intensify",
+      "strengthen"
+    ],
+    "explanation": "Abate means become less intense or widespread.",
+    "incorrectExplanations": {
+      "increase": "Increase has a different meaning and doesn't fit the context of this sentence.",
+      "intensify": "Intensify has a different meaning and doesn't fit the context of this sentence.",
+      "strengthen": "Strengthen has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "58b4e0d4-714a-4bd9-8726-d5b8f21d6ca7",
+    "sentence": "Her _____ nature made her popular among colleagues.",
+    "correctAnswer": "brevity",
+    "distractors": [
+      "verbosity",
+      "wordiness",
+      "lengthiness"
+    ],
+    "explanation": "Brevity means concise and exact use of words.",
+    "incorrectExplanations": {
+      "verbosity": "Verbosity has a different meaning and doesn't fit the context of this sentence.",
+      "wordiness": "Wordiness has a different meaning and doesn't fit the context of this sentence.",
+      "lengthiness": "Lengthiness has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "f0e4170c-af52-42e8-9ecb-426db258be0b",
+    "sentence": "The _____ student always completed assignments on time.",
+    "correctAnswer": "capitulate",
+    "distractors": [
+      "resist",
+      "fight",
+      "oppose"
+    ],
+    "explanation": "Capitulate means cease to resist; surrender.",
+    "incorrectExplanations": {
+      "resist": "Resist has a different meaning and doesn't fit the context of this sentence.",
+      "fight": "Fight has a different meaning and doesn't fit the context of this sentence.",
+      "oppose": "Oppose has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "93d04d75-54ed-4e11-9c02-d4d881d421d2",
+    "sentence": "The professor's _____ explanation helped everyone understand.",
+    "correctAnswer": "debacle",
+    "distractors": [
+      "success",
+      "triumph",
+      "victory"
+    ],
+    "explanation": "Debacle means a sudden and ignominious failure.",
+    "incorrectExplanations": {
+      "success": "Success has a different meaning and doesn't fit the context of this sentence.",
+      "triumph": "Triumph has a different meaning and doesn't fit the context of this sentence.",
+      "victory": "Victory has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "7b55cb90-4f94-4917-a066-697f3f66b94a",
+    "sentence": "His _____ attitude toward work impressed his supervisor.",
+    "correctAnswer": "facetious",
+    "distractors": [
+      "serious",
+      "solemn",
+      "grave"
+    ],
+    "explanation": "Facetious means treating serious issues with inappropriate humor.",
+    "incorrectExplanations": {
+      "serious": "Serious has a different meaning and doesn't fit the context of this sentence.",
+      "solemn": "Solemn has a different meaning and doesn't fit the context of this sentence.",
+      "grave": "Grave has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "a4e30f9c-8115-4c52-b42d-b9c1f9d735d4",
+    "sentence": "The _____ design of the building attracted many visitors.",
+    "correctAnswer": "impeccable",
+    "distractors": [
+      "flawed",
+      "imperfect",
+      "faulty"
+    ],
+    "explanation": "Impeccable means in accordance with the highest standards.",
+    "incorrectExplanations": {
+      "flawed": "Flawed has a different meaning and doesn't fit the context of this sentence.",
+      "imperfect": "Imperfect has a different meaning and doesn't fit the context of this sentence.",
+      "faulty": "Faulty has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "452f6a43-48b4-4d6f-8618-1fcbea22efcf",
+    "sentence": "She gave a _____ response to the difficult question.",
+    "correctAnswer": "juxtapose",
+    "distractors": [
+      "separate",
+      "isolate",
+      "divide"
+    ],
+    "explanation": "Juxtapose means place or deal with close together.",
+    "incorrectExplanations": {
+      "separate": "Separate has a different meaning and doesn't fit the context of this sentence.",
+      "isolate": "Isolate has a different meaning and doesn't fit the context of this sentence.",
+      "divide": "Divide has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "4841068d-4cd8-49f8-ae4f-13c7d6a8fde2",
+    "sentence": "The _____ weather forced them to cancel the outdoor event.",
+    "correctAnswer": "loquacious",
+    "distractors": [
+      "quiet",
+      "reserved",
+      "taciturn"
+    ],
+    "explanation": "Loquacious means tending to talk a great deal.",
+    "incorrectExplanations": {
+      "quiet": "Quiet has a different meaning and doesn't fit the context of this sentence.",
+      "reserved": "Reserved has a different meaning and doesn't fit the context of this sentence.",
+      "taciturn": "Taciturn has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "a551609b-88b8-4cdb-81d6-a2d8108c039e",
+    "sentence": "His _____ behavior during the meeting was inappropriate.",
+    "correctAnswer": "nebulous",
+    "distractors": [
+      "clear",
+      "definite",
+      "precise"
+    ],
+    "explanation": "Nebulous means in the form of a cloud; hazy.",
+    "incorrectExplanations": {
+      "clear": "Clear has a different meaning and doesn't fit the context of this sentence.",
+      "definite": "Definite has a different meaning and doesn't fit the context of this sentence.",
+      "precise": "Precise has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "30f7c5d4-0db0-4050-b7ef-86c074f8a39a",
+    "sentence": "The _____ solution saved the company significant money.",
+    "correctAnswer": "quandary",
+    "distractors": [
+      "certainty",
+      "clarity",
+      "resolution"
+    ],
+    "explanation": "Quandary means a state of perplexity.",
+    "incorrectExplanations": {
+      "certainty": "Certainty has a different meaning and doesn't fit the context of this sentence.",
+      "clarity": "Clarity has a different meaning and doesn't fit the context of this sentence.",
+      "resolution": "Resolution has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "521359c3-fb27-48cc-9541-2efb6c8d2917",
+    "sentence": "The team's _____ effort led to their success.",
+    "correctAnswer": "rancor",
+    "distractors": [
+      "goodwill",
+      "kindness",
+      "forgiveness"
+    ],
+    "explanation": "Rancor means bitterness or resentfulness.",
+    "incorrectExplanations": {
+      "goodwill": "Goodwill has a different meaning and doesn't fit the context of this sentence.",
+      "kindness": "Kindness has a different meaning and doesn't fit the context of this sentence.",
+      "forgiveness": "Forgiveness has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "bfd17cf6-12b5-4f62-92fd-d83865f667db",
+    "sentence": "Her _____ personality made her an excellent leader.",
+    "correctAnswer": "tangible",
+    "distractors": [
+      "intangible",
+      "abstract",
+      "imperceptible"
+    ],
+    "explanation": "Tangible means perceptible by touch.",
+    "incorrectExplanations": {
+      "intangible": "Intangible has a different meaning and doesn't fit the context of this sentence.",
+      "abstract": "Abstract has a different meaning and doesn't fit the context of this sentence.",
+      "imperceptible": "Imperceptible has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "edfc2b93-4ac6-48d1-bc02-951119eb3f0d",
+    "sentence": "The _____ argument convinced the jury.",
+    "correctAnswer": "verbose",
+    "distractors": [
+      "concise",
+      "brief",
+      "succinct"
+    ],
+    "explanation": "Verbose means using more words than needed.",
+    "incorrectExplanations": {
+      "concise": "Concise has a different meaning and doesn't fit the context of this sentence.",
+      "brief": "Brief has a different meaning and doesn't fit the context of this sentence.",
+      "succinct": "Succinct has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "5f836aa4-27ae-4e1e-8af8-f0394e129e7f",
+    "sentence": "The _____ conditions made travel dangerous.",
+    "correctAnswer": "yearn",
+    "distractors": [
+      "despise",
+      "reject",
+      "avoid"
+    ],
+    "explanation": "Yearn means have an intense feeling of longing.",
+    "incorrectExplanations": {
+      "despise": "Despise has a different meaning and doesn't fit the context of this sentence.",
+      "reject": "Reject has a different meaning and doesn't fit the context of this sentence.",
+      "avoid": "Avoid has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "678bd552-8921-4c46-a5f2-a55055801c66",
+    "sentence": "His _____ approach to the problem was innovative.",
+    "correctAnswer": "zestful",
+    "distractors": [
+      "apathetic",
+      "listless",
+      "indifferent"
+    ],
+    "explanation": "Zestful means characterized by great enthusiasm.",
+    "incorrectExplanations": {
+      "apathetic": "Apathetic has a different meaning and doesn't fit the context of this sentence.",
+      "listless": "Listless has a different meaning and doesn't fit the context of this sentence.",
+      "indifferent": "Indifferent has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "027a9c9b-ec30-4e94-baab-944b6c09018b",
+    "sentence": "The _____ performance received a standing ovation.",
+    "correctAnswer": "affable",
+    "distractors": [
+      "unfriendly",
+      "hostile",
+      "disagreeable"
+    ],
+    "explanation": "Affable means friendly, good-natured, or easy to talk to.",
+    "incorrectExplanations": {
+      "unfriendly": "Unfriendly has a different meaning and doesn't fit the context of this sentence.",
+      "hostile": "Hostile has a different meaning and doesn't fit the context of this sentence.",
+      "disagreeable": "Disagreeable has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "da3c6fd3-6aa3-483c-b3b5-66b424fe4816",
+    "sentence": "She maintained a _____ demeanor despite the pressure.",
+    "correctAnswer": "banal",
+    "distractors": [
+      "original",
+      "creative",
+      "innovative"
+    ],
+    "explanation": "Banal means so lacking in originality as to be obvious.",
+    "incorrectExplanations": {
+      "original": "Original has a different meaning and doesn't fit the context of this sentence.",
+      "creative": "Creative has a different meaning and doesn't fit the context of this sentence.",
+      "innovative": "Innovative has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "34f790c3-c345-4e6d-9b6c-49550ac040d3",
+    "sentence": "The _____ evidence supported their theory.",
+    "correctAnswer": "cajole",
+    "distractors": [
+      "discourage",
+      "dissuade",
+      "deter"
+    ],
+    "explanation": "Cajole means persuade someone to do something by flattery.",
+    "incorrectExplanations": {
+      "discourage": "Discourage has a different meaning and doesn't fit the context of this sentence.",
+      "dissuade": "Dissuade has a different meaning and doesn't fit the context of this sentence.",
+      "deter": "Deter has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "02fa8897-2b99-4447-95ce-6c35ddc46fc4",
+    "sentence": "His _____ comments offended several people.",
+    "correctAnswer": "dearth",
+    "distractors": [
+      "abundance",
+      "plenty",
+      "surplus"
+    ],
+    "explanation": "Dearth means a scarcity or lack of something.",
+    "incorrectExplanations": {
+      "abundance": "Abundance has a different meaning and doesn't fit the context of this sentence.",
+      "plenty": "Plenty has a different meaning and doesn't fit the context of this sentence.",
+      "surplus": "Surplus has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "615a7e7f-8f88-4773-9d01-323c1eac4410",
+    "sentence": "The _____ strategy proved highly effective.",
+    "correctAnswer": "eclectic",
+    "distractors": [
+      "narrow",
+      "limited",
+      "restricted"
+    ],
+    "explanation": "Eclectic means deriving ideas from a broad range.",
+    "incorrectExplanations": {
+      "narrow": "Narrow has a different meaning and doesn't fit the context of this sentence.",
+      "limited": "Limited has a different meaning and doesn't fit the context of this sentence.",
+      "restricted": "Restricted has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "c10d8343-76fd-45cd-97f9-331bd1a2d748",
+    "sentence": "The politician's _____ speech failed to convince voters.",
+    "correctAnswer": "fallacious",
+    "distractors": [
+      "correct",
+      "accurate",
+      "valid"
+    ],
+    "explanation": "Fallacious means based on a mistaken belief.",
+    "incorrectExplanations": {
+      "correct": "Correct has a different meaning and doesn't fit the context of this sentence.",
+      "accurate": "Accurate has a different meaning and doesn't fit the context of this sentence.",
+      "valid": "Valid has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "741cc527-2b8f-4769-8e4e-4f03f0df2068",
+    "sentence": "The _____ child refused to share his toys.",
+    "correctAnswer": "hapless",
+    "distractors": [
+      "fortunate",
+      "lucky",
+      "blessed"
+    ],
+    "explanation": "Hapless means unfortunate.",
+    "incorrectExplanations": {
+      "fortunate": "Fortunate has a different meaning and doesn't fit the context of this sentence.",
+      "lucky": "Lucky has a different meaning and doesn't fit the context of this sentence.",
+      "blessed": "Blessed has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "a5d6830c-a1c5-4e79-a3d0-28ec5dbc16c8",
+    "sentence": "Her _____ smile brightened everyone's day.",
+    "correctAnswer": "immutable",
+    "distractors": [
+      "changeable",
+      "variable",
+      "mutable"
+    ],
+    "explanation": "Immutable means unchanging over time.",
+    "incorrectExplanations": {
+      "changeable": "Changeable has a different meaning and doesn't fit the context of this sentence.",
+      "variable": "Variable has a different meaning and doesn't fit the context of this sentence.",
+      "mutable": "Mutable has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "5b2af094-dab7-42bb-a6f6-e67c606659d6",
+    "sentence": "The _____ critic gave the movie a harsh review.",
+    "correctAnswer": "jocose",
+    "distractors": [
+      "serious",
+      "solemn",
+      "grave"
+    ],
+    "explanation": "Jocose means playful or humorous.",
+    "incorrectExplanations": {
+      "serious": "Serious has a different meaning and doesn't fit the context of this sentence.",
+      "solemn": "Solemn has a different meaning and doesn't fit the context of this sentence.",
+      "grave": "Grave has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "eb3be40b-dfa0-4701-a1ca-904e7903f55b",
+    "sentence": "The _____ businessman closed the deal quickly.",
+    "correctAnswer": "ken",
+    "distractors": [
+      "ignorance",
+      "unfamiliarity",
+      "inexperience"
+    ],
+    "explanation": "Ken means one's range of knowledge.",
+    "incorrectExplanations": {
+      "ignorance": "Ignorance has a different meaning and doesn't fit the context of this sentence.",
+      "unfamiliarity": "Unfamiliarity has a different meaning and doesn't fit the context of this sentence.",
+      "inexperience": "Inexperience has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "0eb09184-40bc-432f-b2d7-7f9633c26059",
+    "sentence": "The _____ teacher inspired her students to excel.",
+    "correctAnswer": "languid",
+    "distractors": [
+      "energetic",
+      "vigorous",
+      "lively"
+    ],
+    "explanation": "Languid means displaying a disinclination for physical exertion.",
+    "incorrectExplanations": {
+      "energetic": "Energetic has a different meaning and doesn't fit the context of this sentence.",
+      "vigorous": "Vigorous has a different meaning and doesn't fit the context of this sentence.",
+      "lively": "Lively has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "8f2770e4-54b0-4a2d-8cd9-c3156ff07d27",
+    "sentence": "His _____ response showed his lack of preparation.",
+    "correctAnswer": "malleable",
+    "distractors": [
+      "rigid",
+      "inflexible",
+      "stubborn"
+    ],
+    "explanation": "Malleable means easily influenced.",
+    "incorrectExplanations": {
+      "rigid": "Rigid has a different meaning and doesn't fit the context of this sentence.",
+      "inflexible": "Inflexible has a different meaning and doesn't fit the context of this sentence.",
+      "stubborn": "Stubborn has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "9f0091d6-01ca-41f9-a842-e9c0d2400611",
+    "sentence": "The _____ artist created beautiful paintings.",
+    "correctAnswer": "obdurate",
+    "distractors": [
+      "flexible",
+      "yielding",
+      "compliant"
+    ],
+    "explanation": "Obdurate means stubbornly refusing to change.",
+    "incorrectExplanations": {
+      "flexible": "Flexible has a different meaning and doesn't fit the context of this sentence.",
+      "yielding": "Yielding has a different meaning and doesn't fit the context of this sentence.",
+      "compliant": "Compliant has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "3e07b8dd-7816-49e0-bc86-194e140ca681",
+    "sentence": "The _____ manager handled the crisis well.",
+    "correctAnswer": "pellucid",
+    "distractors": [
+      "opaque",
+      "murky",
+      "unclear"
+    ],
+    "explanation": "Pellucid means transparently clear.",
+    "incorrectExplanations": {
+      "opaque": "Opaque has a different meaning and doesn't fit the context of this sentence.",
+      "murky": "Murky has a different meaning and doesn't fit the context of this sentence.",
+      "unclear": "Unclear has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "84038847-c590-4996-934b-f08bdfb31dd5",
+    "sentence": "Her _____ voice captivated the audience.",
+    "correctAnswer": "stolid",
+    "distractors": [
+      "emotional",
+      "excitable",
+      "volatile"
+    ],
+    "explanation": "Stolid means calm, dependable, and showing little emotion.",
+    "incorrectExplanations": {
+      "emotional": "Emotional has a different meaning and doesn't fit the context of this sentence.",
+      "excitable": "Excitable has a different meaning and doesn't fit the context of this sentence.",
+      "volatile": "Volatile has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "7102b920-fecd-42ae-854a-0141d895cf82",
+    "sentence": "The _____ detective solved the mystery.",
+    "correctAnswer": "vacuous",
+    "distractors": [
+      "thoughtful",
+      "intelligent",
+      "insightful"
+    ],
+    "explanation": "Vacuous means having or showing a lack of thought.",
+    "incorrectExplanations": {
+      "thoughtful": "Thoughtful has a different meaning and doesn't fit the context of this sentence.",
+      "intelligent": "Intelligent has a different meaning and doesn't fit the context of this sentence.",
+      "insightful": "Insightful has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "98ababb8-5ee2-4c85-8cbf-8a13bf06ca65",
+    "sentence": "The _____ athlete trained every single day.",
+    "correctAnswer": "xenophobia",
+    "distractors": [
+      "acceptance",
+      "tolerance",
+      "welcome"
+    ],
+    "explanation": "Xenophobia means dislike of or prejudice against foreigners.",
+    "incorrectExplanations": {
+      "acceptance": "Acceptance has a different meaning and doesn't fit the context of this sentence.",
+      "tolerance": "Tolerance has a different meaning and doesn't fit the context of this sentence.",
+      "welcome": "Welcome has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "d51921f5-961a-4e44-a347-ab6859b6e7aa",
+    "sentence": "His _____ remarks caused an uproar.",
+    "correctAnswer": "acerbic",
+    "distractors": [
+      "gentle",
+      "mild",
+      "sweet"
+    ],
+    "explanation": "Acerbic means sharp and forthright.",
+    "incorrectExplanations": {
+      "gentle": "Gentle has a different meaning and doesn't fit the context of this sentence.",
+      "mild": "Mild has a different meaning and doesn't fit the context of this sentence.",
+      "sweet": "Sweet has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "1f02bede-14b6-4cef-8c35-716ba6185251",
+    "sentence": "The _____ scientist made groundbreaking discoveries.",
+    "correctAnswer": "umbrage",
+    "distractors": [
+      "pleasure",
+      "delight",
+      "satisfaction"
+    ],
+    "explanation": "Umbrage means offense or annoyance.",
+    "incorrectExplanations": {
+      "pleasure": "Pleasure has a different meaning and doesn't fit the context of this sentence.",
+      "delight": "Delight has a different meaning and doesn't fit the context of this sentence.",
+      "satisfaction": "Satisfaction has a different meaning and doesn't fit the context of this sentence."
+    }
+  },
+  {
+    "uuid": "911a15e4-7a69-48b2-879c-cb821595ebf7",
+    "sentence": "The politician's _____ speech failed to win over the skeptical audience.",
+    "correctAnswer": "bombastic",
+    "distractors": [
+      "humble",
+      "sincere",
+      "modest"
+    ],
+    "explanation": "Bombastic means high-sounding but with little meaning; pompous.",
+    "incorrectExplanations": {
+      "humble": "Humble means modest and unassuming. A humble speech would likely be more persuasive than one that fails to win over an audience.",
+      "sincere": "Sincere means genuine and honest. A sincere speech would be more likely to convince people, not fail to win them over.",
+      "modest": "Modest means unassuming and humble. A modest speech would be more appealing than one that fails with a skeptical audience."
+    }
+  },
+  {
+    "uuid": "b585e404-7ffa-496b-9803-654999e0abb6",
+    "sentence": "Her _____ demeanor made everyone feel comfortable at the party.",
+    "correctAnswer": "affable",
+    "distractors": [
+      "hostile",
+      "aloof",
+      "stern"
+    ],
+    "explanation": "Affable means friendly, good-natured, and easy to talk to.",
+    "incorrectExplanations": {
+      "hostile": "Hostile means unfriendly or aggressive. A hostile demeanor would make people uncomfortable, not comfortable.",
+      "aloof": "Aloof means distant and unfriendly. An aloof demeanor would not make people feel comfortable.",
+      "stern": "Stern means serious and forbidding. A stern demeanor would likely make people feel uncomfortable, not at ease."
+    }
+  },
+  {
+    "uuid": "5e95b729-7eb5-4d9d-828b-247d94e9c9ca",
+    "sentence": "The _____ nature of the evidence made it difficult to build a strong case.",
+    "correctAnswer": "tenuous",
+    "distractors": [
+      "solid",
+      "concrete",
+      "substantial"
+    ],
+    "explanation": "Tenuous means very weak or slight; having little substance.",
+    "incorrectExplanations": {
+      "solid": "Solid means firm and stable. Solid evidence would make it easier, not harder, to build a strong case.",
+      "concrete": "Concrete means clear and definite. Concrete evidence would strengthen a case, not weaken it.",
+      "substantial": "Substantial means considerable in importance or worth. Substantial evidence would help build a strong case."
+    }
+  },
+  {
+    "uuid": "5dad69f9-f214-40a3-9a28-40a2e6c79c32",
+    "sentence": "The student's _____ approach to studying resulted in poor grades.",
+    "correctAnswer": "desultory",
+    "distractors": [
+      "systematic",
+      "thorough",
+      "methodical"
+    ],
+    "explanation": "Desultory means lacking purpose or enthusiasm; halfhearted.",
+    "incorrectExplanations": {
+      "systematic": "Systematic means methodical and organized. A systematic approach would lead to better grades, not poor ones.",
+      "thorough": "Thorough means complete and careful. A thorough approach to studying would improve grades.",
+      "methodical": "Methodical means systematic and orderly. A methodical approach would result in better academic performance."
+    }
+  },
+  {
+    "uuid": "9f9d59f5-1202-4a38-9174-1ddad6744661",
+    "sentence": "The _____ smell from the kitchen indicated dinner was ready.",
+    "correctAnswer": "redolent",
+    "distractors": [
+      "foul",
+      "absent",
+      "weak"
+    ],
+    "explanation": "Redolent means strongly reminiscent or suggestive of something; fragrant.",
+    "incorrectExplanations": {
+      "foul": "Foul means having an offensive smell. A foul smell would not indicate that dinner is ready in a positive way.",
+      "absent": "Absent means not present. If there were no smell, it wouldn't indicate that dinner was ready.",
+      "weak": "Weak means lacking strength. A weak smell might not be noticeable enough to indicate dinner is ready."
+    }
+  },
+  {
+    "uuid": "273d3e88-3d1a-452d-a034-6c77e8463f4d",
+    "sentence": "The lawyer's _____ argument convinced the jury of his client's innocence.",
+    "correctAnswer": "cogent",
+    "distractors": [
+      "weak",
+      "confusing",
+      "illogical"
+    ],
+    "explanation": "Cogent means clear, logical, and convincing.",
+    "incorrectExplanations": {
+      "weak": "Weak means lacking strength or force. A weak argument would not convince a jury.",
+      "confusing": "Confusing means difficult to understand. A confusing argument would not effectively convince anyone.",
+      "illogical": "Illogical means lacking sound reasoning. An illogical argument would not persuade a jury of innocence."
+    }
+  },
+  {
+    "uuid": "f70f5a16-2a41-4a0b-b53b-5ea35f093d88",
+    "sentence": "The _____ child refused to eat any vegetables.",
+    "correctAnswer": "obstinate",
+    "distractors": [
+      "compliant",
+      "agreeable",
+      "flexible"
+    ],
+    "explanation": "Obstinate means stubbornly refusing to change one's opinion or chosen course of action.",
+    "incorrectExplanations": {
+      "compliant": "Compliant means willing to conform or agree. A compliant child would eat vegetables when asked.",
+      "agreeable": "Agreeable means willing to agree or consent. An agreeable child would be more likely to eat vegetables.",
+      "flexible": "Flexible means willing to change or adapt. A flexible child would be open to trying vegetables."
+    }
+  },
+  {
+    "uuid": "8d30d3db-6aaa-4c00-9995-b16d42cde6a1",
+    "sentence": "The artist's _____ use of color created a stunning masterpiece.",
+    "correctAnswer": "judicious",
+    "distractors": [
+      "careless",
+      "random",
+      "thoughtless"
+    ],
+    "explanation": "Judicious means having, showing, or done with good judgment or sense.",
+    "incorrectExplanations": {
+      "careless": "Careless means not giving attention to avoiding danger or mistakes. Careless use of color would not create a stunning masterpiece.",
+      "random": "Random means without pattern or predetermined order. Random use of color would be unlikely to create a masterpiece.",
+      "thoughtless": "Thoughtless means not considering others or consequences. Thoughtless use of color would not result in stunning art."
+    }
+  },
+  {
+    "uuid": "03ce2559-2430-4b74-aed4-15a9fdf98138",
+    "sentence": "The _____ atmosphere in the library was perfect for studying.",
+    "correctAnswer": "serene",
+    "distractors": [
+      "chaotic",
+      "noisy",
+      "disruptive"
+    ],
+    "explanation": "Serene means calm, peaceful, and untroubled.",
+    "incorrectExplanations": {
+      "chaotic": "Chaotic means in complete disorder. A chaotic atmosphere would not be good for studying.",
+      "noisy": "Noisy means making a lot of sound. A noisy library would not be ideal for studying.",
+      "disruptive": "Disruptive means causing disturbance. A disruptive atmosphere would interfere with studying."
+    }
+  },
+  {
+    "uuid": "3c1b5069-9f61-4897-bfa9-9994e66f1518",
+    "sentence": "The CEO's _____ leadership style motivated employees to excel.",
+    "correctAnswer": "inspirational",
+    "distractors": [
+      "demoralizing",
+      "discouraging",
+      "oppressive"
+    ],
+    "explanation": "Inspirational means providing or showing creative or spiritual inspiration.",
+    "incorrectExplanations": {
+      "demoralizing": "Demoralizing means causing someone to lose confidence. A demoralizing leadership style would not motivate employees.",
+      "discouraging": "Discouraging means causing loss of confidence. This type of leadership would not motivate excellence.",
+      "oppressive": "Oppressive means harsh and authoritarian. Oppressive leadership would not motivate employees to excel."
+    }
+  },
+  {
+    "uuid": "4263ea03-c806-4653-8b0b-db31788e2fdb",
+    "sentence": "The detective's _____ investigation uncovered crucial evidence.",
+    "correctAnswer": "meticulous",
+    "distractors": [
+      "sloppy",
+      "hasty",
+      "superficial"
+    ],
+    "explanation": "Meticulous means showing great attention to detail; very careful and precise.",
+    "incorrectExplanations": {
+      "sloppy": "Sloppy means careless and unsystematic. A sloppy investigation would be unlikely to uncover crucial evidence.",
+      "hasty": "Hasty means done with excessive speed. A hasty investigation might miss important evidence.",
+      "superficial": "Superficial means existing only on the surface; shallow. A superficial investigation would not uncover crucial evidence."
+    }
+  },
+  {
+    "uuid": "de1df0ad-6299-436b-b025-7709edace2c4",
+    "sentence": "The musician's _____ performance left the audience speechless.",
+    "correctAnswer": "virtuosic",
+    "distractors": [
+      "mediocre",
+      "amateur",
+      "clumsy"
+    ],
+    "explanation": "Virtuosic means having or showing exceptional skill, especially in music.",
+    "incorrectExplanations": {
+      "mediocre": "Mediocre means of moderate quality; not very good. A mediocre performance would not leave an audience speechless with admiration.",
+      "amateur": "Amateur means engaging in an activity for enjoyment rather than professionally. An amateur performance would not typically leave audiences speechless.",
+      "clumsy": "Clumsy means awkward in movement or manner. A clumsy performance would not impress an audience."
+    }
+  },
+  {
+    "uuid": "d3b27f29-d234-4ffe-a928-4f4d7105a5cf",
+    "sentence": "The writer's _____ prose captivated readers worldwide.",
+    "correctAnswer": "eloquent",
+    "distractors": [
+      "clumsy",
+      "awkward",
+      "incoherent"
+    ],
+    "explanation": "Eloquent means fluent or persuasive in speaking or writing.",
+    "incorrectExplanations": {
+      "clumsy": "Clumsy means awkward or ungraceful. Clumsy prose would not captivate readers.",
+      "awkward": "Awkward means lacking grace or skill. Awkward prose would not appeal to readers worldwide.",
+      "incoherent": "Incoherent means unclear or illogical. Incoherent prose would confuse rather than captivate readers."
+    }
+  },
+  {
+    "uuid": "0052d72e-ecf7-4c93-b835-b448951162ec",
+    "sentence": "The teacher's _____ explanation helped students understand the complex concept.",
+    "correctAnswer": "lucid",
+    "distractors": [
+      "confusing",
+      "muddled",
+      "obscure"
+    ],
+    "explanation": "Lucid means expressed clearly; easy to understand.",
+    "incorrectExplanations": {
+      "confusing": "Confusing means bewildering or unclear. A confusing explanation would not help students understand.",
+      "muddled": "Muddled means confused or unclear. A muddled explanation would make concepts harder to understand.",
+      "obscure": "Obscure means not clearly expressed or hard to understand. An obscure explanation would not help students."
+    }
+  },
+  {
+    "uuid": "5df5c292-a78a-4494-bb54-6cc1b98b3fdf",
+    "sentence": "The diplomat's _____ approach helped resolve the international crisis.",
+    "correctAnswer": "tactful",
+    "distractors": [
+      "blunt",
+      "insensitive",
+      "rude"
+    ],
+    "explanation": "Tactful means having or showing sensitivity in dealing with others or difficult issues.",
+    "incorrectExplanations": {
+      "blunt": "Blunt means direct and straightforward, often insensitively so. A blunt approach might worsen an international crisis.",
+      "insensitive": "Insensitive means showing no concern for others' feelings. An insensitive approach would not help resolve a crisis.",
+      "rude": "Rude means offensively impolite. A rude approach would likely escalate rather than resolve a crisis."
+    }
+  },
+  {
+    "uuid": "dc3fbea9-7132-44a9-9ce7-7fa5e9573017",
+    "sentence": "The scientist's _____ research methods ensured accurate results.",
+    "correctAnswer": "rigorous",
+    "distractors": [
+      "careless",
+      "sloppy",
+      "haphazard"
+    ],
+    "explanation": "Rigorous means extremely thorough and careful.",
+    "incorrectExplanations": {
+      "careless": "Careless means not paying attention to avoiding danger or mistakes. Careless methods would not ensure accurate results.",
+      "sloppy": "Sloppy means careless and unsystematic. Sloppy research methods would compromise accuracy.",
+      "haphazard": "Haphazard means lacking organization or planning. Haphazard methods would not ensure reliable results."
+    }
+  },
+  {
+    "uuid": "e257440b-43ba-43bb-b863-a40d22f9a600",
+    "sentence": "The patient's _____ recovery surprised the medical team.",
+    "correctAnswer": "remarkable",
+    "distractors": [
+      "slow",
+      "poor",
+      "expected"
+    ],
+    "explanation": "Remarkable means worthy of attention; striking or extraordinary.",
+    "incorrectExplanations": {
+      "slow": "Slow means taking a long time. A slow recovery would not surprise a medical team in a positive way.",
+      "poor": "Poor means of low quality or inadequate. A poor recovery would be concerning, not surprising in a good way.",
+      "expected": "Expected means anticipated or predicted. An expected recovery would not surprise anyone."
+    }
+  },
+  {
+    "uuid": "f6bcf82f-fb46-47c4-9102-2a926e332881",
+    "sentence": "The chef's _____ culinary skills earned the restaurant five stars.",
+    "correctAnswer": "exceptional",
+    "distractors": [
+      "mediocre",
+      "poor",
+      "average"
+    ],
+    "explanation": "Exceptional means unusually good; outstanding.",
+    "incorrectExplanations": {
+      "mediocre": "Mediocre means of moderate quality; not very good. Mediocre skills would not earn five stars.",
+      "poor": "Poor means of low quality. Poor culinary skills would result in low ratings, not five stars.",
+      "average": "Average means typical or ordinary. Average skills would not earn the highest rating."
+    }
+  },
+  {
+    "uuid": "7dbb554d-1e35-416d-848b-8b9fe0a43ad1",
+    "sentence": "The student's _____ dedication to learning impressed her professors.",
+    "correctAnswer": "unwavering",
+    "distractors": [
+      "inconsistent",
+      "weak",
+      "sporadic"
+    ],
+    "explanation": "Unwavering means steady or resolute; not changing.",
+    "incorrectExplanations": {
+      "inconsistent": "Inconsistent means not staying the same throughout. Inconsistent dedication would not impress professors.",
+      "weak": "Weak means lacking strength or force. Weak dedication would not be impressive to professors.",
+      "sporadic": "Sporadic means occurring irregularly. Sporadic dedication would not consistently impress professors."
+    }
+  },
+  {
+    "uuid": "af23277e-0cbe-49d4-8776-af2107b64d17",
+    "sentence": "The architect's _____ design won the international competition.",
+    "correctAnswer": "innovative",
+    "distractors": [
+      "conventional",
+      "ordinary",
+      "typical"
+    ],
+    "explanation": "Innovative means featuring new methods; advanced and original.",
+    "incorrectExplanations": {
+      "conventional": "Conventional means based on accepted standards; traditional. A conventional design would be less likely to win an international competition.",
+      "ordinary": "Ordinary means normal or usual. An ordinary design would not stand out in a competition.",
+      "typical": "Typical means having the distinctive qualities of a particular type. A typical design would not be competition-winning."
+    }
+  },
+  {
+    "uuid": "08f7c902-73a5-4ac4-b4fd-18d15503ca22",
+    "sentence": "The manager's _____ decision-making process led to company success.",
+    "correctAnswer": "astute",
+    "distractors": [
+      "poor",
+      "reckless",
+      "impulsive"
+    ],
+    "explanation": "Astute means having or showing an ability to accurately assess situations and turn them to one's advantage.",
+    "incorrectExplanations": {
+      "poor": "Poor means of low quality or inadequate. Poor decision-making would not lead to company success.",
+      "reckless": "Reckless means without thinking about consequences. Reckless decisions would likely harm company success.",
+      "impulsive": "Impulsive means acting suddenly without careful consideration. Impulsive decision-making would not ensure success."
+    }
+  },
+  {
+    "uuid": "a88efef1-684a-45db-9fd1-16524c031856",
+    "sentence": "The athlete's _____ training regimen prepared her for the Olympics.",
+    "correctAnswer": "grueling",
+    "distractors": [
+      "easy",
+      "relaxed",
+      "minimal"
+    ],
+    "explanation": "Grueling means extremely tiring and demanding.",
+    "incorrectExplanations": {
+      "easy": "Easy means not difficult. An easy training regimen would not adequately prepare someone for the Olympics.",
+      "relaxed": "Relaxed means free from tension. A relaxed training approach would not prepare an athlete for Olympic competition.",
+      "minimal": "Minimal means the least possible amount. Minimal training would not prepare someone for Olympic-level competition."
+    }
+  },
+  {
+    "uuid": "f7000867-e461-4764-94e3-7adb571297a4",
+    "sentence": "The author's _____ storytelling ability captivated millions of readers.",
+    "correctAnswer": "compelling",
+    "distractors": [
+      "boring",
+      "dull",
+      "tedious"
+    ],
+    "explanation": "Compelling means evoking interest, attention, or admiration in a powerfully irresistible way.",
+    "incorrectExplanations": {
+      "boring": "Boring means not interesting. Boring storytelling would not captivate millions of readers.",
+      "dull": "Dull means lacking brightness or interest. Dull storytelling would not attract a large readership.",
+      "tedious": "Tedious means tiresome because of length or dullness. Tedious storytelling would not captivate readers."
+    }
+  },
+  {
+    "uuid": "4656fac7-e669-4778-ad26-0bc8f48e7968",
+    "sentence": "The speaker's _____ presentation kept the audience engaged throughout.",
+    "correctAnswer": "dynamic",
+    "distractors": [
+      "monotonous",
+      "static",
+      "lifeless"
+    ],
+    "explanation": "Dynamic means characterized by constant change, activity, or progress; energetic.",
+    "incorrectExplanations": {
+      "monotonous": "Monotonous means dull and repetitive. A monotonous presentation would not keep an audience engaged.",
+      "static": "Static means lacking movement or change. A static presentation would not maintain audience engagement.",
+      "lifeless": "Lifeless means lacking vigor or vitality. A lifeless presentation would not keep people engaged."
+    }
+  },
+  {
+    "uuid": "0bee25bf-a650-40da-910d-3a1876005cb9",
+    "sentence": "The negotiator's _____ approach helped both parties reach an agreement.",
+    "correctAnswer": "diplomatic",
+    "distractors": [
+      "aggressive",
+      "confrontational",
+      "hostile"
+    ],
+    "explanation": "Diplomatic means dealing with people in a sensitive and effective way.",
+    "incorrectExplanations": {
+      "aggressive": "Aggressive means ready to attack or confront. An aggressive approach would hinder rather than help negotiations.",
+      "confrontational": "Confrontational means tending to deal with situations in an aggressive way. This would not help parties reach agreement.",
+      "hostile": "Hostile means unfriendly or aggressive. A hostile approach would prevent parties from reaching agreement."
+    }
+  },
+  {
+    "uuid": "2c7f9c80-1204-41bd-8b38-5300350efa4f",
+    "sentence": "The surgeon's _____ hands performed the delicate operation flawlessly.",
+    "correctAnswer": "steady",
+    "distractors": [
+      "shaky",
+      "trembling",
+      "unsteady"
+    ],
+    "explanation": "Steady means firmly fixed, supported, or balanced; not shaking or moving.",
+    "incorrectExplanations": {
+      "shaky": "Shaky means trembling or unsteady. Shaky hands would not be suitable for delicate surgery.",
+      "trembling": "Trembling means shaking from nervousness or weakness. Trembling hands would compromise surgical precision.",
+      "unsteady": "Unsteady means not stable or firmly fixed. Unsteady hands would not perform delicate operations flawlessly."
+    }
+  },
+  {
+    "uuid": "67c6747a-2e00-40e9-bd79-edcc9eea54cf",
+    "sentence": "The team's _____ collaboration resulted in groundbreaking research.",
+    "correctAnswer": "seamless",
+    "distractors": [
+      "fragmented",
+      "disjointed",
+      "chaotic"
+    ],
+    "explanation": "Seamless means smooth and continuous, with no apparent gaps or spaces between one part and the next.",
+    "incorrectExplanations": {
+      "fragmented": "Fragmented means broken into separate parts. Fragmented collaboration would not produce groundbreaking research.",
+      "disjointed": "Disjointed means lacking coherence or connection. Disjointed collaboration would hinder research progress.",
+      "chaotic": "Chaotic means in complete disorder. Chaotic collaboration would not result in successful research outcomes."
+    }
+  },
+  {
+    "uuid": "20975c33-f45a-4dd8-92a9-016f1de5855e",
+    "sentence": "The entrepreneur's _____ vision transformed the entire industry.",
+    "correctAnswer": "revolutionary",
+    "distractors": [
+      "conservative",
+      "traditional",
+      "conventional"
+    ],
+    "explanation": "Revolutionary means involving or causing a complete or dramatic change.",
+    "incorrectExplanations": {
+      "conservative": "Conservative means holding traditional values and being cautious about change. A conservative vision would not transform an industry.",
+      "traditional": "Traditional means following long-established customs. A traditional vision would maintain rather than transform an industry.",
+      "conventional": "Conventional means based on accepted standards. A conventional vision would not bring about industry transformation."
+    }
+  }
+]
