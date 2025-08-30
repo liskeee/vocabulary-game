@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LinguaLeap - English Vocabulary Game",
+  title: "AlaWillSpeak - English Vocabulary Game",
   description: "Learn English vocabulary with interactive quizzes and flashcards",
 };
 

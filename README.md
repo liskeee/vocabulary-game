@@ -1,4 +1,8 @@
+# AlaWillSpeak - English Vocabulary Game
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+AlaWillSpeak is an interactive English vocabulary learning application featuring quizzes and flashcards to help users improve their English vocabulary skills.
 
 ## Getting Started
 
