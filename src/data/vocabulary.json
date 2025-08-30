@@ -1,0 +1,257 @@
+[
+  {
+    "id": "vocab_001",
+    "word": "remarkable",
+    "definition": "Worthy of attention; striking or extraordinary",
+    "pronunciation": "/rɪˈmɑrkəbəl/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The view from the mountain was truly remarkable.",
+    "quizSentence": "The scientist made a _____ discovery that changed everything.",
+    "options": ["remarkable", "terrible", "boring", "simple"],
+    "correctExplanation": "'Remarkable' means worthy of attention or striking. In this context, it indicates the discovery was significant and noteworthy, fitting perfectly with 'changed everything.'",
+    "incorrectExplanations": {
+      "terrible": "'Terrible' means extremely bad. While a terrible discovery might change things, the positive context of scientific progress suggests a positive adjective.",
+      "boring": "'Boring' means dull or uninteresting. A boring discovery wouldn't typically 'change everything' - discoveries that change the world are usually exciting.",
+      "simple": "'Simple' means easy to understand. While a discovery can be simple, the phrase 'changed everything' suggests something more impactful than just simplicity."
+    }
+  },
+  {
+    "id": "vocab_002",
+    "word": "serendipity",
+    "definition": "The occurrence and development of events by chance in a happy or beneficial way",
+    "pronunciation": "/ˌsɛrənˈdɪpɪti/",
+    "difficulty": "hard",
+    "category": "nouns",
+    "example": "Finding that old book was pure serendipity - it contained exactly the information I needed.",
+    "quizSentence": "Meeting my future business partner at the coffee shop was complete _____.",
+    "options": ["serendipity", "disaster", "planning", "coincidence"],
+    "correctExplanation": "'Serendipity' refers to fortunate accidents or pleasant surprises. Meeting a future business partner unexpectedly would be a happy, beneficial chance occurrence.",
+    "incorrectExplanations": {
+      "disaster": "'Disaster' means a sudden event causing great damage. Meeting a future business partner would be positive, not disastrous.",
+      "planning": "'Planning' involves deliberate preparation. The context suggests this was an unexpected, unplanned meeting.",
+      "coincidence": "While 'coincidence' fits partially, 'serendipity' specifically emphasizes the fortunate, beneficial nature of the chance meeting."
+    }
+  },
+  {
+    "id": "vocab_003",
+    "word": "eloquent",
+    "definition": "Fluent or persuasive in speaking or writing",
+    "pronunciation": "/ˈɛləkwənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "Her eloquent speech moved the entire audience to tears.",
+    "quizSentence": "The lawyer's _____ argument convinced the jury of his client's innocence.",
+    "options": ["eloquent", "confused", "brief", "loud"],
+    "correctExplanation": "'Eloquent' means persuasive and well-expressed. An eloquent argument would be compelling enough to convince a jury.",
+    "incorrectExplanations": {
+      "confused": "'Confused' means unclear or muddled. A confused argument would not convince anyone, especially not a jury.",
+      "brief": "'Brief' means short in duration. While brevity can be good, it doesn't necessarily convince people - persuasiveness does.",
+      "loud": "'Loud' refers to volume. Speaking loudly doesn't make an argument convincing; clear, persuasive reasoning does."
+    }
+  },
+  {
+    "id": "vocab_004",
+    "word": "ambiguous",
+    "definition": "Open to more than one interpretation; having a double meaning",
+    "pronunciation": "/æmˈbɪɡjuəs/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The contract's ambiguous wording led to a legal dispute.",
+    "quizSentence": "The politician's _____ statement left voters unsure of his actual position.",
+    "options": ["ambiguous", "clear", "honest", "detailed"],
+    "correctExplanation": "'Ambiguous' means unclear or open to multiple interpretations. If voters are unsure of the politician's position, the statement must have been unclear.",
+    "incorrectExplanations": {
+      "clear": "'Clear' means easy to understand. A clear statement wouldn't leave voters unsure.",
+      "honest": "'Honest' means truthful. Even honest statements can be clear about one's position.",
+      "detailed": "'Detailed' means thorough. A detailed statement would typically clarify, not confuse, one's position."
+    }
+  },
+  {
+    "id": "vocab_005",
+    "word": "resilient",
+    "definition": "Able to withstand or recover quickly from difficult conditions",
+    "pronunciation": "/rɪˈzɪljənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The resilient community rebuilt stronger after the natural disaster.",
+    "quizSentence": "Despite facing many setbacks, she remained _____ and never gave up.",
+    "options": ["resilient", "fragile", "angry", "confused"],
+    "correctExplanation": "'Resilient' means able to recover from difficulties. Someone who doesn't give up despite setbacks shows resilience.",
+    "incorrectExplanations": {
+      "fragile": "'Fragile' means easily broken. Someone fragile would likely give up when facing setbacks.",
+      "angry": "'Angry' means feeling displeasure. While setbacks might cause anger, the context emphasizes persistence, not emotion.",
+      "confused": "'Confused' means uncertain. The context suggests determination and strength, not confusion."
+    }
+  },
+  {
+    "id": "vocab_006",
+    "word": "meticulous",
+    "definition": "Showing great attention to detail; very careful and precise",
+    "pronunciation": "/məˈtɪkjələs/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "The surgeon's meticulous technique ensured a successful operation.",
+    "quizSentence": "Her _____ research methodology produced highly accurate results.",
+    "options": ["meticulous", "careless", "quick", "expensive"],
+    "correctExplanation": "'Meticulous' means extremely careful and detailed. Meticulous research would naturally produce accurate results.",
+    "incorrectExplanations": {
+      "careless": "'Careless' means not paying attention to detail. Careless research would likely produce inaccurate results.",
+      "quick": "'Quick' means fast. Speed alone doesn't guarantee accuracy - careful attention to detail does.",
+      "expensive": "'Expensive' means costly. While good research might be expensive, cost doesn't determine accuracy."
+    }
+  },
+  {
+    "id": "vocab_007",
+    "word": "ephemeral",
+    "definition": "Lasting for a very short time",
+    "pronunciation": "/ɪˈfɛmərəl/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "The beauty of cherry blossoms is ephemeral, lasting only a few weeks.",
+    "quizSentence": "Social media trends are often _____, popular one day and forgotten the next.",
+    "options": ["ephemeral", "permanent", "expensive", "complicated"],
+    "correctExplanation": "'Ephemeral' means short-lived. Trends that are popular one day and forgotten the next are temporary and fleeting.",
+    "incorrectExplanations": {
+      "permanent": "'Permanent' means lasting forever. This contradicts the idea of being forgotten quickly.",
+      "expensive": "'Expensive' means costly. The context is about duration, not cost.",
+      "complicated": "'Complicated' means complex. The context focuses on how long trends last, not their complexity."
+    }
+  },
+  {
+    "id": "vocab_008",
+    "word": "ubiquitous",
+    "definition": "Present, appearing, or found everywhere",
+    "pronunciation": "/juˈbɪkwɪtəs/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "Smartphones have become ubiquitous in modern society.",
+    "quizSentence": "Coffee shops are _____ in this city - you can find one on every corner.",
+    "options": ["ubiquitous", "rare", "expensive", "new"],
+    "correctExplanation": "'Ubiquitous' means present everywhere. If coffee shops are on every corner, they are found everywhere in the city.",
+    "incorrectExplanations": {
+      "rare": "'Rare' means uncommon. If shops are on every corner, they're definitely not rare.",
+      "expensive": "'Expensive' means costly. The context is about location frequency, not price.",
+      "new": "'New' means recently created. The context is about how widespread they are, not their age."
+    }
+  },
+  {
+    "id": "vocab_009",
+    "word": "pragmatic",
+    "definition": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations",
+    "pronunciation": "/præɡˈmætɪk/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "She took a pragmatic approach to solving the budget crisis.",
+    "quizSentence": "Rather than pursuing idealistic goals, the manager chose a _____ solution that would actually work.",
+    "options": ["pragmatic", "romantic", "expensive", "complicated"],
+    "correctExplanation": "'Pragmatic' means practical and realistic. Choosing something that 'would actually work' over idealistic goals shows pragmatic thinking.",
+    "incorrectExplanations": {
+      "romantic": "'Romantic' relates to idealized love or beauty. This contradicts the practical, realistic approach described.",
+      "expensive": "'Expensive' means costly. The context contrasts idealism with practicality, not cost considerations.",
+      "complicated": "'Complicated' means complex. Pragmatic solutions are often simple and straightforward, not complicated."
+    }
+  },
+  {
+    "id": "vocab_010",
+    "word": "vindicate",
+    "definition": "Clear someone of blame or suspicion; show or prove to be right, reasonable, or justified",
+    "pronunciation": "/ˈvɪndɪkeɪt/",
+    "difficulty": "hard",
+    "category": "verbs",
+    "example": "The DNA evidence vindicated the wrongly accused man.",
+    "quizSentence": "The investigation results will _____ her claims about the company's misconduct.",
+    "options": ["vindicate", "ignore", "complicate", "hide"],
+    "correctExplanation": "'Vindicate' means to prove someone right or clear them of wrongdoing. Investigation results that support her claims would vindicate them.",
+    "incorrectExplanations": {
+      "ignore": "'Ignore' means to pay no attention to. Investigation results wouldn't ignore claims - they would address them.",
+      "complicate": "'Complicate' means to make more complex. Results either support or refute claims; they don't typically complicate them.",
+      "hide": "'Hide' means to conceal. Investigation results are meant to reveal truth, not hide it."
+    }
+  },
+  {
+    "id": "vocab_011",
+    "word": "tenacious",
+    "definition": "Tending to keep a firm hold of something; clinging or adhering closely",
+    "pronunciation": "/təˈneɪʃəs/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "Her tenacious grip on the rope saved her from falling.",
+    "quizSentence": "The detective's _____ investigation finally uncovered the truth.",
+    "options": ["tenacious", "lazy", "brief", "careless"],
+    "correctExplanation": "'Tenacious' means persistent and determined. A tenacious investigation would be thorough and persistent enough to uncover the truth.",
+    "incorrectExplanations": {
+      "lazy": "'Lazy' means unwilling to work. A lazy investigation wouldn't uncover much of anything.",
+      "brief": "'Brief' means short. A brief investigation might miss important details needed to find the truth.",
+      "careless": "'Careless' means not paying attention. A careless investigation would likely miss crucial evidence."
+    }
+  },
+  {
+    "id": "vocab_012",
+    "word": "candid",
+    "definition": "Truthful and straightforward; frank",
+    "pronunciation": "/ˈkændɪd/",
+    "difficulty": "easy",
+    "category": "adjectives",
+    "example": "I appreciate your candid feedback about my presentation.",
+    "quizSentence": "The CEO gave a _____ interview about the company's financial struggles.",
+    "options": ["candid", "dishonest", "vague", "confusing"],
+    "correctExplanation": "'Candid' means honest and direct. A candid interview would openly discuss the company's struggles without hiding anything.",
+    "incorrectExplanations": {
+      "dishonest": "'Dishonest' means not truthful. This would contradict openly discussing struggles.",
+      "vague": "'Vague' means unclear. A vague interview wouldn't effectively communicate about specific struggles.",
+      "confusing": "'Confusing' means hard to understand. The context suggests clear, direct communication."
+    }
+  },
+  {
+    "id": "vocab_013",
+    "word": "scrutinize",
+    "definition": "Examine or inspect closely and thoroughly",
+    "pronunciation": "/ˈskrutəˌnaɪz/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "The auditor will scrutinize every financial record.",
+    "quizSentence": "The teacher will _____ each essay for plagiarism before grading.",
+    "options": ["scrutinize", "ignore", "skim", "hide"],
+    "correctExplanation": "'Scrutinize' means to examine carefully and thoroughly. Checking for plagiarism requires careful, detailed examination.",
+    "incorrectExplanations": {
+      "ignore": "'Ignore' means to pay no attention to. Ignoring essays wouldn't help detect plagiarism.",
+      "skim": "'Skim' means to read quickly. Skimming wouldn't be thorough enough to catch plagiarism.",
+      "hide": "'Hide' means to conceal. Teachers examine essays, they don't hide them."
+    }
+  },
+  {
+    "id": "vocab_014",
+    "word": "benevolent",
+    "definition": "Well meaning and kindly",
+    "pronunciation": "/bəˈnɛvələnt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The benevolent donor funded scholarships for underprivileged students.",
+    "quizSentence": "The _____ king was loved by his people for his generous policies.",
+    "options": ["benevolent", "cruel", "selfish", "indifferent"],
+    "correctExplanation": "'Benevolent' means kind and generous. A benevolent king would have generous policies and be loved by his people.",
+    "incorrectExplanations": {
+      "cruel": "'Cruel' means causing pain or suffering. A cruel king wouldn't be loved or have generous policies.",
+      "selfish": "'Selfish' means caring only about oneself. A selfish king wouldn't have generous policies for his people.",
+      "indifferent": "'Indifferent' means showing no care. An indifferent king wouldn't be particularly loved or generous."
+    }
+  },
+  {
+    "id": "vocab_015",
+    "word": "ostentatious",
+    "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice",
+    "pronunciation": "/ˌɑstənˈteɪʃəs/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "His ostentatious display of wealth made others uncomfortable.",
+    "quizSentence": "The _____ mansion with gold fixtures seemed designed purely to show off.",
+    "options": ["ostentatious", "modest", "hidden", "practical"],
+    "correctExplanation": "'Ostentatious' means showy and designed to impress. A mansion with gold fixtures designed to show off is ostentatious.",
+    "incorrectExplanations": {
+      "modest": "'Modest' means humble and not showy. This contradicts the gold fixtures and showing off.",
+      "hidden": "'Hidden' means concealed. A mansion designed to show off wouldn't be hidden.",
+      "practical": "'Practical' means useful and sensible. Gold fixtures for showing off aren't practical."
+    }
+  }
+]
