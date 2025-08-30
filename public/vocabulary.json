@@ -1,272 +1,1082 @@
 [
   {
-    "id": "vocab_001",
-    "word": "remarkable",
-    "polishTranslation": "niezwykły",
-    "definition": "Worthy of attention; striking or extraordinary",
-    "pronunciation": "/rɪˈmɑrkəbəl/",
+    "id": "vocab_1",
+    "word": "accomplish",
+    "polishTranslation": "osiągnąć",
+    "definition": "To succeed in doing or completing something",
+    "pronunciation": "/əˈkʌmplɪʃ/",
     "difficulty": "medium",
-    "category": "adjectives",
-    "example": "The view from the mountain was truly remarkable.",
-    "quizSentence": "The scientist made a _____ discovery that changed everything.",
-    "options": ["remarkable", "terrible", "boring", "simple"],
-    "correctExplanation": "'Remarkable' means worthy of attention or striking. In this context, it indicates the discovery was significant and noteworthy, fitting perfectly with 'changed everything.'",
+    "category": "verbs",
+    "example": "She managed to accomplish all her goals this year.",
+    "quizSentence": "With hard work and dedication, you can _____ anything you set your mind to.",
+    "options": ["accomplish", "abandon", "avoid", "ignore"],
+    "correctExplanation": "'Accomplish' means to successfully complete or achieve something through effort.",
     "incorrectExplanations": {
-      "terrible": "'Terrible' means extremely bad. While a terrible discovery might change things, the positive context of scientific progress suggests a positive adjective.",
-      "boring": "'Boring' means dull or uninteresting. A boring discovery wouldn't typically 'change everything' - discoveries that change the world are usually exciting.",
-      "simple": "'Simple' means easy to understand. While a discovery can be simple, the phrase 'changed everything' suggests something more impactful than just simplicity."
+      "abandon": "'Abandon' means to give up or leave behind, the opposite of accomplishing.",
+      "avoid": "'Avoid' means to stay away from something, not to achieve it.",
+      "ignore": "'Ignore' means to pay no attention to something, not to achieve it."
     }
   },
   {
-    "id": "vocab_002",
-    "word": "serendipity",
-    "polishTranslation": "szczęśliwy przypadek",
-    "definition": "The occurrence and development of events by chance in a happy or beneficial way",
-    "pronunciation": "/ˌsɛrənˈdɪpɪti/",
+    "id": "vocab_2",
+    "word": "adequate",
+    "polishTranslation": "odpowiedni",
+    "definition": "Satisfactory or acceptable in quality or quantity",
+    "pronunciation": "/ˈædɪkwət/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The hotel room was adequate for our short stay.",
+    "quizSentence": "The student's preparation was _____ to pass the exam, but not exceptional.",
+    "options": ["adequate", "insufficient", "excessive", "perfect"],
+    "correctExplanation": "'Adequate' means sufficient or satisfactory, enough to meet requirements but not outstanding.",
+    "incorrectExplanations": {
+      "insufficient": "'Insufficient' means not enough, the opposite of adequate.",
+      "excessive": "'Excessive' means too much, more than adequate.",
+      "perfect": "'Perfect' means flawless, which is more than just adequate."
+    }
+  },
+  {
+    "id": "vocab_3",
+    "word": "anticipate",
+    "polishTranslation": "przewidywać",
+    "definition": "To expect or predict something will happen",
+    "pronunciation": "/ænˈtɪsɪpeɪt/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "We anticipate heavy traffic during rush hour.",
+    "quizSentence": "The company didn't _____ such a high demand for their new product.",
+    "options": ["anticipate", "ignore", "prevent", "cause"],
+    "correctExplanation": "'Anticipate' means to expect or foresee something happening in advance.",
+    "incorrectExplanations": {
+      "ignore": "'Ignore' means to pay no attention to, not to expect or predict.",
+      "prevent": "'Prevent' means to stop something from happening, not to expect it.",
+      "cause": "'Cause' means to make something happen, not to predict it."
+    }
+  },
+  {
+    "id": "vocab_4",
+    "word": "arbitrary",
+    "polishTranslation": "arbitralny",
+    "definition": "Based on random choice rather than reason or system",
+    "pronunciation": "/ˈɑːrbɪtreri/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "The teacher's grading seemed arbitrary and unfair.",
+    "quizSentence": "The new rules appeared _____ because they had no clear logical basis.",
+    "options": ["arbitrary", "logical", "systematic", "reasonable"],
+    "correctExplanation": "'Arbitrary' means based on personal whim rather than logic or established rules.",
+    "incorrectExplanations": {
+      "logical": "'Logical' means based on clear reasoning, the opposite of arbitrary.",
+      "systematic": "'Systematic' means methodical and organized, not random like arbitrary.",
+      "reasonable": "'Reasonable' means fair and sensible, unlike arbitrary decisions."
+    }
+  },
+  {
+    "id": "vocab_5",
+    "word": "coherent",
+    "polishTranslation": "spójny",
+    "definition": "Logical and consistent; easy to understand",
+    "pronunciation": "/koʊˈhɪrənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "His argument was coherent and well-structured.",
+    "quizSentence": "After the accident, the witness couldn't give a _____ account of what happened.",
+    "options": ["coherent", "confused", "scattered", "illogical"],
+    "correctExplanation": "'Coherent' means clear, logical, and easy to follow or understand.",
+    "incorrectExplanations": {
+      "confused": "'Confused' means unclear or muddled, the opposite of coherent.",
+      "scattered": "'Scattered' means disorganized or spread out, not coherent.",
+      "illogical": "'Illogical' means not making sense, the opposite of coherent."
+    }
+  },
+  {
+    "id": "vocab_6",
+    "word": "contemplate",
+    "polishTranslation": "rozważać",
+    "definition": "To think about something carefully and deeply",
+    "pronunciation": "/ˈkɑːntəmpleɪt/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "She sat by the window to contemplate her future.",
+    "quizSentence": "Before making such an important decision, you should _____ all the consequences.",
+    "options": ["contemplate", "ignore", "rush", "avoid"],
+    "correctExplanation": "'Contemplate' means to think deeply and carefully about something.",
+    "incorrectExplanations": {
+      "ignore": "'Ignore' means to pay no attention to, not to think carefully about.",
+      "rush": "'Rush' means to hurry, the opposite of careful contemplation.",
+      "avoid": "'Avoid' means to stay away from, not to think about something."
+    }
+  },
+  {
+    "id": "vocab_7",
+    "word": "deteriorate",
+    "polishTranslation": "pogarszać się",
+    "definition": "To become progressively worse",
+    "pronunciation": "/dɪˈtɪriəreɪt/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "The patient's condition began to deteriorate rapidly.",
+    "quizSentence": "Without proper maintenance, the building will continue to _____.",
+    "options": ["deteriorate", "improve", "stabilize", "flourish"],
+    "correctExplanation": "'Deteriorate' means to gradually become worse in quality or condition.",
+    "incorrectExplanations": {
+      "improve": "'Improve' means to get better, the opposite of deteriorate.",
+      "stabilize": "'Stabilize' means to become steady, not to worsen.",
+      "flourish": "'Flourish' means to thrive or prosper, the opposite of deteriorate."
+    }
+  },
+  {
+    "id": "vocab_8",
+    "word": "elaborate",
+    "polishTranslation": "szczegółowy",
+    "definition": "Involving many carefully arranged parts; detailed",
+    "pronunciation": "/ɪˈlæbərət/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The wedding had an elaborate decoration scheme.",
+    "quizSentence": "The architect presented an _____ plan with intricate details.",
+    "options": ["elaborate", "simple", "basic", "minimal"],
+    "correctExplanation": "'Elaborate' means complex, detailed, and carefully planned or designed.",
+    "incorrectExplanations": {
+      "simple": "'Simple' means uncomplicated, the opposite of elaborate.",
+      "basic": "'Basic' means fundamental or minimal, not elaborate.",
+      "minimal": "'Minimal' means very little or simple, the opposite of elaborate."
+    }
+  },
+  {
+    "id": "vocab_9",
+    "word": "fluctuate",
+    "polishTranslation": "wahać się",
+    "definition": "To rise and fall irregularly in number or amount",
+    "pronunciation": "/ˈflʌktʃueɪt/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "Stock prices fluctuate throughout the trading day.",
+    "quizSentence": "The temperature tends to _____ dramatically in desert regions.",
+    "options": ["fluctuate", "stabilize", "remain", "freeze"],
+    "correctExplanation": "'Fluctuate' means to vary or change continuously, going up and down irregularly.",
+    "incorrectExplanations": {
+      "stabilize": "'Stabilize' means to become steady, the opposite of fluctuate.",
+      "remain": "'Remain' means to stay the same, not to change like fluctuate.",
+      "freeze": "'Freeze' means to become fixed, not to vary like fluctuate."
+    }
+  },
+  {
+    "id": "vocab_10",
+    "word": "genuine",
+    "polishTranslation": "prawdziwy",
+    "definition": "Truly what it is said to be; authentic",
+    "pronunciation": "/ˈdʒenjuɪn/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "She showed genuine concern for her friend's problems.",
+    "quizSentence": "The antique dealer confirmed that the painting was _____.",
+    "options": ["genuine", "fake", "artificial", "counterfeit"],
+    "correctExplanation": "'Genuine' means real, authentic, and not fake or artificial.",
+    "incorrectExplanations": {
+      "fake": "'Fake' means not real or authentic, the opposite of genuine.",
+      "artificial": "'Artificial' means made by humans, not natural or genuine.",
+      "counterfeit": "'Counterfeit' means fraudulent copy, the opposite of genuine."
+    }
+  },
+  {
+    "id": "vocab_11",
+    "word": "hypothesis",
+    "polishTranslation": "hipoteza",
+    "definition": "A proposed explanation that can be tested",
+    "pronunciation": "/haɪˈpɑːθəsɪs/",
     "difficulty": "hard",
     "category": "nouns",
-    "example": "Finding that old book was pure serendipity - it contained exactly the information I needed.",
-    "quizSentence": "Meeting my future business partner at the coffee shop was complete _____.",
-    "options": ["serendipity", "disaster", "planning", "coincidence"],
-    "correctExplanation": "'Serendipity' refers to fortunate accidents or pleasant surprises. Meeting a future business partner unexpectedly would be a happy, beneficial chance occurrence.",
+    "example": "The scientist formed a hypothesis about climate change.",
+    "quizSentence": "Before conducting the experiment, researchers must develop a clear _____.",
+    "options": ["hypothesis", "conclusion", "result", "proof"],
+    "correctExplanation": "'Hypothesis' is a testable prediction or explanation proposed before research begins.",
     "incorrectExplanations": {
-      "disaster": "'Disaster' means a sudden event causing great damage. Meeting a future business partner would be positive, not disastrous.",
-      "planning": "'Planning' involves deliberate preparation. The context suggests this was an unexpected, unplanned meeting.",
-      "coincidence": "While 'coincidence' fits partially, 'serendipity' specifically emphasizes the fortunate, beneficial nature of the chance meeting."
+      "conclusion": "'Conclusion' comes after research, not before like a hypothesis.",
+      "result": "'Result' is what you get from an experiment, not what you start with.",
+      "proof": "'Proof' is evidence that confirms something, not an initial prediction."
     }
   },
   {
-    "id": "vocab_003",
-    "word": "eloquent",
-    "polishTranslation": "elokwentny",
-    "definition": "Fluent or persuasive in speaking or writing",
-    "pronunciation": "/ˈɛləkwənt/",
+    "id": "vocab_12",
+    "word": "inevitable",
+    "polishTranslation": "nieunikniony",
+    "definition": "Certain to happen; unavoidable",
+    "pronunciation": "/ɪˈnevɪtəbl/",
     "difficulty": "medium",
     "category": "adjectives",
-    "example": "Her eloquent speech moved the entire audience to tears.",
-    "quizSentence": "The lawyer's _____ argument convinced the jury of his client's innocence.",
-    "options": ["eloquent", "confused", "brief", "loud"],
-    "correctExplanation": "'Eloquent' means persuasive and well-expressed. An eloquent argument would be compelling enough to convince a jury.",
+    "example": "Change is inevitable in any growing company.",
+    "quizSentence": "With such poor planning, failure seemed _____.",
+    "options": ["inevitable", "avoidable", "unlikely", "preventable"],
+    "correctExplanation": "'Inevitable' means certain to happen and impossible to prevent or avoid.",
     "incorrectExplanations": {
-      "confused": "'Confused' means unclear or muddled. A confused argument would not convince anyone, especially not a jury.",
-      "brief": "'Brief' means short in duration. While brevity can be good, it doesn't necessarily convince people - persuasiveness does.",
-      "loud": "'Loud' refers to volume. Speaking loudly doesn't make an argument convincing; clear, persuasive reasoning does."
+      "avoidable": "'Avoidable' means can be prevented, the opposite of inevitable.",
+      "unlikely": "'Unlikely' means probably won't happen, not certain like inevitable.",
+      "preventable": "'Preventable' means can be stopped, the opposite of inevitable."
     }
   },
   {
-    "id": "vocab_004",
-    "word": "ambiguous",
-    "polishTranslation": "niejednoznaczny",
-    "definition": "Open to more than one interpretation; having a double meaning",
-    "pronunciation": "/æmˈbɪɡjuəs/",
+    "id": "vocab_13",
+    "word": "justify",
+    "polishTranslation": "uzasadniać",
+    "definition": "To show or prove to be right or reasonable",
+    "pronunciation": "/ˈdʒʌstɪfaɪ/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "Can you justify spending so much money on this project?",
+    "quizSentence": "The manager had to _____ the budget increase to the board.",
+    "options": ["justify", "hide", "ignore", "reject"],
+    "correctExplanation": "'Justify' means to provide good reasons or evidence to support a decision or action.",
+    "incorrectExplanations": {
+      "hide": "'Hide' means to conceal, not to provide reasons or explanations.",
+      "ignore": "'Ignore' means to pay no attention to, not to explain or defend.",
+      "reject": "'Reject' means to refuse or dismiss, not to provide justification."
+    }
+  },
+  {
+    "id": "vocab_14",
+    "word": "legitimate",
+    "polishTranslation": "legalny",
+    "definition": "Conforming to the law or rules; valid",
+    "pronunciation": "/lɪˈdʒɪtɪmət/",
     "difficulty": "medium",
     "category": "adjectives",
-    "example": "The contract's ambiguous wording led to a legal dispute.",
-    "quizSentence": "The politician's _____ statement left voters unsure of his actual position.",
-    "options": ["ambiguous", "clear", "honest", "detailed"],
-    "correctExplanation": "'Ambiguous' means unclear or open to multiple interpretations. If voters are unsure of the politician's position, the statement must have been unclear.",
+    "example": "She had legitimate concerns about the safety procedures.",
+    "quizSentence": "The court ruled that his claim was _____ and should be honored.",
+    "options": ["legitimate", "fraudulent", "illegal", "invalid"],
+    "correctExplanation": "'Legitimate' means lawful, valid, and in accordance with established rules or standards.",
     "incorrectExplanations": {
-      "clear": "'Clear' means easy to understand. A clear statement wouldn't leave voters unsure.",
-      "honest": "'Honest' means truthful. Even honest statements can be clear about one's position.",
-      "detailed": "'Detailed' means thorough. A detailed statement would typically clarify, not confuse, one's position."
+      "fraudulent": "'Fraudulent' means dishonest or illegal, the opposite of legitimate.",
+      "illegal": "'Illegal' means against the law, the opposite of legitimate.",
+      "invalid": "'Invalid' means not legally or officially acceptable, unlike legitimate."
     }
   },
   {
-    "id": "vocab_005",
+    "id": "vocab_15",
+    "word": "manipulate",
+    "polishTranslation": "manipulować",
+    "definition": "To handle or control in a skillful manner, often unfairly",
+    "pronunciation": "/məˈnɪpjuleɪt/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "He tried to manipulate the data to support his theory.",
+    "quizSentence": "Some politicians _____ public opinion through misleading advertisements.",
+    "options": ["manipulate", "inform", "educate", "clarify"],
+    "correctExplanation": "'Manipulate' means to influence or control cleverly or unscrupulously for one's advantage.",
+    "incorrectExplanations": {
+      "inform": "'Inform' means to give factual information, not to control or influence unfairly.",
+      "educate": "'Educate' means to teach or provide knowledge, not to manipulate.",
+      "clarify": "'Clarify' means to make clear or easier to understand, not to manipulate."
+    }
+  },
+  {
+    "id": "vocab_16",
+    "word": "negligent",
+    "polishTranslation": "niedbały",
+    "definition": "Failing to take proper care in doing something",
+    "pronunciation": "/ˈneɡlɪdʒənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The doctor was found negligent in treating the patient.",
+    "quizSentence": "The company was sued for being _____ in maintaining safety standards.",
+    "options": ["negligent", "careful", "diligent", "thorough"],
+    "correctExplanation": "'Negligent' means careless or failing to exercise proper care and attention.",
+    "incorrectExplanations": {
+      "careful": "'Careful' means taking care to avoid harm, the opposite of negligent.",
+      "diligent": "'Diligent' means showing care and effort, the opposite of negligent.",
+      "thorough": "'Thorough' means complete and careful, the opposite of negligent."
+    }
+  },
+  {
+    "id": "vocab_17",
+    "word": "obsolete",
+    "polishTranslation": "przestarzały",
+    "definition": "No longer produced or used; out of date",
+    "pronunciation": "/ˌɑːbsəˈliːt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "Typewriters became obsolete with the invention of computers.",
+    "quizSentence": "Many traditional manufacturing methods are now _____ due to automation.",
+    "options": ["obsolete", "modern", "current", "advanced"],
+    "correctExplanation": "'Obsolete' means no longer in use or outdated, replaced by newer alternatives.",
+    "incorrectExplanations": {
+      "modern": "'Modern' means current or up-to-date, the opposite of obsolete.",
+      "current": "'Current' means happening now or up-to-date, not obsolete.",
+      "advanced": "'Advanced' means highly developed or sophisticated, not obsolete."
+    }
+  },
+  {
+    "id": "vocab_18",
+    "word": "persistent",
+    "polishTranslation": "wytrwały",
+    "definition": "Continuing firmly despite difficulty or opposition",
+    "pronunciation": "/pərˈsɪstənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "Her persistent efforts finally paid off with a promotion.",
+    "quizSentence": "Despite many rejections, he remained _____ in pursuing his dream.",
+    "options": ["persistent", "discouraged", "defeated", "hopeless"],
+    "correctExplanation": "'Persistent' means continuing steadily despite problems, obstacles, or discouragement.",
+    "incorrectExplanations": {
+      "discouraged": "'Discouraged' means having lost confidence, the opposite of persistent.",
+      "defeated": "'Defeated' means having given up or lost, not persistent.",
+      "hopeless": "'Hopeless' means without hope, the opposite of being persistent."
+    }
+  },
+  {
+    "id": "vocab_19",
+    "word": "reluctant",
+    "polishTranslation": "niechętny",
+    "definition": "Unwilling and hesitant; disinclined",
+    "pronunciation": "/rɪˈlʌktənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "She was reluctant to share her personal information.",
+    "quizSentence": "The witness was _____ to testify in court due to safety concerns.",
+    "options": ["reluctant", "eager", "willing", "enthusiastic"],
+    "correctExplanation": "'Reluctant' means unwilling or hesitant to do something, showing resistance.",
+    "incorrectExplanations": {
+      "eager": "'Eager' means very willing and excited, the opposite of reluctant.",
+      "willing": "'Willing' means ready and happy to do something, not reluctant.",
+      "enthusiastic": "'Enthusiastic' means very interested and excited, the opposite of reluctant."
+    }
+  },
+  {
+    "id": "vocab_20",
+    "word": "substantial",
+    "polishTranslation": "znaczny",
+    "definition": "Of considerable importance, size, or worth",
+    "pronunciation": "/səbˈstænʃəl/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The company made a substantial profit this quarter.",
+    "quizSentence": "The renovation will require a _____ investment of time and money.",
+    "options": ["substantial", "minor", "trivial", "insignificant"],
+    "correctExplanation": "'Substantial' means large in amount, extent, or intensity; considerable or significant.",
+    "incorrectExplanations": {
+      "minor": "'Minor' means small or unimportant, the opposite of substantial.",
+      "trivial": "'Trivial' means of little importance, the opposite of substantial.",
+      "insignificant": "'Insignificant' means too small to be worth consideration, not substantial."
+    }
+  },
+  {
+    "id": "vocab_21",
+    "word": "terminate",
+    "polishTranslation": "zakończyć",
+    "definition": "To bring to an end; to stop",
+    "pronunciation": "/ˈtɜːrmɪneɪt/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "The company decided to terminate the contract early.",
+    "quizSentence": "The manager had to _____ the employee for repeated violations.",
+    "options": ["terminate", "hire", "promote", "reward"],
+    "correctExplanation": "'Terminate' means to end something, especially employment or a contract.",
+    "incorrectExplanations": {
+      "hire": "'Hire' means to employ someone, the opposite of terminate.",
+      "promote": "'Promote' means to advance someone to a higher position, not to end employment.",
+      "reward": "'Reward' means to give something in recognition, not to end employment."
+    }
+  },
+  {
+    "id": "vocab_22",
+    "word": "unanimous",
+    "polishTranslation": "jednomyślny",
+    "definition": "Fully in agreement; shared by all",
+    "pronunciation": "/juˈnænɪməs/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "The jury reached a unanimous verdict of guilty.",
+    "quizSentence": "The board made a _____ decision to approve the merger.",
+    "options": ["unanimous", "divided", "conflicted", "disputed"],
+    "correctExplanation": "'Unanimous' means everyone is in complete agreement with no dissenting voices.",
+    "incorrectExplanations": {
+      "divided": "'Divided' means split in opinion, the opposite of unanimous.",
+      "conflicted": "'Conflicted' means having opposing views, not unanimous.",
+      "disputed": "'Disputed' means disagreed about, the opposite of unanimous."
+    }
+  },
+  {
+    "id": "vocab_23",
+    "word": "versatile",
+    "polishTranslation": "wszechstronny",
+    "definition": "Able to adapt or be adapted to many different functions",
+    "pronunciation": "/ˈvɜːrsətl/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "She's a versatile actress who can play any role.",
+    "quizSentence": "This _____ tool can be used for multiple purposes in the workshop.",
+    "options": ["versatile", "limited", "specialized", "restricted"],
+    "correctExplanation": "'Versatile' means having many uses or applications; adaptable to different situations.",
+    "incorrectExplanations": {
+      "limited": "'Limited' means restricted in scope, the opposite of versatile.",
+      "specialized": "'Specialized' means designed for one specific purpose, not versatile.",
+      "restricted": "'Restricted' means limited in use, the opposite of versatile."
+    }
+  },
+  {
+    "id": "vocab_24",
+    "word": "withdraw",
+    "polishTranslation": "wycofać",
+    "definition": "To remove or take away; to retreat",
+    "pronunciation": "/wɪðˈdrɔː/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "He decided to withdraw his application for the job.",
+    "quizSentence": "The army was forced to _____ from the occupied territory.",
+    "options": ["withdraw", "advance", "attack", "invade"],
+    "correctExplanation": "'Withdraw' means to pull back, remove, or retreat from a position or situation.",
+    "incorrectExplanations": {
+      "advance": "'Advance' means to move forward, the opposite of withdraw.",
+      "attack": "'Attack' means to assault or move aggressively, not to withdraw.",
+      "invade": "'Invade' means to enter forcefully, the opposite of withdraw."
+    }
+  },
+  {
+    "id": "vocab_25",
+    "word": "acknowledge",
+    "polishTranslation": "uznać",
+    "definition": "To accept or admit the existence or truth of something",
+    "pronunciation": "/əkˈnɑːlɪdʒ/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "The company acknowledged its mistake in the public statement.",
+    "quizSentence": "It's important to _____ your errors and learn from them.",
+    "options": ["acknowledge", "deny", "ignore", "hide"],
+    "correctExplanation": "'Acknowledge' means to recognize, accept, or admit the truth or existence of something.",
+    "incorrectExplanations": {
+      "deny": "'Deny' means to refuse to admit, the opposite of acknowledge.",
+      "ignore": "'Ignore' means to pay no attention to, not to acknowledge.",
+      "hide": "'Hide' means to conceal, the opposite of acknowledging."
+    }
+  },
+  {
+    "id": "vocab_26",
+    "word": "comprehend",
+    "polishTranslation": "rozumieć",
+    "definition": "To understand something completely",
+    "pronunciation": "/ˌkɑːmprɪˈhend/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "It's difficult to comprehend the vastness of space.",
+    "quizSentence": "Some students struggle to _____ complex mathematical concepts.",
+    "options": ["comprehend", "ignore", "memorize", "repeat"],
+    "correctExplanation": "'Comprehend' means to understand fully or grasp the meaning of something.",
+    "incorrectExplanations": {
+      "ignore": "'Ignore' means to pay no attention to, not to understand.",
+      "memorize": "'Memorize' means to learn by heart, not necessarily to understand.",
+      "repeat": "'Repeat' means to say again, not to understand."
+    }
+  },
+  {
+    "id": "vocab_27",
+    "word": "diligent",
+    "polishTranslation": "pilny",
+    "definition": "Having or showing care and effort in work",
+    "pronunciation": "/ˈdɪlɪdʒənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "She was a diligent student who always completed her homework.",
+    "quizSentence": "The _____ worker was promoted for his consistent effort.",
+    "options": ["diligent", "lazy", "careless", "negligent"],
+    "correctExplanation": "'Diligent' means hardworking and showing careful attention to tasks.",
+    "incorrectExplanations": {
+      "lazy": "'Lazy' means unwilling to work, the opposite of diligent.",
+      "careless": "'Careless' means not paying attention, the opposite of diligent.",
+      "negligent": "'Negligent' means failing to take proper care, the opposite of diligent."
+    }
+  },
+  {
+    "id": "vocab_28",
+    "word": "enhance",
+    "polishTranslation": "poprawić",
+    "definition": "To improve the quality or value of something",
+    "pronunciation": "/ɪnˈhæns/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "The new software will enhance productivity.",
+    "quizSentence": "Regular exercise can _____ your overall health and well-being.",
+    "options": ["enhance", "damage", "worsen", "reduce"],
+    "correctExplanation": "'Enhance' means to improve or increase the quality, value, or attractiveness of something.",
+    "incorrectExplanations": {
+      "damage": "'Damage' means to harm or impair, the opposite of enhance.",
+      "worsen": "'Worsen' means to make worse, the opposite of enhance.",
+      "reduce": "'Reduce' means to make smaller or less, not to improve like enhance."
+    }
+  },
+  {
+    "id": "vocab_29",
+    "word": "formidable",
+    "polishTranslation": "groźny",
+    "definition": "Inspiring fear or respect through being impressively powerful",
+    "pronunciation": "/ˈfɔːrmɪdəbl/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "The mountain presented a formidable challenge to climbers.",
+    "quizSentence": "The team faced a _____ opponent in the championship game.",
+    "options": ["formidable", "weak", "easy", "harmless"],
+    "correctExplanation": "'Formidable' means inspiring fear or respect due to being impressively large, powerful, or capable.",
+    "incorrectExplanations": {
+      "weak": "'Weak' means lacking strength, the opposite of formidable.",
+      "easy": "'Easy' means not difficult, the opposite of formidable.",
+      "harmless": "'Harmless' means not able to cause damage, the opposite of formidable."
+    }
+  },
+  {
+    "id": "vocab_30",
+    "word": "gratitude",
+    "polishTranslation": "wdzięczność",
+    "definition": "The quality of being thankful",
+    "pronunciation": "/ˈɡrætɪtuːd/",
+    "difficulty": "medium",
+    "category": "nouns",
+    "example": "She expressed her gratitude for all the help she received.",
+    "quizSentence": "He felt deep _____ toward his mentor for years of guidance.",
+    "options": ["gratitude", "resentment", "anger", "indifference"],
+    "correctExplanation": "'Gratitude' is the feeling of appreciation and thankfulness for kindness received.",
+    "incorrectExplanations": {
+      "resentment": "'Resentment' is bitter indignation, the opposite of gratitude.",
+      "anger": "'Anger' is a strong feeling of displeasure, not gratitude.",
+      "indifference": "'Indifference' is lack of interest or concern, not gratitude."
+    }
+  },
+  {
+    "id": "vocab_31",
+    "word": "hierarchy",
+    "polishTranslation": "hierarchia",
+    "definition": "A system of organization with ranks or levels",
+    "pronunciation": "/ˈhaɪərɑːrki/",
+    "difficulty": "hard",
+    "category": "nouns",
+    "example": "The company has a clear hierarchy from CEO to entry-level employees.",
+    "quizSentence": "In the military, there is a strict _____ of command.",
+    "options": ["hierarchy", "equality", "chaos", "democracy"],
+    "correctExplanation": "'Hierarchy' is a system where people or things are ranked according to status or authority.",
+    "incorrectExplanations": {
+      "equality": "'Equality' means all are the same level, the opposite of hierarchy.",
+      "chaos": "'Chaos' means complete disorder, the opposite of organized hierarchy.",
+      "democracy": "'Democracy' emphasizes equal participation, not hierarchical structure."
+    }
+  },
+  {
+    "id": "vocab_32",
+    "word": "implement",
+    "polishTranslation": "wdrożyć",
+    "definition": "To put a decision or plan into effect",
+    "pronunciation": "/ˈɪmplɪment/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "The school will implement new safety measures next month.",
+    "quizSentence": "The government plans to _____ stricter environmental regulations.",
+    "options": ["implement", "ignore", "cancel", "postpone"],
+    "correctExplanation": "'Implement' means to carry out or put into action a plan, policy, or decision.",
+    "incorrectExplanations": {
+      "ignore": "'Ignore' means to pay no attention to, not to put into action.",
+      "cancel": "'Cancel' means to call off or abandon, the opposite of implement.",
+      "postpone": "'Postpone' means to delay, not to put into immediate action."
+    }
+  },
+  {
+    "id": "vocab_33",
+    "word": "jeopardize",
+    "polishTranslation": "narazić na niebezpieczeństwo",
+    "definition": "To put something or someone in danger of loss or harm",
+    "pronunciation": "/ˈdʒepərdaɪz/",
+    "difficulty": "hard",
+    "category": "verbs",
+    "example": "His reckless behavior could jeopardize the entire mission.",
+    "quizSentence": "One mistake could _____ years of careful planning.",
+    "options": ["jeopardize", "protect", "secure", "guarantee"],
+    "correctExplanation": "'Jeopardize' means to put at risk or endanger something valuable or important.",
+    "incorrectExplanations": {
+      "protect": "'Protect' means to keep safe, the opposite of jeopardize.",
+      "secure": "'Secure' means to make safe, the opposite of jeopardize.",
+      "guarantee": "'Guarantee' means to ensure safety, the opposite of jeopardize."
+    }
+  },
+  {
+    "id": "vocab_34",
+    "word": "kinetic",
+    "polishTranslation": "kinetyczny",
+    "definition": "Relating to or resulting from motion",
+    "pronunciation": "/kɪˈnetɪk/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "The kinetic energy of the moving car was tremendous.",
+    "quizSentence": "Wind turbines convert _____ energy from moving air into electricity.",
+    "options": ["kinetic", "static", "potential", "thermal"],
+    "correctExplanation": "'Kinetic' refers to energy or force associated with motion or movement.",
+    "incorrectExplanations": {
+      "static": "'Static' means not moving, the opposite of kinetic.",
+      "potential": "'Potential' energy is stored energy, not energy from motion.",
+      "thermal": "'Thermal' relates to heat, not motion like kinetic."
+    }
+  },
+  {
+    "id": "vocab_35",
+    "word": "lucrative",
+    "polishTranslation": "lukratywny",
+    "definition": "Producing a great deal of profit",
+    "pronunciation": "/ˈluːkrətɪv/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "Real estate can be a lucrative investment.",
+    "quizSentence": "The new business venture proved to be highly _____.",
+    "options": ["lucrative", "unprofitable", "costly", "expensive"],
+    "correctExplanation": "'Lucrative' means producing wealth or profit; financially rewarding.",
+    "incorrectExplanations": {
+      "unprofitable": "'Unprofitable' means not making money, the opposite of lucrative.",
+      "costly": "'Costly' means expensive to buy or maintain, not necessarily profitable.",
+      "expensive": "'Expensive' means costing a lot, which doesn't indicate profitability."
+    }
+  },
+  {
+    "id": "vocab_36",
+    "word": "meticulous",
+    "polishTranslation": "skrupulatny",
+    "definition": "Showing great attention to detail; very careful",
+    "pronunciation": "/məˈtɪkjələs/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The surgeon was meticulous in preparing for the operation.",
+    "quizSentence": "Her _____ research led to groundbreaking discoveries.",
+    "options": ["meticulous", "careless", "hasty", "sloppy"],
+    "correctExplanation": "'Meticulous' means extremely careful and precise, paying attention to every detail.",
+    "incorrectExplanations": {
+      "careless": "'Careless' means not paying attention, the opposite of meticulous.",
+      "hasty": "'Hasty' means done quickly without care, the opposite of meticulous.",
+      "sloppy": "'Sloppy' means careless and untidy, the opposite of meticulous."
+    }
+  },
+  {
+    "id": "vocab_37",
+    "word": "notorious",
+    "polishTranslation": "notoryczny",
+    "definition": "Famous or well-known, typically for some bad quality",
+    "pronunciation": "/noʊˈtɔːriəs/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The city is notorious for its heavy traffic.",
+    "quizSentence": "The restaurant became _____ for its poor service.",
+    "options": ["notorious", "celebrated", "praised", "admired"],
+    "correctExplanation": "'Notorious' means widely known for something negative or undesirable.",
+    "incorrectExplanations": {
+      "celebrated": "'Celebrated' means famous for good reasons, not bad like notorious.",
+      "praised": "'Praised' means complimented, the opposite of being notorious.",
+      "admired": "'Admired' means respected, the opposite of being notorious."
+    }
+  },
+  {
+    "id": "vocab_38",
+    "word": "optimize",
+    "polishTranslation": "optymalizować",
+    "definition": "To make the best or most effective use of something",
+    "pronunciation": "/ˈɑːptɪmaɪz/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "We need to optimize our website for better performance.",
+    "quizSentence": "The company hired experts to _____ their production process.",
+    "options": ["optimize", "worsen", "complicate", "neglect"],
+    "correctExplanation": "'Optimize' means to make something as effective, perfect, or functional as possible.",
+    "incorrectExplanations": {
+      "worsen": "'Worsen' means to make worse, the opposite of optimize.",
+      "complicate": "'Complicate' means to make more difficult, not to improve like optimize.",
+      "neglect": "'Neglect' means to pay no attention to, the opposite of optimize."
+    }
+  },
+  {
+    "id": "vocab_39",
+    "word": "paradox",
+    "polishTranslation": "paradoks",
+    "definition": "A seemingly contradictory statement that may be true",
+    "pronunciation": "/ˈpærədɑːks/",
+    "difficulty": "hard",
+    "category": "nouns",
+    "example": "It's a paradox that the more choices we have, the harder it is to decide.",
+    "quizSentence": "The _____ of modern life is that technology meant to save time often wastes it.",
+    "options": ["paradox", "certainty", "simplicity", "clarity"],
+    "correctExplanation": "'Paradox' is a statement or situation that seems contradictory but may reveal a deeper truth.",
+    "incorrectExplanations": {
+      "certainty": "'Certainty' means being sure, not contradictory like a paradox.",
+      "simplicity": "'Simplicity' means being uncomplicated, not contradictory like a paradox.",
+      "clarity": "'Clarity' means being clear, not confusing like a paradox."
+    }
+  },
+  {
+    "id": "vocab_40",
+    "word": "quintessential",
+    "polishTranslation": "kwintesencjalny",
+    "definition": "Representing the most perfect example of a quality",
+    "pronunciation": "/ˌkwɪntɪˈsenʃəl/",
+    "difficulty": "hard",
+    "category": "adjectives",
+    "example": "Pizza is the quintessential Italian food.",
+    "quizSentence": "Shakespeare is considered the _____ English playwright.",
+    "options": ["quintessential", "mediocre", "average", "inferior"],
+    "correctExplanation": "'Quintessential' means representing the most typical or perfect example of something.",
+    "incorrectExplanations": {
+      "mediocre": "'Mediocre' means of moderate quality, not the perfect example.",
+      "average": "'Average' means typical but not exceptional, unlike quintessential.",
+      "inferior": "'Inferior' means lower in quality, the opposite of quintessential."
+    }
+  },
+  {
+    "id": "vocab_41",
     "word": "resilient",
     "polishTranslation": "odporny",
     "definition": "Able to withstand or recover quickly from difficult conditions",
-    "pronunciation": "/rɪˈzɪljənt/",
+    "pronunciation": "/rɪˈzɪliənt/",
     "difficulty": "medium",
     "category": "adjectives",
-    "example": "The resilient community rebuilt stronger after the natural disaster.",
-    "quizSentence": "Despite facing many setbacks, she remained _____ and never gave up.",
-    "options": ["resilient", "fragile", "angry", "confused"],
-    "correctExplanation": "'Resilient' means able to recover from difficulties. Someone who doesn't give up despite setbacks shows resilience.",
+    "example": "Children are remarkably resilient after traumatic experiences.",
+    "quizSentence": "The _____ economy recovered quickly from the recession.",
+    "options": ["resilient", "fragile", "weak", "vulnerable"],
+    "correctExplanation": "'Resilient' means able to bounce back or recover from setbacks and challenges.",
     "incorrectExplanations": {
-      "fragile": "'Fragile' means easily broken. Someone fragile would likely give up when facing setbacks.",
-      "angry": "'Angry' means feeling displeasure. While setbacks might cause anger, the context emphasizes persistence, not emotion.",
-      "confused": "'Confused' means uncertain. The context suggests determination and strength, not confusion."
+      "fragile": "'Fragile' means easily broken, the opposite of resilient.",
+      "weak": "'Weak' means lacking strength, the opposite of resilient.",
+      "vulnerable": "'Vulnerable' means easily hurt, the opposite of resilient."
     }
   },
   {
-    "id": "vocab_006",
-    "word": "meticulous",
-    "polishTranslation": "skrupulatny",
-    "definition": "Showing great attention to detail; very careful and precise",
-    "pronunciation": "/məˈtɪkjələs/",
-    "difficulty": "hard",
-    "category": "adjectives",
-    "example": "The surgeon's meticulous technique ensured a successful operation.",
-    "quizSentence": "Her _____ research methodology produced highly accurate results.",
-    "options": ["meticulous", "careless", "quick", "expensive"],
-    "correctExplanation": "'Meticulous' means extremely careful and detailed. Meticulous research would naturally produce accurate results.",
+    "id": "vocab_42",
+    "word": "scrutinize",
+    "polishTranslation": "badać dokładnie",
+    "definition": "To examine something very carefully",
+    "pronunciation": "/ˈskruːtənaɪz/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "The auditor will scrutinize all financial records.",
+    "quizSentence": "Journalists _____ every detail of the politician's statement.",
+    "options": ["scrutinize", "ignore", "overlook", "dismiss"],
+    "correctExplanation": "'Scrutinize' means to examine closely and critically with careful attention to detail.",
     "incorrectExplanations": {
-      "careless": "'Careless' means not paying attention to detail. Careless research would likely produce inaccurate results.",
-      "quick": "'Quick' means fast. Speed alone doesn't guarantee accuracy - careful attention to detail does.",
-      "expensive": "'Expensive' means costly. While good research might be expensive, cost doesn't determine accuracy."
+      "ignore": "'Ignore' means to pay no attention to, the opposite of scrutinize.",
+      "overlook": "'Overlook' means to miss or fail to notice, not to examine carefully.",
+      "dismiss": "'Dismiss' means to reject without consideration, not to examine."
     }
   },
   {
-    "id": "vocab_007",
-    "word": "ephemeral",
-    "polishTranslation": "ulotny",
-    "definition": "Lasting for a very short time",
-    "pronunciation": "/ɪˈfɛmərəl/",
-    "difficulty": "hard",
-    "category": "adjectives",
-    "example": "The beauty of cherry blossoms is ephemeral, lasting only a few weeks.",
-    "quizSentence": "Social media trends are often _____, popular one day and forgotten the next.",
-    "options": ["ephemeral", "permanent", "expensive", "complicated"],
-    "correctExplanation": "'Ephemeral' means short-lived. Trends that are popular one day and forgotten the next are temporary and fleeting.",
-    "incorrectExplanations": {
-      "permanent": "'Permanent' means lasting forever. This contradicts the idea of being forgotten quickly.",
-      "expensive": "'Expensive' means costly. The context is about duration, not cost.",
-      "complicated": "'Complicated' means complex. The context focuses on how long trends last, not their complexity."
-    }
-  },
-  {
-    "id": "vocab_008",
-    "word": "ubiquitous",
-    "polishTranslation": "wszechobecny",
-    "definition": "Present, appearing, or found everywhere",
-    "pronunciation": "/juˈbɪkwɪtəs/",
-    "difficulty": "hard",
-    "category": "adjectives",
-    "example": "Smartphones have become ubiquitous in modern society.",
-    "quizSentence": "Coffee shops are _____ in this city - you can find one on every corner.",
-    "options": ["ubiquitous", "rare", "expensive", "new"],
-    "correctExplanation": "'Ubiquitous' means present everywhere. If coffee shops are on every corner, they are found everywhere in the city.",
-    "incorrectExplanations": {
-      "rare": "'Rare' means uncommon. If shops are on every corner, they're definitely not rare.",
-      "expensive": "'Expensive' means costly. The context is about location frequency, not price.",
-      "new": "'New' means recently created. The context is about how widespread they are, not their age."
-    }
-  },
-  {
-    "id": "vocab_009",
-    "word": "pragmatic",
-    "polishTranslation": "pragmatyczny",
-    "definition": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations",
-    "pronunciation": "/præɡˈmætɪk/",
+    "id": "vocab_43",
+    "word": "tangible",
+    "polishTranslation": "namacalny",
+    "definition": "Clear and definite; able to be touched or felt",
+    "pronunciation": "/ˈtændʒəbl/",
     "difficulty": "medium",
     "category": "adjectives",
-    "example": "She took a pragmatic approach to solving the budget crisis.",
-    "quizSentence": "Rather than pursuing idealistic goals, the manager chose a _____ solution that would actually work.",
-    "options": ["pragmatic", "romantic", "expensive", "complicated"],
-    "correctExplanation": "'Pragmatic' means practical and realistic. Choosing something that 'would actually work' over idealistic goals shows pragmatic thinking.",
+    "example": "The new policy produced tangible improvements in productivity.",
+    "quizSentence": "We need _____ evidence, not just theories and speculation.",
+    "options": ["tangible", "abstract", "theoretical", "imaginary"],
+    "correctExplanation": "'Tangible' means real, concrete, and perceptible; something you can touch or measure.",
     "incorrectExplanations": {
-      "romantic": "'Romantic' relates to idealized love or beauty. This contradicts the practical, realistic approach described.",
-      "expensive": "'Expensive' means costly. The context contrasts idealism with practicality, not cost considerations.",
-      "complicated": "'Complicated' means complex. Pragmatic solutions are often simple and straightforward, not complicated."
+      "abstract": "'Abstract' means theoretical or conceptual, the opposite of tangible.",
+      "theoretical": "'Theoretical' means based on theory, not concrete like tangible.",
+      "imaginary": "'Imaginary' means not real, the opposite of tangible."
     }
   },
   {
-    "id": "vocab_010",
+    "id": "vocab_44",
+    "word": "undermine",
+    "polishTranslation": "podkopywać",
+    "definition": "To weaken or damage something gradually",
+    "pronunciation": "/ˌʌndərˈmaɪn/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "Constant criticism can undermine a person's confidence.",
+    "quizSentence": "The scandal could _____ public trust in the government.",
+    "options": ["undermine", "strengthen", "support", "reinforce"],
+    "correctExplanation": "'Undermine' means to gradually weaken or erode the foundation or effectiveness of something.",
+    "incorrectExplanations": {
+      "strengthen": "'Strengthen' means to make stronger, the opposite of undermine.",
+      "support": "'Support' means to help or reinforce, the opposite of undermine.",
+      "reinforce": "'Reinforce' means to strengthen, the opposite of undermine."
+    }
+  },
+  {
+    "id": "vocab_45",
     "word": "vindicate",
     "polishTranslation": "usprawiedliwić",
-    "definition": "Clear someone of blame or suspicion; show or prove to be right, reasonable, or justified",
+    "definition": "To clear someone of blame or suspicion",
     "pronunciation": "/ˈvɪndɪkeɪt/",
     "difficulty": "hard",
     "category": "verbs",
-    "example": "The DNA evidence vindicated the wrongly accused man.",
-    "quizSentence": "The investigation results will _____ her claims about the company's misconduct.",
-    "options": ["vindicate", "ignore", "complicate", "hide"],
-    "correctExplanation": "'Vindicate' means to prove someone right or clear them of wrongdoing. Investigation results that support her claims would vindicate them.",
+    "example": "New evidence vindicated the accused man.",
+    "quizSentence": "The investigation will _____ her reputation and prove her innocence.",
+    "options": ["vindicate", "condemn", "accuse", "blame"],
+    "correctExplanation": "'Vindicate' means to prove that someone is right or not guilty of wrongdoing.",
     "incorrectExplanations": {
-      "ignore": "'Ignore' means to pay no attention to. Investigation results wouldn't ignore claims - they would address them.",
-      "complicate": "'Complicate' means to make more complex. Results either support or refute claims; they don't typically complicate them.",
-      "hide": "'Hide' means to conceal. Investigation results are meant to reveal truth, not hide it."
+      "condemn": "'Condemn' means to declare guilty, the opposite of vindicate.",
+      "accuse": "'Accuse' means to charge with wrongdoing, the opposite of vindicate.",
+      "blame": "'Blame' means to hold responsible for fault, the opposite of vindicate."
     }
   },
   {
-    "id": "vocab_011",
-    "word": "tenacious",
-    "polishTranslation": "wytrwały",
-    "definition": "Tending to keep a firm hold of something; clinging or adhering closely",
-    "pronunciation": "/təˈneɪʃəs/",
+    "id": "vocab_46",
+    "word": "wary",
+    "polishTranslation": "ostrożny",
+    "definition": "Feeling or showing caution about possible dangers",
+    "pronunciation": "/ˈweri/",
     "difficulty": "medium",
     "category": "adjectives",
-    "example": "Her tenacious grip on the rope saved her from falling.",
-    "quizSentence": "The detective's _____ investigation finally uncovered the truth.",
-    "options": ["tenacious", "lazy", "brief", "careless"],
-    "correctExplanation": "'Tenacious' means persistent and determined. A tenacious investigation would be thorough and persistent enough to uncover the truth.",
+    "example": "She was wary of strangers offering help.",
+    "quizSentence": "Investors are _____ of putting money into risky ventures.",
+    "options": ["wary", "trusting", "careless", "reckless"],
+    "correctExplanation": "'Wary' means cautious and alert to potential problems or dangers.",
     "incorrectExplanations": {
-      "lazy": "'Lazy' means unwilling to work. A lazy investigation wouldn't uncover much of anything.",
-      "brief": "'Brief' means short. A brief investigation might miss important details needed to find the truth.",
-      "careless": "'Careless' means not paying attention. A careless investigation would likely miss crucial evidence."
+      "trusting": "'Trusting' means having confidence in others, the opposite of wary.",
+      "careless": "'Careless' means not paying attention to danger, the opposite of wary.",
+      "reckless": "'Reckless' means acting without caution, the opposite of wary."
     }
   },
   {
-    "id": "vocab_012",
+    "id": "vocab_47",
+    "word": "zealous",
+    "polishTranslation": "gorliwy",
+    "definition": "Having great energy or enthusiasm for a cause",
+    "pronunciation": "/ˈzeləs/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "She was zealous in her efforts to protect the environment.",
+    "quizSentence": "The _____ activist campaigned tirelessly for human rights.",
+    "options": ["zealous", "indifferent", "apathetic", "lazy"],
+    "correctExplanation": "'Zealous' means showing passionate commitment and enthusiasm for something.",
+    "incorrectExplanations": {
+      "indifferent": "'Indifferent' means showing no interest, the opposite of zealous.",
+      "apathetic": "'Apathetic' means lacking enthusiasm, the opposite of zealous.",
+      "lazy": "'Lazy' means unwilling to work, the opposite of zealous."
+    }
+  },
+  {
+    "id": "vocab_48",
+    "word": "ambiguous",
+    "polishTranslation": "dwuznaczny",
+    "definition": "Open to more than one interpretation; unclear",
+    "pronunciation": "/æmˈbɪɡjuəs/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The contract language was ambiguous and confusing.",
+    "quizSentence": "His _____ response left everyone wondering what he really meant.",
+    "options": ["ambiguous", "clear", "precise", "definite"],
+    "correctExplanation": "'Ambiguous' means having multiple possible meanings or being unclear in meaning.",
+    "incorrectExplanations": {
+      "clear": "'Clear' means easy to understand, the opposite of ambiguous.",
+      "precise": "'Precise' means exact and accurate, the opposite of ambiguous.",
+      "definite": "'Definite' means certain and clear, the opposite of ambiguous."
+    }
+  },
+  {
+    "id": "vocab_49",
+    "word": "benevolent",
+    "polishTranslation": "życzliwy",
+    "definition": "Well-meaning and kindly",
+    "pronunciation": "/bəˈnevələnt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The benevolent donor gave millions to charity.",
+    "quizSentence": "The _____ king was loved by all his subjects.",
+    "options": ["benevolent", "malicious", "cruel", "hostile"],
+    "correctExplanation": "'Benevolent' means showing kindness and goodwill toward others.",
+    "incorrectExplanations": {
+      "malicious": "'Malicious' means intending to harm, the opposite of benevolent.",
+      "cruel": "'Cruel' means causing pain, the opposite of benevolent.",
+      "hostile": "'Hostile' means unfriendly or aggressive, the opposite of benevolent."
+    }
+  },
+  {
+    "id": "vocab_50",
     "word": "candid",
     "polishTranslation": "szczery",
     "definition": "Truthful and straightforward; frank",
     "pronunciation": "/ˈkændɪd/",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "category": "adjectives",
     "example": "I appreciate your candid feedback about my presentation.",
-    "quizSentence": "The CEO gave a _____ interview about the company's financial struggles.",
-    "options": ["candid", "dishonest", "vague", "confusing"],
-    "correctExplanation": "'Candid' means honest and direct. A candid interview would openly discuss the company's struggles without hiding anything.",
+    "quizSentence": "The CEO gave a _____ interview about the company's problems.",
+    "options": ["candid", "deceptive", "dishonest", "evasive"],
+    "correctExplanation": "'Candid' means honest, open, and straightforward in expression.",
     "incorrectExplanations": {
-      "dishonest": "'Dishonest' means not truthful. This would contradict openly discussing struggles.",
-      "vague": "'Vague' means unclear. A vague interview wouldn't effectively communicate about specific struggles.",
-      "confusing": "'Confusing' means hard to understand. The context suggests clear, direct communication."
+      "deceptive": "'Deceptive' means misleading, the opposite of candid.",
+      "dishonest": "'Dishonest' means not truthful, the opposite of candid.",
+      "evasive": "'Evasive' means avoiding direct answers, the opposite of candid."
     }
   },
   {
-    "id": "vocab_013",
-    "word": "scrutinize",
-    "polishTranslation": "analizować",
-    "definition": "Examine or inspect closely and thoroughly",
-    "pronunciation": "/ˈskrutəˌnaɪz/",
+    "id": "vocab_51",
+    "word": "discrepancy",
+    "polishTranslation": "rozbieżność",
+    "definition": "A lack of compatibility or similarity between two things",
+    "pronunciation": "/dɪˈskrepənsi/",
     "difficulty": "medium",
-    "category": "verbs",
-    "example": "The auditor will scrutinize every financial record.",
-    "quizSentence": "The teacher will _____ each essay for plagiarism before grading.",
-    "options": ["scrutinize", "ignore", "skim", "hide"],
-    "correctExplanation": "'Scrutinize' means to examine carefully and thoroughly. Checking for plagiarism requires careful, detailed examination.",
+    "category": "nouns",
+    "example": "There's a discrepancy between the two reports.",
+    "quizSentence": "The accountant found a _____ in the financial records.",
+    "options": ["discrepancy", "similarity", "agreement", "consistency"],
+    "correctExplanation": "'Discrepancy' means a difference or inconsistency between things that should be the same.",
     "incorrectExplanations": {
-      "ignore": "'Ignore' means to pay no attention to. Ignoring essays wouldn't help detect plagiarism.",
-      "skim": "'Skim' means to read quickly. Skimming wouldn't be thorough enough to catch plagiarism.",
-      "hide": "'Hide' means to conceal. Teachers examine essays, they don't hide them."
+      "similarity": "'Similarity' means being alike, the opposite of discrepancy.",
+      "agreement": "'Agreement' means harmony or consistency, the opposite of discrepancy.",
+      "consistency": "'Consistency' means being uniform, the opposite of discrepancy."
     }
   },
   {
-    "id": "vocab_014",
-    "word": "benevolent",
-    "polishTranslation": "życzliwy",
-    "definition": "Well meaning and kindly",
-    "pronunciation": "/bəˈnɛvələnt/",
+    "id": "vocab_52",
+    "word": "eloquent",
+    "polishTranslation": "elokwentny",
+    "definition": "Fluent and persuasive in speaking or writing",
+    "pronunciation": "/ˈeləkwənt/",
     "difficulty": "medium",
     "category": "adjectives",
-    "example": "The benevolent donor funded scholarships for underprivileged students.",
-    "quizSentence": "The _____ king was loved by his people for his generous policies.",
-    "options": ["benevolent", "cruel", "selfish", "indifferent"],
-    "correctExplanation": "'Benevolent' means kind and generous. A benevolent king would have generous policies and be loved by his people.",
+    "example": "The lawyer gave an eloquent closing argument.",
+    "quizSentence": "Her _____ speech moved the audience to tears.",
+    "options": ["eloquent", "inarticulate", "clumsy", "awkward"],
+    "correctExplanation": "'Eloquent' means expressing oneself clearly and persuasively with fluent speech.",
     "incorrectExplanations": {
-      "cruel": "'Cruel' means causing pain or suffering. A cruel king wouldn't be loved or have generous policies.",
-      "selfish": "'Selfish' means caring only about oneself. A selfish king wouldn't have generous policies for his people.",
-      "indifferent": "'Indifferent' means showing no care. An indifferent king wouldn't be particularly loved or generous."
+      "inarticulate": "'Inarticulate' means unable to express oneself clearly, the opposite of eloquent.",
+      "clumsy": "'Clumsy' means awkward in speech, the opposite of eloquent.",
+      "awkward": "'Awkward' means lacking grace in expression, the opposite of eloquent."
     }
   },
   {
-    "id": "vocab_015",
-    "word": "ostentatious",
-    "polishTranslation": "ostentacyjny",
-    "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice",
-    "pronunciation": "/ˌɑstənˈteɪʃəs/",
+    "id": "vocab_53",
+    "word": "feasible",
+    "polishTranslation": "wykonalny",
+    "definition": "Possible to do easily or conveniently",
+    "pronunciation": "/ˈfiːzəbl/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The plan seems feasible with our current budget.",
+    "quizSentence": "Is it _____ to complete the project by next month?",
+    "options": ["feasible", "impossible", "impractical", "unrealistic"],
+    "correctExplanation": "'Feasible' means capable of being done or carried out successfully.",
+    "incorrectExplanations": {
+      "impossible": "'Impossible' means cannot be done, the opposite of feasible.",
+      "impractical": "'Impractical' means not sensible to do, the opposite of feasible.",
+      "unrealistic": "'Unrealistic' means not achievable, the opposite of feasible."
+    }
+  },
+  {
+    "id": "vocab_54",
+    "word": "gregarious",
+    "polishTranslation": "towarzyski",
+    "definition": "Fond of the company of others; sociable",
+    "pronunciation": "/ɡrɪˈɡeriəs/",
     "difficulty": "hard",
     "category": "adjectives",
-    "example": "His ostentatious display of wealth made others uncomfortable.",
-    "quizSentence": "The _____ mansion with gold fixtures seemed designed purely to show off.",
-    "options": ["ostentatious", "modest", "hidden", "practical"],
-    "correctExplanation": "'Ostentatious' means showy and designed to impress. A mansion with gold fixtures designed to show off is ostentatious.",
+    "example": "She's very gregarious and loves meeting new people.",
+    "quizSentence": "The _____ child made friends easily at school.",
+    "options": ["gregarious", "antisocial", "shy", "introverted"],
+    "correctExplanation": "'Gregarious' means enjoying the company of others and being sociable.",
     "incorrectExplanations": {
-      "modest": "'Modest' means humble and not showy. This contradicts the gold fixtures and showing off.",
-      "hidden": "'Hidden' means concealed. A mansion designed to show off wouldn't be hidden.",
-      "practical": "'Practical' means useful and sensible. Gold fixtures for showing off aren't practical."
+      "antisocial": "'Antisocial' means avoiding others, the opposite of gregarious.",
+      "shy": "'Shy' means timid around others, the opposite of gregarious.",
+      "introverted": "'Introverted' means preferring solitude, the opposite of gregarious."
+    }
+  },
+  {
+    "id": "vocab_55",
+    "word": "hinder",
+    "polishTranslation": "przeszkadzać",
+    "definition": "To create difficulties resulting in delay or obstruction",
+    "pronunciation": "/ˈhɪndər/",
+    "difficulty": "medium",
+    "category": "verbs",
+    "example": "Bad weather will hinder our travel plans.",
+    "quizSentence": "Lack of funding could _____ the research project.",
+    "options": ["hinder", "help", "assist", "facilitate"],
+    "correctExplanation": "'Hinder' means to obstruct or delay the progress of something.",
+    "incorrectExplanations": {
+      "help": "'Help' means to assist, the opposite of hinder.",
+      "assist": "'Assist' means to aid, the opposite of hinder.",
+      "facilitate": "'Facilitate' means to make easier, the opposite of hinder."
+    }
+  },
+  {
+    "id": "vocab_56",
+    "word": "imminent",
+    "polishTranslation": "nieuchronny",
+    "definition": "About to happen; impending",
+    "pronunciation": "/ˈɪmɪnənt/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The storm's arrival is imminent.",
+    "quizSentence": "The company announced that layoffs were _____.",
+    "options": ["imminent", "distant", "unlikely", "postponed"],
+    "correctExplanation": "'Imminent' means about to occur very soon or in the immediate future.",
+    "incorrectExplanations": {
+      "distant": "'Distant' means far away in time, the opposite of imminent.",
+      "unlikely": "'Unlikely' means probably won't happen, not about to happen like imminent.",
+      "postponed": "'Postponed' means delayed, the opposite of imminent."
+    }
+  },
+  {
+    "id": "vocab_57",
+    "word": "jovial",
+    "polishTranslation": "jowialny",
+    "definition": "Cheerful and friendly",
+    "pronunciation": "/ˈdʒoʊviəl/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The jovial host made everyone feel welcome.",
+    "quizSentence": "His _____ personality brightened everyone's day.",
+    "options": ["jovial", "gloomy", "sullen", "morose"],
+    "correctExplanation": "'Jovial' means having a cheerful and friendly disposition.",
+    "incorrectExplanations": {
+      "gloomy": "'Gloomy' means sad or depressed, the opposite of jovial.",
+      "sullen": "'Sullen' means bad-tempered, the opposite of jovial.",
+      "morose": "'Morose' means ill-tempered, the opposite of jovial."
+    }
+  },
+  {
+    "id": "vocab_58",
+    "word": "kinship",
+    "polishTranslation": "pokrewieństwo",
+    "definition": "Blood relationship or a feeling of being close to someone",
+    "pronunciation": "/ˈkɪnʃɪp/",
+    "difficulty": "medium",
+    "category": "nouns",
+    "example": "She felt a kinship with other artists.",
+    "quizSentence": "The shared experience created a strong _____ among the survivors.",
+    "options": ["kinship", "hostility", "alienation", "distance"],
+    "correctExplanation": "'Kinship' means a close connection or relationship, often based on shared experiences.",
+    "incorrectExplanations": {
+      "hostility": "'Hostility' means unfriendliness, the opposite of kinship.",
+      "alienation": "'Alienation' means feeling isolated, the opposite of kinship.",
+      "distance": "'Distance' means separation, the opposite of kinship."
+    }
+  },
+  {
+    "id": "vocab_59",
+    "word": "lethargic",
+    "polishTranslation": "letargiczny",
+    "definition": "Affected by lethargy; sluggish and apathetic",
+    "pronunciation": "/ləˈθɑːrdʒɪk/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "The hot weather made everyone feel lethargic.",
+    "quizSentence": "After the big meal, he felt _____ and wanted to nap.",
+    "options": ["lethargic", "energetic", "active", "vigorous"],
+    "correctExplanation": "'Lethargic' means lacking energy and enthusiasm; sluggish.",
+    "incorrectExplanations": {
+      "energetic": "'Energetic' means full of energy, the opposite of lethargic.",
+      "active": "'Active' means engaged in activity, the opposite of lethargic.",
+      "vigorous": "'Vigorous' means strong and active, the opposite of lethargic."
+    }
+  },
+  {
+    "id": "vocab_60",
+    "word": "mundane",
+    "polishTranslation": "przyziemny",
+    "definition": "Lacking interest or excitement; dull",
+    "pronunciation": "/mʌnˈdeɪn/",
+    "difficulty": "medium",
+    "category": "adjectives",
+    "example": "He was tired of his mundane daily routine.",
+    "quizSentence": "The _____ tasks of data entry bored the employees.",
+    "options": ["mundane", "exciting", "thrilling", "fascinating"],
+    "correctExplanation": "'Mundane' means ordinary, routine, and lacking in interest or excitement.",
+    "incorrectExplanations": {
+      "exciting": "'Exciting' means causing enthusiasm, the opposite of mundane.",
+      "thrilling": "'Thrilling' means very exciting, the opposite of mundane.",
+      "fascinating": "'Fascinating' means extremely interesting, the opposite of mundane."
     }
   }
 ]

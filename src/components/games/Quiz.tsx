@@ -118,7 +118,7 @@ export default function Quiz({ vocabulary }: GameProps) {
       showProgressBar={false}
     >
       <div className="w-full max-w-2xl mx-auto text-center">
-        <div className="flex justify-between items-center mb-8">
+        <div className="flex justify-between items-center mb-8 flex-col md:flex-row">
           <button
             onClick={handleReturnHome}
             className="flex items-center gap-2 px-4 py-2 text-pink-600 hover:text-pink-800 hover:bg-pink-50 rounded-lg transition-colors"

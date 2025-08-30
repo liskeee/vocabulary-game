@@ -134,7 +134,7 @@ export default function Flashcard({ vocabulary }: GameProps) {
       showProgressBar={false}
     >
       <div className="w-full max-w-2xl mx-auto text-center">
-        <div className="flex justify-between items-center mb-8">
+        <div className="flex justify-between items-center mb-8 flex-col md:flex-row">
           <button
             onClick={handleReturnHome}
             className="flex items-center gap-2 px-4 py-2 text-pink-600 hover:text-pink-800 hover:bg-pink-50 rounded-lg transition-colors"
@@ -249,10 +249,10 @@ export default function Flashcard({ vocabulary }: GameProps) {
           </div>
         </div>
 
-        <div className="flex justify-center space-x-4">
+        <div className="flex justify-center gap-4 flex-col md:flex-row align-center">
           <button
             onClick={handleFlip}
-            className="flex-1 max-w-xs flex items-center justify-center rounded-full h-16 px-8 bg-pink-500 text-white text-xl font-bold shadow-lg hover:bg-pink-600 transition-all focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-pink-300"
+            className="flex items-center justify-center rounded-full h-16 px-8 bg-pink-500 text-white text-xl font-bold shadow-lg hover:bg-pink-600 transition-all focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-pink-300"
           >
             {isFlipped ? "Flip Back" : "Reveal"}
           </button>
@@ -260,7 +260,7 @@ export default function Flashcard({ vocabulary }: GameProps) {
           {isFlipped && (
             <button
               onClick={handleNext}
-              className="flex-1 max-w-xs flex items-center justify-center gap-2 rounded-full h-16 px-8 bg-pink-500 text-white text-xl font-bold shadow-lg hover:bg-pink-600 transition-all focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-pink-300"
+              className="flex items-center justify-center gap-2 rounded-full h-16 px-8 bg-pink-500 text-white text-xl font-bold shadow-lg hover:bg-pink-600 transition-all focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-pink-300"
             >
               Next Card
               <svg
