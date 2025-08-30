@@ -1,5 +1,5 @@
-import { useState, useCallback } from 'react';
-import { GameState, QuizAnswer, FlashcardProgress, UserStats, GameSession } from '@/types/game';
+import { useCallback } from 'react';
+import { GameState, UserStats, GameSession } from '@/types/game';
 import { useLocalStorage } from './useLocalStorage';
 
 export function useGameState(gameType: 'quiz' | 'flashcard') {

@@ -11,7 +11,7 @@ export function useVocabulary() {
     try {
       setVocabulary(vocabularyData as unknown as VocabularyItem[]);
       setLoading(false);
-    } catch (err) {
+    } catch {
       setError('Failed to load vocabulary data');
       setLoading(false);
     }
