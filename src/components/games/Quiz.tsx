@@ -3,7 +3,9 @@
 import { useState, useEffect } from 'react';
 import { VocabularyItem, GameProps } from '@/types/game';
 import { useGameState } from '@/hooks/useGameState';
+import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { playPronunciation } from '@/utils/speech';
+import { getRandomVocabularyItem, addToRecentItems } from '@/utils/randomizer';
 import GameContainer from './GameContainer';
 
 export default function Quiz({ vocabulary }: GameProps) {
@@ -12,8 +14,7 @@ export default function Quiz({ vocabulary }: GameProps) {
   const [showExplanation, setShowExplanation] = useState(false);
   const [currentItem, setCurrentItem] = useState<VocabularyItem | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
-  const [recentItems, setRecentItems] = useState<string[]>([]);
-  const [currentIndex, setCurrentIndex] = useState(0);
+  const [currentItemId, setCurrentItemId] = useLocalStorage<string>('quiz-current-item', '');
 
   useEffect(() => {
     if (vocabulary.length > 0 && !gameState.isComplete && gameState.totalQuestions === 0) {
@@ -21,35 +22,32 @@ export default function Quiz({ vocabulary }: GameProps) {
     }
   }, [vocabulary.length, startGame, gameState.isComplete, gameState.totalQuestions]);
 
-  useEffect(() => {
-    if (vocabulary.length > 0) {
-      const getRandomItem = () => {
-        if (vocabulary.length === 0) return null;
-        
-        // If we have fewer than 5 items total, just pick randomly
-        if (vocabulary.length <= 5) {
-          return vocabulary[Math.floor(Math.random() * vocabulary.length)];
-        }
-        
-        // Filter out recently used items
-        const availableItems = vocabulary.filter(item => !recentItems.includes(item.id));
-        
-        // If all items have been used recently, reset the recent list
-        if (availableItems.length === 0) {
-          setRecentItems([]);
-          return vocabulary[Math.floor(Math.random() * vocabulary.length)];
-        }
-        
-        return availableItems[Math.floor(Math.random() * availableItems.length)];
-      };
 
-      const randomItem = getRandomItem();
-      setCurrentItem(randomItem);
-      setSelectedAnswer('');
-      setIsAnswered(false);
-      setShowExplanation(false);
+  useEffect(() => {
+    if (vocabulary.length > 0 && !currentItem) {
+      // Try to restore saved item first
+      if (currentItemId) {
+        const savedItem = vocabulary.find(item => item.id === currentItemId);
+        if (savedItem) {
+          setCurrentItem(savedItem);
+          setSelectedAnswer('');
+          setIsAnswered(false);
+          setShowExplanation(false);
+          return;
+        }
+      }
+      
+      // Get random item if no saved item or saved item not found
+      const randomItem = getRandomVocabularyItem(vocabulary);
+      if (randomItem) {
+        setCurrentItem(randomItem);
+        setCurrentItemId(randomItem.id);
+        setSelectedAnswer('');
+        setIsAnswered(false);
+        setShowExplanation(false);
+      }
     }
-  }, [vocabulary, currentIndex, recentItems]);
+  }, [vocabulary, currentItem, currentItemId, setCurrentItemId]);
 
   const handleAnswerSelect = (answer: string) => {
     if (isAnswered) return;
@@ -64,17 +62,18 @@ export default function Quiz({ vocabulary }: GameProps) {
 
 
   const handleNextQuestion = () => {
-    // Add current item to recent items list
     if (currentItem) {
-      setRecentItems(prev => {
-        const newRecent = [currentItem.id, ...prev];
-        // Keep only the last 5 items
-        return newRecent.slice(0, 5);
-      });
+      addToRecentItems(currentItem.id);
     }
-    
-    // Move to next random question
-    setCurrentIndex(prev => prev + 1);
+
+    const randomItem = getRandomVocabularyItem(vocabulary);
+    if (randomItem) {
+      setCurrentItem(randomItem);
+      setCurrentItemId(randomItem.id);
+      setSelectedAnswer('');
+      setIsAnswered(false);
+      setShowExplanation(false);
+    }
   };
 
   const handleReturnHome = () => {
@@ -90,7 +89,7 @@ export default function Quiz({ vocabulary }: GameProps) {
       option === currentItem.word
     ) || currentItem.word;
     
-    playPronunciation(correctAnswer);
+    playPronunciation(correctAnswer, currentItem.pronunciation);
   };
 
   if (!currentItem) {
@@ -172,16 +171,16 @@ export default function Quiz({ vocabulary }: GameProps) {
 
           {showExplanation && (
             <div className="mt-8 p-6 rounded-xl border-2 border-dashed border-pink-200 bg-pink-50">
-              <div className="flex items-center gap-3 mb-4">
+              <div className="mb-4">
                 {selectedAnswer === currentItem.word ? (
-                  <div className="flex items-center gap-2 text-green-600">
+                  <div className="flex items-center gap-2 text-green-600 mb-4">
                     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                     <span className="font-semibold text-lg">Correct!</span>
                   </div>
                 ) : (
-                  <div className="flex items-center gap-2 text-red-600">
+                  <div className="flex items-center gap-2 text-red-600 mb-4">
                     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
@@ -194,6 +193,20 @@ export default function Quiz({ vocabulary }: GameProps) {
                 <p className="text-pink-800 font-medium">
                   The correct answer is: <span className="font-bold text-pink-900">&ldquo;{currentItem.word}&rdquo;</span>
                 </p>
+                <div className="flex items-center justify-center gap-3 mt-2">
+                  <p className="text-pink-600 font-mono text-sm">
+                    Pronunciation: {currentItem.pronunciation}
+                  </p>
+                  <button
+                    onClick={handlePlayPronunciation}
+                    className="flex items-center justify-center p-2 bg-pink-100 hover:bg-pink-200 text-pink-600 hover:text-pink-700 rounded-full transition-colors shadow-sm active:scale-95 min-w-[40px] min-h-[40px]"
+                    title="Play pronunciation"
+                  >
+                    <svg fill="currentColor" height="20px" viewBox="0 0 256 256" width="20px">
+                      <path d="M155.51,24.81a8,8,0,0,0-8.42.88L77.25,80H32A16,16,0,0,0,16,96v64a16,16,0,0,0,16,16H77.25l69.84,54.31A8,8,0,0,0,160,224V32A8,8,0,0,0,155.51,24.81ZM32,96H72v64H32ZM144,207.64,88,164.09V91.91l56-43.55Zm54-106.08a40,40,0,0,1,0,52.88,8,8,0,0,1-12-10.58,24,24,0,0,0,0-31.72,8,8,0,0,1,12-10.58ZM248,128a79.9,79.9,0,0,1-20.37,53.34,8,8,0,0,1-11.92-10.67,64,64,0,0,0,0-85.33,8,8,0,1,1,11.92-10.67A79.83,79.83,0,0,1,248,128Z" />
+                    </svg>
+                  </button>
+                </div>
               </div>
               
               <div className="mb-6">
@@ -207,24 +220,14 @@ export default function Quiz({ vocabulary }: GameProps) {
                 </p>
               </div>
               
-              <div className="flex justify-center gap-4">
-                <button
-                  onClick={handlePlayPronunciation}
-                  className="flex items-center gap-2 px-4 py-3 bg-pink-100 hover:bg-pink-200 text-pink-700 font-semibold rounded-lg transition-colors"
-                  title="Play pronunciation of correct word"
-                >
-                  <svg fill="currentColor" height="20px" viewBox="0 0 256 256" width="20px">
-                    <path d="M155.51,24.81a8,8,0,0,0-8.42.88L77.25,80H32A16,16,0,0,0,16,96v64a16,16,0,0,0,16,16H77.25l69.84,54.31A8,8,0,0,0,160,224V32A8,8,0,0,0,155.51,24.81ZM32,96H72v64H32ZM144,207.64,88,164.09V91.91l56-43.55Zm54-106.08a40,40,0,0,1,0,52.88,8,8,0,0,1-12-10.58,24,24,0,0,0,0-31.72,8,8,0,0,1,12-10.58ZM248,128a79.9,79.9,0,0,1-20.37,53.34,8,8,0,0,1-11.92-10.67,64,64,0,0,0,0-85.33,8,8,0,1,1,11.92-10.67A79.83,79.83,0,0,1,248,128Z" />
-                  </svg>
-                  Play
-                </button>
+              <div className="flex justify-center">
                 <button
                   onClick={handleNextQuestion}
-                  className="flex items-center gap-2 px-6 py-3 bg-pink-500 hover:bg-pink-600 text-white font-semibold rounded-lg transition-colors"
+                  className="flex items-center gap-2 px-6 py-3 bg-pink-600 hover:bg-pink-700 text-white font-semibold rounded-lg transition-colors"
                 >
                   Next Question
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                   </svg>
                 </button>
               </div>
