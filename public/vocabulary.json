@@ -2,6 +2,7 @@
   {
     "id": "vocab_001",
     "word": "remarkable",
+    "polishTranslation": "niezwykły",
     "definition": "Worthy of attention; striking or extraordinary",
     "pronunciation": "/rɪˈmɑrkəbəl/",
     "difficulty": "medium",
@@ -19,6 +20,7 @@
   {
     "id": "vocab_002",
     "word": "serendipity",
+    "polishTranslation": "szczęśliwy przypadek",
     "definition": "The occurrence and development of events by chance in a happy or beneficial way",
     "pronunciation": "/ˌsɛrənˈdɪpɪti/",
     "difficulty": "hard",
@@ -36,6 +38,7 @@
   {
     "id": "vocab_003",
     "word": "eloquent",
+    "polishTranslation": "elokwentny",
     "definition": "Fluent or persuasive in speaking or writing",
     "pronunciation": "/ˈɛləkwənt/",
     "difficulty": "medium",
@@ -53,6 +56,7 @@
   {
     "id": "vocab_004",
     "word": "ambiguous",
+    "polishTranslation": "niejednoznaczny",
     "definition": "Open to more than one interpretation; having a double meaning",
     "pronunciation": "/æmˈbɪɡjuəs/",
     "difficulty": "medium",
@@ -70,6 +74,7 @@
   {
     "id": "vocab_005",
     "word": "resilient",
+    "polishTranslation": "odporny",
     "definition": "Able to withstand or recover quickly from difficult conditions",
     "pronunciation": "/rɪˈzɪljənt/",
     "difficulty": "medium",
@@ -87,6 +92,7 @@
   {
     "id": "vocab_006",
     "word": "meticulous",
+    "polishTranslation": "skrupulatny",
     "definition": "Showing great attention to detail; very careful and precise",
     "pronunciation": "/məˈtɪkjələs/",
     "difficulty": "hard",
@@ -104,6 +110,7 @@
   {
     "id": "vocab_007",
     "word": "ephemeral",
+    "polishTranslation": "ulotny",
     "definition": "Lasting for a very short time",
     "pronunciation": "/ɪˈfɛmərəl/",
     "difficulty": "hard",
@@ -121,6 +128,7 @@
   {
     "id": "vocab_008",
     "word": "ubiquitous",
+    "polishTranslation": "wszechobecny",
     "definition": "Present, appearing, or found everywhere",
     "pronunciation": "/juˈbɪkwɪtəs/",
     "difficulty": "hard",
@@ -138,6 +146,7 @@
   {
     "id": "vocab_009",
     "word": "pragmatic",
+    "polishTranslation": "pragmatyczny",
     "definition": "Dealing with things sensibly and realistically in a way that is based on practical rather than idealistic considerations",
     "pronunciation": "/præɡˈmætɪk/",
     "difficulty": "medium",
@@ -155,6 +164,7 @@
   {
     "id": "vocab_010",
     "word": "vindicate",
+    "polishTranslation": "usprawiedliwić",
     "definition": "Clear someone of blame or suspicion; show or prove to be right, reasonable, or justified",
     "pronunciation": "/ˈvɪndɪkeɪt/",
     "difficulty": "hard",
@@ -172,6 +182,7 @@
   {
     "id": "vocab_011",
     "word": "tenacious",
+    "polishTranslation": "wytrwały",
     "definition": "Tending to keep a firm hold of something; clinging or adhering closely",
     "pronunciation": "/təˈneɪʃəs/",
     "difficulty": "medium",
@@ -189,6 +200,7 @@
   {
     "id": "vocab_012",
     "word": "candid",
+    "polishTranslation": "szczery",
     "definition": "Truthful and straightforward; frank",
     "pronunciation": "/ˈkændɪd/",
     "difficulty": "easy",
@@ -206,6 +218,7 @@
   {
     "id": "vocab_013",
     "word": "scrutinize",
+    "polishTranslation": "analizować",
     "definition": "Examine or inspect closely and thoroughly",
     "pronunciation": "/ˈskrutəˌnaɪz/",
     "difficulty": "medium",
@@ -223,6 +236,7 @@
   {
     "id": "vocab_014",
     "word": "benevolent",
+    "polishTranslation": "życzliwy",
     "definition": "Well meaning and kindly",
     "pronunciation": "/bəˈnɛvələnt/",
     "difficulty": "medium",
@@ -240,6 +254,7 @@
   {
     "id": "vocab_015",
     "word": "ostentatious",
+    "polishTranslation": "ostentacyjny",
     "definition": "Characterized by vulgar or pretentious display; designed to impress or attract notice",
     "pronunciation": "/ˌɑstənˈteɪʃəs/",
     "difficulty": "hard",

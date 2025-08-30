@@ -193,6 +193,9 @@ export default function Quiz({ vocabulary }: GameProps) {
                 <p className="text-pink-800 font-medium">
                   The correct answer is: <span className="font-bold text-pink-900">&ldquo;{currentItem.word}&rdquo;</span>
                 </p>
+                <p className="text-pink-700 font-medium mt-1">
+                  Translation: <span className="font-bold text-pink-800">{currentItem.polishTranslation}</span>
+                </p>
                 <div className="flex items-center justify-center gap-3 mt-2">
                   <p className="text-pink-600 font-mono text-sm">
                     Pronunciation: {currentItem.pronunciation}

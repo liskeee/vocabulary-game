@@ -1,6 +1,7 @@
 export interface VocabularyItem {
   id: string;
   word: string;
+  polishTranslation: string;
   definition: string;
   pronunciation: string;
   difficulty: 'easy' | 'medium' | 'hard';

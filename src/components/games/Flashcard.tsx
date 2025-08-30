@@ -191,6 +191,12 @@ export default function Flashcard({ vocabulary }: GameProps) {
                   </h2>
 
                   <div>
+                    <p className="text-pink-600 text-xl font-semibold mb-3">
+                      {backItem?.polishTranslation}
+                    </p>
+                  </div>
+
+                  <div>
                     <h3 className="text-lg font-bold text-gray-900 mb-1">
                       Pronunciation:
                     </h3>
