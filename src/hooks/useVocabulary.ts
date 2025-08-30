@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { VocabularyItem } from '@/types/game';
-import vocabularyData from '@/data/vocabulary.json';
 
 export function useVocabulary() {
   const [vocabulary, setVocabulary] = useState<VocabularyItem[]>([]);
@@ -8,13 +7,22 @@ export function useVocabulary() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    try {
-      setVocabulary(vocabularyData as unknown as VocabularyItem[]);
-      setLoading(false);
-    } catch {
-      setError('Failed to load vocabulary data');
-      setLoading(false);
-    }
+    const loadVocabulary = async () => {
+      try {
+        const response = await fetch('/vocabulary.json');
+        if (!response.ok) {
+          throw new Error('Failed to fetch vocabulary data');
+        }
+        const data = await response.json();
+        setVocabulary(data as VocabularyItem[]);
+        setLoading(false);
+      } catch (err) {
+        setError(err instanceof Error ? err.message : 'Failed to load vocabulary data');
+        setLoading(false);
+      }
+    };
+
+    loadVocabulary();
   }, []);
 
   const getVocabularyByDifficulty = (difficulty: 'easy' | 'medium' | 'hard') => {
